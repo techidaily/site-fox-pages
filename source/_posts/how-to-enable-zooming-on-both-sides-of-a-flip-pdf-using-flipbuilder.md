@@ -1,7 +1,7 @@
 ---
 title: How to Enable Zooming on Both Sides of a Flip PDF Using FlipBuilder
-date: 2024-09-19 18:20:50
-updated: 2024-09-20 12:36:51
+date: 2024-09-14T02:31:43.991Z
+updated: 2024-09-20T04:04:09.513Z
 tags:
   - product
 categories:
@@ -37,11 +37,17 @@ Follow below steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

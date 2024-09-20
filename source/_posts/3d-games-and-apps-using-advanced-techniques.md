@@ -1,7 +1,7 @@
 ---
 title: 3D Games and Apps Using Advanced Techniques
-date: 2024-09-17 18:21:22
-updated: 2024-09-20 12:57:56
+date: 2024-09-13T00:21:37.692Z
+updated: 2024-09-19T23:35:56.266Z
 tags:
   - product
 categories:
@@ -82,6 +82,20 @@ Action Tutorials
 
 ![Mirillis Action! - DirectX 12 game recording finished](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_normal_status.jpg "Action! HUD - recording is finished") 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pause DirectX 12 gameplay recording
 
  Use   **Shift+F9** hotkey during your DirectX 12 game recording to pause recording. Action! HUD will display pause icon. 
@@ -99,6 +113,19 @@ Action Tutorials
  Double click opens Action! video player dedicated for fast video recordings playback. 
 
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_playback_dx12.jpg "Action! player - recording playback") 
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Action! HUD on DirectX 12 games recordings
 
@@ -120,11 +147,25 @@ Action Tutorials
 
 ![Mirillis Action! - Add webcam to DirectX 12 game recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_webcam_dx12.jpg "Action! - recording with webcam") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add custom logos to DirectX 12 gameplay recordings
 
  With Action! you can add a logo or other graphics to your DirectX 12 gameplay recordings. To configure overlay graphics please open Action! Video capture tab, enable **"Overlay graphics"** and select your graphic input file. Set graphics position on the video, run your DirectX 12 game and start recording. 
 
 ![Mirillis Action! - Add logo to DirectX 12 game recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_games_overlay_graphics_settings.jpg "Action! - overlay graphics settings") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## DirectX 12 games recording troubleshooting
 
@@ -139,8 +180,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
