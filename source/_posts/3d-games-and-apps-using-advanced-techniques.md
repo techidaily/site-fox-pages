@@ -1,7 +1,7 @@
 ---
 title: 3D Games and Apps Using Advanced Techniques
-date: 2024-09-13T00:21:37.692Z
-updated: 2024-09-19T23:35:56.266Z
+date: 2024-09-20T22:53:35.424Z
+updated: 2024-09-25T16:54:17.342Z
 tags:
   - product
 categories:
@@ -66,9 +66,23 @@ Action Tutorials
 
 ![Mirillis Action! - DirectX 12 game recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_games_applications_recording_mode.jpg "Select DirectX 12 game recording mode") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, run your DirectX 12 game. Action! HUD appears in the top right corner of your DirectX 12 game window showing current game framerate in blue color. This means that Action! connected to your DirectX 12 game successfully and is ready to start game recording. 
 
 ![Mirillis Action! - Ready to start DirectX 12 video recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_normal_status.jpg "Action! HUD shows it is ready to start DirectX12 recording") 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  DirectX 12 game recording
 
@@ -83,17 +97,10 @@ Action Tutorials
 ![Mirillis Action! - DirectX 12 game recording finished](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_normal_status.jpg "Action! HUD - recording is finished") 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pause DirectX 12 gameplay recording
@@ -114,30 +121,31 @@ Action Tutorials
 
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_playback_dx12.jpg "Action! player - recording playback") 
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Action! HUD on DirectX 12 games recordings
 
  By default Action! HUD is not added to your DirectX 12 game recordings. If you want to include Action! HUD in your DirectX 12 game recording you must disable an option: **"Do not record HUD in games and applications"**. 
 
 ![Mirillis Action! - Settings - Do not record HUD in DirectX 12 games and applications](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_hud_settings.jpg "Action! HUD settings") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Upload your DirectX 12 game recordings to YouTube
 
  With Action! you can easily upload your DirectX 12 game recording to YouTube. Just select your DirectX 12 game recording and use YouTube export button in the bottom of Action! recordings list. Select YouTube HD profile, provide all required information and start your DirectX 12 game clip upload. 
 
 ![Mirillis Action! - Uploading DirectX 12 game recording to YouTube](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_selecting_youtube_hd_profile.jpg "Upload recording to YouTube") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add webcam to your DirectX 12 games recordings
 
@@ -148,10 +156,17 @@ Action Tutorials
 ![Mirillis Action! - Add webcam to DirectX 12 game recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_webcam_dx12.jpg "Action! - recording with webcam") 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add custom logos to DirectX 12 gameplay recordings
@@ -159,13 +174,6 @@ Action Tutorials
  With Action! you can add a logo or other graphics to your DirectX 12 gameplay recordings. To configure overlay graphics please open Action! Video capture tab, enable **"Overlay graphics"** and select your graphic input file. Set graphics position on the video, run your DirectX 12 game and start recording. 
 
 ![Mirillis Action! - Add logo to DirectX 12 game recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_games_overlay_graphics_settings.jpg "Action! - overlay graphics settings") 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## DirectX 12 games recording troubleshooting
 
@@ -187,3 +195,25 @@ Action Tutorials
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-pages.techidaily.com/y1-3/"><u> [ Y_1 = -3 </u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-cutting-edge-performance-in-your-palm-sonys-4k-smartphone/"><u>[New] 2024 Approved Cutting Edge Performance in Your Palm Sony's 4K Smartphone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-leading-screen-recorders-without-performance-delay/"><u>[Updated] 2024 Approved Leading Screen Recorders Without Performance Delay</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-transforming-igtv-with-multi-language-captioning-for-2024/"><u>[Updated] Transforming IGTV with Multi-Language Captioning for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-the-art-of-subtle-sound-enhancements-in-lumafusion/"><u>2024 Approved Perfecting the Art of Subtle Sound Enhancements in Lumafusion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-android-photo-editor-is-pickup-top-for-2024/"><u>Best Android Photo Editor Is PickUp Top for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/capture-the-moment-freezing-frames-in-videos-made-simple-for-2024/"><u>Capture the Moment Freezing Frames in Videos Made Simple for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-the-web-in-full-color-the-best-screen-recorders-reviewed/"><u>Capturing the Web in Full Color The Best Screen Recorders Reviewed</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/creative-tims-elite-ui-dashboard-pro-a-comprehensive-pre-made-crud-interface-tailored-for-laravel-applications/"><u>Creative Tim's Elite UI Dashboard Pro: A Comprehensive, Pre-Made CRUD Interface Tailored for Laravel Applications</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/creative-tims-exclusive-premium-aspnet-themes-and-templates-enhance-your-web-design/"><u>Creative Tim's Exclusive Premium ASP.NET Themes and Templates - Enhance Your Web Design</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/creative-tims-premium-nuxt-black-admin-theme-with-bootstrap-cuarto-for-a-superior-web-experience-free-of-charge/"><u>Creative Tim's Premium Nuxt Black Admin Theme with Bootstrap Cuarto for a Superior Web Experience, Free of Charge!</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/creative-tims-softui-modern-laravel-dashboards-by-updivision/"><u>Creative Tim's SoftUI: Modern Laravel Dashboards by Updivision</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/creative-tims-ultimate-date-picker-a-premium-no-cost-bootstrap-calendar/"><u>Creative Tim's Ultimate Date Picker: A Premium, No-Cost Bootstrap Calendar</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/designed-with-elegance-the-bootstrap-and-jquery-powered-calendar-from-creative-tim/"><u>Designed with Elegance: The Bootstrap and jQuery Powered Calendar From Creative Tim</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/free-nextjs-and-tailwind-css-starter-kit-for-modern-blog-pages-by-creative-tim/"><u>Free NextJS & Tailwind CSS Starter Kit for Modern Blog Pages by Creative Tim</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719353749292-navigate-compatibility-hurdles-with-easy-to-follow-steps/"><u>Navigate Compatibility Hurdles with Easy-to-Follow Steps.</u></a></li>
+</ul></div>
+
