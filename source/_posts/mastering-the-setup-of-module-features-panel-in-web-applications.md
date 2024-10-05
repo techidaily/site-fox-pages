@@ -1,7 +1,7 @@
 ---
 title: Mastering the Setup of Module Features Panel in Web Applications
-date: 2024-09-27T23:15:56.930Z
-updated: 2024-09-29T16:20:02.234Z
+date: 2024-09-30T20:33:33.398Z
+updated: 2024-10-05T17:30:28.988Z
 tags:
   - user-guide
 categories:
@@ -76,10 +76,10 @@ This dialog allows you to select the source file of the currently selected merge
 ![Merge Module Properties dialog](https://cdn.advancedinstaller.com/img/dialog/merge-modules-properties.png "Merge Module Properties dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Source Path
@@ -89,10 +89,10 @@ This field contains the actual path to the source file's location on the hard dr
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Selecting a source file of a different merge module is equivalent to removing the current merge module and adding the new one in the [Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -128,18 +128,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-syncing-your-pre-recording-with-real-time-facebook-broadcasts/"><u>[New] 2024 Approved Syncing Your Pre-Recording with Real-Time Facebook Broadcasts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-enrich-your-screen-time-integrating-facebook-live-into-roku/"><u>[New] In 2024, Enrich Your Screen Time Integrating Facebook LIVE Into Roku</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-strategies-for-effective-360-video-broadcasts-on-fb/"><u>[New] Strategies for Effective 360 Video Broadcasts on FB</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unleash-creative-potential-applying-effects-and-filters-on-zoom/"><u>[Updated] Unleash Creative Potential Applying Effects and Filters on Zoom</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-guide-to-youtube-video-script-creation/"><u>ChatGPT-Powered Guide to YouTube Video Script Creation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/conversational-flow-in-cinematic-storytelling-for-2024/"><u>Conversational Flow in Cinematic Storytelling for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/led-tips-for-adequate-lighting-in-youtube-video-production-for-2024/"><u>Detailed Tips for Adequate Lighting in YouTube Video Production for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/easy-steps-to-retrieve-and-store-bravotube-videos-for-offline-viewing/"><u>Easy Steps to Retrieve and Store BravoTube Videos for Offline Viewing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exporting-youtube-clips-as-prores-format-a-step-by-step-guide-for-mac-and-pc-users/"><u>Exporting YouTube Clips as ProRes Format: A Step-by-Step Guide for Mac & PC Users</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-to-saving-live-streams-of-la-traviata-and-tosca-in-high-quality-mp4-format/"><u>Guide to Saving Live Streams of La Traviata and Tosca in High-Quality MP4 Format</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-convert-and-save-your-favorite-songs-from-kkbox-as-mp3-files-on-pc-or-mac/"><u>Guide: Convert and Save Your Favorite Songs From KKBOX as MP3 Files on PC or Mac</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-downloading-various-video-formats-from-free-it-training-sources/"><u>Guide: Downloading Various Video Formats From Free IT Training Sources</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/master-the-craft-streamlining-your-online-television-recordings/"><u>Master the Craft Streamlining Your Online Television Recordings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unleashing-creativity-with-magix-video-pro-x-for-2024/"><u>[New] Unleashing Creativity with Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-capture-the-past-with-your-camera-roll-snapchat-edition/"><u>[Updated] Capture the Past with Your Camera Roll - Snapchat Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-keep-your-digital-treasures-storing-insta-media-on-iphone/"><u>[Updated] Keep Your Digital Treasures Storing Insta Media on iPhone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pros-verdict-4-superior-fullscreen-capture-applications/"><u>[Updated] Pro's Verdict 4 Superior Fullscreen Capture Applications</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/best-ultimate-top-5-and-phrases-that-promise-value-such-as-effortless-and-most-effective/"><u>Best, Ultimate, Top 5, and Phrases that Promise Value, Such as Effortless and Most Effective.</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comprehensive-apowersoft-gif-tutorial-your-ultimate-users-handbook/"><u>Comprehensive Apowersoft GIF Tutorial: Your Ultimate User's Handbook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-the-ideal-voice-memo-a-step-by-step-methodology-for-2024/"><u>Crafting the Ideal Voice Memo A Step-by-Step Methodology for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-ways-to-recover-lost-imessages-on-your-iphone-a-step-by-step-guide/"><u>Easy Ways to Recover Lost iMessages on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-enable-usb-debugging-on-your-android-device-with-apowersoft-phone-manager/"><u>How to Enable USB Debugging on Your Android Device with Apowersoft Phone Manager</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-iphone-usage-how-to-manipulate-picture-in-picture-on-youtube/"><u>In 2024, Optimize iPhone Usage How to Manipulate Picture-in-Picture on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-transforming-views-into-virtual-winnings-youtube-edition/"><u>In 2024, Transforming Views Into Virtual Winnings YouTube Edition</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/private-discussions-enhancing-engagement-through-personalized-interactions/"><u>Private Discussions: Enhancing Engagement Through Personalized Interactions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsungs-curvy-path-to-excellence-a-deep-dive-into-the-55-ru7300-tv-review/"><u>Samsung's Curvy Path to Excellence: A Deep Dive Into the 55 RU7300 TV Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-steps-to-take-when-your-amazon-echo-appears-disconnected/"><u>Solving the Issue: Steps to Take When Your Amazon Echo Appears Disconnected</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-changing-text-documents-through-the-update-interface/"><u>Step-by-Step Guide to Changing Text Documents Through the Update Interface</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-enjoy-weverse-music-videos-and-concert-footage-on-your-hdtv-setup/"><u>Step-by-Step Guide: Enjoy Weverse Music Videos and Concert Footage on Your HDTV Setup</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-reading-text-messages-on-your-computer-screen/"><u>Step-by-Step Guide: Reading Text Messages on Your Computer Screen</u></a></li>
 </ul></div>
 

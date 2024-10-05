@@ -1,7 +1,7 @@
 ---
 title: "Customize Your Codes with Ease: Exploring the 'Code Swap' Section"
-date: 2024-09-24T06:40:58.159Z
-updated: 2024-09-30T02:30:43.245Z
+date: 2024-09-29T17:56:33.292Z
+updated: 2024-10-05T21:09:53.918Z
 tags:
   - user-guide
 categories:
@@ -85,10 +85,10 @@ This tab enables you to replace certain sections of your script. These replaceme
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Do not use script replacements in large SQL scripts because this will seriously affect the execution time. The workaround is to split the scripts so that replacements are in as few as possible.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new SQL replacement
@@ -96,10 +96,10 @@ This tab enables you to replace certain sections of your script. These replaceme
 Use the \[Add... \] button, the “Add...” context menu item or press the Insert key while the list is focused. The [SQL Script Replacement Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will be displayed allowing you to create a new SQL replacement.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an SQL replacement
@@ -107,16 +107,10 @@ Use the \[Add... \] button, the “Add...” context menu item or press the Inse
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list is selected. The [SQL Script Replacement Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will be displayed allowing you to edit an SQL replacement.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing an SQL replacement
@@ -124,10 +118,10 @@ Use the \[Edit... \] button, the “Edit...” context menu item or press theSpa
 Use the \[Remove \] button, the “Remove” context menu item or press the Delete key while an element from the list is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -168,20 +162,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-illuminated-insights-best-practices-for-nighttime-portraiture/"><u>[New] In 2024, Illuminated Insights Best Practices for Nighttime Portraiture</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-rethink-your-film-love-top-alternative-7/"><u>[New] In 2024, Rethink Your Film Love - Top Alternative #7</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-smart-shopping-top-6-low-cost-action-cams-under-100/"><u>[Updated] Smart Shopping Top 6 Low-Cost ACTION Cams Under $100</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-pro-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 12 Pro Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-to-saving-live-streams-of-la-traviata-and-tosca-in-high-quality-mp4-format/"><u>Guide to Saving Live Streams of La Traviata and Tosca in High-Quality MP4 Format</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-convert-and-save-your-favorite-songs-from-kkbox-as-mp3-files-on-pc-or-mac/"><u>Guide: Convert and Save Your Favorite Songs From KKBOX as MP3 Files on PC or Mac</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-downloading-various-video-formats-from-free-it-training-sources/"><u>Guide: Downloading Various Video Formats From Free IT Training Sources</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-convert-your-spotify-tracks-into-mp3-format-for-compatible-audio-playback/"><u>How to Convert Your Spotify Tracks Into MP3 Format for Compatible Audio Playback</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-efficiently-save-video-content-from-veoh-streaming-service-using-veoh-downloader-compatible-with-macos-and-windows/"><u>How to Efficiently Save Video Content From Veoh Streaming Service Using Veoh Downloader: Compatible with macOS and Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-narzo-n53-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme Narzo N53?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-an-unresponsive-usb-port-in-hp-computers-guide/"><u>How to Repair an Unresponsive USB Port in HP Computers (Guide)</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-save-film-trailers-faster-with-traileraddicts-easy-download-tool/"><u>How to Save Film Trailers Faster with TrailerAddict's Easy Download Tool</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-pfr-rate-for-sluggish-film-speed/"><u>Top PFR Rate for Sluggish Film Speed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-fix-your-driverpowerstatefailure-issue/"><u>Troubleshooting Tips to Fix Your DRIVER_POWER_STATE_FAILURE Issue</u></a></li>
-<li><a href="https://facebook.techidaily.com/unfollow-the-rules-how-to-remove-facebook-clans/"><u>Unfollow the Rules: How to Remove Facebook Clans</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-capture-the-sparkle-insta-worthy-photos-to-inspire-your-audience-for-2024/"><u>[New] Capture the Sparkle Insta-Worthy Photos to Inspire Your Audience for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-pro-iphone-methods-for-spherical-footage/"><u>[New] In 2024, Pro iPhone Methods for Spherical Footage</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-recording-secrets-for-top-notch-audio/"><u>2024 Approved Mastering Recording Secrets for Top-Notch Audio</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comprehensive-apowersoft-gif-tutorial-your-ultimate-users-handbook/"><u>Comprehensive Apowersoft GIF Tutorial: Your Ultimate User's Handbook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-4-tools-to-spot-gpt-powered-texts-in-academics-and-workplaces/"><u>Discover the Best 4 Tools to Spot GPT-Powered Texts in Academics and Workplaces</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easy-steps-to-record-skype-on-both-platforms/"><u>Easy Steps to Record Skype on Both Platforms</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-ways-to-recover-lost-imessages-on-your-iphone-a-step-by-step-guide/"><u>Easy Ways to Recover Lost iMessages on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-enable-usb-debugging-on-your-android-device-with-apowersoft-phone-manager/"><u>How to Enable USB Debugging on Your Android Device with Apowersoft Phone Manager</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-insert-electronic-signatures-into-pdfs-using-simple-techniques/"><u>How To: Insert Electronic Signatures Into PDFs Using Simple Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-your-images-with-the-best-overlay-apps-for-ios-and-android/"><u>Master Your Images with the Best Overlay Apps for iOS & Android</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/microsoft-office-suite-available-on-apple-vision-pro-upon-release-an-in-depth-look-techinsights/"><u>Microsoft Office Suite Available on Apple Vision Pro Upon Release: An In-Depth Look | TechInsights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-launch-hurdles-8-key-steps-to-ensure-smooth-startups-of-hogwarts-legacy/"><u>Overcome Launch Hurdles: 8 Key Steps to Ensure Smooth Startups of Hogwarts Legacy</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/private-discussions-enhancing-engagement-through-personalized-interactions/"><u>Private Discussions: Enhancing Engagement Through Personalized Interactions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/reviving-failing-launches-proven-techniques-to-resuscitate-your-lethal-startup/"><u>Reviving Failing Launches: Proven Techniques to Resuscitate Your 'Lethal' Startup</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/seo-best-practices-mastering-the-art-of-configuring-virtual-directories-online/"><u>SEO Best Practices: Mastering the Art of Configuring Virtual Directories Online</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-changing-text-documents-through-the-update-interface/"><u>Step-by-Step Guide to Changing Text Documents Through the Update Interface</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-enjoy-weverse-music-videos-and-concert-footage-on-your-hdtv-setup/"><u>Step-by-Step Guide: Enjoy Weverse Music Videos and Concert Footage on Your HDTV Setup</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-reading-text-messages-on-your-computer-screen/"><u>Step-by-Step Guide: Reading Text Messages on Your Computer Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo V27e? | Dr.fone</u></a></li>
 </ul></div>
 

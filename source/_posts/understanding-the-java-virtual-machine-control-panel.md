@@ -1,7 +1,7 @@
 ---
 title: Understanding the Java Virtual Machine Control Panel
-date: 2024-09-25T07:19:14.916Z
-updated: 2024-09-29T17:04:51.331Z
+date: 2024-09-29T20:32:03.256Z
+updated: 2024-10-05T21:01:24.399Z
 tags:
   - user-guide
 categories:
@@ -86,19 +86,19 @@ In this page you can set the parameters for the Java Virtual Machine.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All the latest Java Distributions (e.g. _OpenJDK, AdoptOpenJDK,_ etc.) are supported. Our Java Product Launcher supports the _AdoptOpenJDK_ Java distributions only when _AdoptOpenJDK_ is installed withFeatureOracleJavaSoft feature (e.g. usingADDLOCAL=FeatureEnvironment,FeatureJarFileRunWith,FeatureOracleJavaSoft command line switch).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Settings
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### JRE version
@@ -106,13 +106,6 @@ In this page you can set the parameters for the Java Virtual Machine.
 You can specify the minimum and maximum allowed Java Version. Advanced Installer only supports Java 2, which means a minimum JRE version 1.2\. Additionally, in the [Preferred JRE Version Dialog](https://tools.techidaily.com/advancedinstaller/products/), you can edit a list of preferred versions that will be selected if found on the target computer. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)JVM path is searched in the registry and in JAVA\_HOME environment variable.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### JVM parameters
 
@@ -123,10 +116,10 @@ This is an optional field. You can easily specify the JVM parameters. Click on t
 Here you can specify arguments that yourmain method will always receive. These arguments will be appended to the other arguments that may be receive from the system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Virtual Machine Type
@@ -136,6 +129,13 @@ There are two types of virtual machines: client and server. You can choose one o
 * Favor client - Advanced Installer looks for client or server Java Virtual Machine in the JDK or JRE installed on your computer. It returns the Java Virtual Machine with the highest version (client or server). The client version is favored in the sense that the client Java Virtual Machine is looked up first, and if it is found, the search stops. This is the default option for Java Virtual Machine type.
 * Favor server - Advanced Installer looks for server or client Java Virtual Machine and returns the server Java Virtual Machine with the highest version (if it is found). The server version is favored in the sense that the server Java Virtual Machine is looked up first, and if it is found, the search stops, otherwise the client Java Virtual Machine is looked up.
 * Server only - Advanced Installer looks only for the server Java Virtual Machine. If it is not found then the user is prompted to browse a JRE with a valid server Java Virtual Machine.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Virtual Machine Source
 
@@ -165,16 +165,16 @@ Specify the Java Virtual Machine's source.
 
 Specify the location of the file that will contain [Java Products](https://tools.techidaily.com/advancedinstaller/products/)'s output stream. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the \[... \] button to display the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to insert a reference to folders, properties and installtime or runtime environment variables.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Error Stream
 
 Specify the location of the file that will contain [Java Products](https://tools.techidaily.com/advancedinstaller/products/)'s error stream. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the \[... \] button to display the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to insert a reference to folders, properties and installtime or runtime environment variables.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Append Error Stream to File
 
@@ -212,18 +212,24 @@ By default Advanced Installer includes the following items in the Library Path p
 
 If you need to load a library from a different location you have to include it in this list. All values you specify will be placed at the above list's beginning. Use the \[Folder... \],\[Property... \] or \[Env Var... \] button to add a path.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## System Library Path
 
 By adding values to this list, you can add paths to the system's Path environment variable default value when this Java product is launched. This is useful when a library that you are using is trying to link to other libraries. These are searched using the values in the Path system variable. The locations that you add to the Path variable will have the biggest priority. So, if a library is present in more locations then the search algorithm will prefer the location specified in that list. Use the \[Folder... \], \[Property... \] or\[Env Var... \] button to add a path.
 
 The Path system variable's default value will not be changed for other applications.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -263,18 +269,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-perfect-gifs-essential-virtual-meet-scenes-for-2024/"><u>[New] Perfect GIFs Essential Virtual Meet Scenes for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-create-captivating-entrance-scenes-with-flipbuilder-integrate-movies-into-your-web-pages/"><u>1. 'Create Captivating Entrance Scenes with FlipBuilder: Integrate Movies Into Your Web Pages'</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-easily-access-and-print-your-favorite-pages-from-a-digital-flipbook-on-flipbuildercom/"><u>1. Easily Access and Print Your Favorite Pages From a Digital Flipbook on FlipBuilder.com</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-the-8-best-timers-for-iphoneandroid-users/"><u>2024 Approved Mastering Instagram The 8 Best Timers for iPhone/Android Users</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/advanced-flip-techniques-unveiled-comprehensive-tutorials-and-resources-on-flipbuilder-your-go-to-image-editing-hub/"><u>Advanced Flip Techniques Unveiled: Comprehensive Tutorials & Resources on FlipBuilder - Your Go-To Image Editing Hub</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/convert-pdf-to-flipbooks-easily-using-flip-builder-design-and-edit-page-turning-books-instantly/"><u>Convert PDF to Flipbooks Easily Using Flip Builder – Design and Edit Page-Turning Books Instantly</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-strategies-for-properly-aligning-your-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>Effective Strategies for Properly Aligning Your eBooks with FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-ai-essential-chatgpt-techniques-for-time-mastery/"><u>Harnessing AI: Essential ChatGPT Techniques for Time Mastery</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-12-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 12 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-process-of-deleting-voice-components-from-mp4-media-for-2024/"><u>New The Process of Deleting Voice Components From MP4 Media for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/prevent-washed-out-iphone-hd-videos-with-effective-premiere-pro-techniques/"><u>Prevent Washed-Out iPhone HD Videos with Effective Premiere Pro Techniques</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-rated-cable-modems-for-fast-internet/"><u>Top-Rated Cable Modems for Fast Internet</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-command-line-conversion-techniques-with-flipbuilder/"><u>Understanding Command-Line Conversion Techniques with FlipBuilder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-precision-content-marketing-for-soaring-social-media-ranks/"><u>[Updated] In 2024, Precision Content Marketing for Soaring Social Media Ranks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-essential-guide-to-asmr-for-sleep-enthusiasts/"><u>[Updated] In 2024, The Essential Guide to ASMR for Sleep Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-green-screen-expertise-with-kinemaster/"><u>[Updated] The Ultimate Guide to Green Screen Expertise with Kinemaster</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/complete-task-confirmation-prompt-enhancing-user-interactions/"><u>Complete Task Confirmation Prompt: Enhancing User Interactions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/custom-action-sequence-design-optimizing-your-unique-user-experience/"><u>Custom Action Sequence Design: Optimizing Your Unique User Experience</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/free-and-favorite-watermark-software-options-for-android-devices-top-choices-unveiled/"><u>Free and Favorite Watermark Software Options for Android Devices: Top Choices Unveiled</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-connecting-your-ipad-to-an-lg-television/"><u>Guide: Connecting Your iPad to an LG Television</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmony-hunt-top-mobile-music-quizzes/"><u>Harmony Hunt: Top Mobile Music Quizzes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ideal-tools-and-websites-for-transforming-your-digital-signatures-canvas-to-a-crisp-clean-white-hue/"><u>Ideal Tools & Websites for Transforming Your Digital Signature's Canvas to a Crisp, Clean White Hue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-x-a-complete-animoji-guide-for-proficient-users-for-2024/"><u>IPhone X A Complete Animoji Guide for Proficient Users for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-a-mesh-system-your-ideal-connectivity-solution/"><u>Is a Mesh System Your Ideal Connectivity Solution?</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/is-the-google-customer-loyalty-scheme-a-genuine-offer-or-a-fraudulent-trap/"><u>Is the Google Customer Loyalty Scheme a Genuine Offer or a Fraudulent Trap?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/master-the-fix-how-to-properly-configure-devices-and-avoid-error-code-1-issues/"><u>Master the Fix: How to Properly Configure Devices & Avoid Error Code 1 Issues</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/simple-strategies-for-setting-up-auto-run-applications-on-your-computer/"><u>Simple Strategies for Setting Up Auto-Run Applications on Your Computer</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-transforming-stereo-audio-into-mono-format/"><u>Step-by-Step Guide: Transforming Stereo Audio Into Mono Format</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-aspnet-configuration-best-practices-and-tips/"><u>Understanding ASP.NET Configuration: Best Practices and Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unleashing-video-potential-steps-to-become-a-staff-pick-favorite/"><u>Unleashing Video Potential Steps to Become a Staff Pick Favorite</u></a></li>
 </ul></div>
 

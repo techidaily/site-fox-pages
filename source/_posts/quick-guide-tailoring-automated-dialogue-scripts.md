@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Tailoring Automated Dialogue Scripts"
-date: 2024-09-28T08:19:54.530Z
-updated: 2024-09-30T12:16:27.748Z
+date: 2024-09-29T18:45:04.688Z
+updated: 2024-10-05T16:44:37.948Z
 tags:
   - user-guide
 categories:
@@ -85,22 +85,29 @@ The dialogs defined here will appear during a patch installation only.
 
  This dialog is briefly displayed at the beginning of the patching process until searches and path resolution actions are performed. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Patch Welcome Dialog (PatchWelcomeDlg)
 
 The first dialog displayed during a patch. It is used to inform the user about the application on which the patch operations will be performed. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ready to Install Dialog (VerifyReadyDlg)
 
 Allows the user to proceed with the patch operation.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Remove this dialog if it has no purpose other than to summarize the previous choices and begin installation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Installation Progress Dialog (ProgressDlg)
 
@@ -109,13 +116,6 @@ The dialog containing the progress bar that shows the evolution.
 ### Installation Complete Dialog (ExitDialog)
 
 The dialog displayed at the end of the patching operation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### License Agreement Dialog (LicenseAgreementDlg)
 
@@ -126,16 +126,10 @@ You can select the Rich Text Format file that contains your license agreement in
 You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the License Agreement text and optionally [enforce the EULA lecture](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ReadMe Dialog (ReadmeDlg)
@@ -146,14 +140,14 @@ You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It is recommended to exclude this dialog in order to reduce the installation steps.
 
-![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In order to modify the layout of these dialogs, all the changes must be made in the upgraded version of the main installation package, prior to creating the patch package from a "Patch Project".
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In order to modify the layout of these dialogs, all the changes must be made in the upgraded version of the main installation package, prior to creating the patch package from a "Patch Project".
 
 #### Did you find this page useful?
 
@@ -188,21 +182,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/iscovering-the-past-best-history-youtubers/"><u>[New] Discovering the Past Best History YouTubers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-flawless-illustration-from-photographs-cross-platform-compatibility/"><u>[New] Flawless Illustration From Photographs Cross-Platform Compatibility</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-professionally-impressive-quick-made-valorant-game-thumbnails/"><u>[New] Professionally Impressive, Quick-Made Valorant Game Thumbnails</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-transformative-strategies-in-creating-engaging-fb-content/"><u>[New] Transformative Strategies in Creating Engaging FB Content</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-direct-conversion-convert-and-upload-mp3-songs-on-youtube/"><u>[Updated] Direct Conversion Convert & Upload MP3 Songs on YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-stardom-in-your-sights-6-must-try-techniques-for-verification-and-growth-for-2024/"><u>[Updated] Instagram Stardom in Your Sights 6 Must-Try Techniques for Verification and Growth for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-redmi-note-12-pro-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Redmi Note 12 Pro 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/access-your-pdf-files-as-text-while-keeping-the-design-intact-explore-our-free-conversion-solution-at-flipbuildercom/"><u>Access Your PDF Files as Text While Keeping the Design Intact - Explore Our Free Conversion Solution at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effortless-conversion-compile-your-flipbook-projects-into-cds-with-flipbuilder/"><u>Effortless Conversion: Compile Your FlipBook Projects Into CDs with FlipBuilder</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enable-in-app-printing-feature-for-your-flipbook-readers-on-flipbuilder/"><u>Enable In-App Printing Feature for Your Flipbook Readers on FlipBuilder</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enhance-your-ebooks-visual-appeal-with-our-flipbuilder-integrate-your-brand-in-the-background/"><u>Enhance Your eBook's Visual Appeal with Our FlipBuilder - Integrate Your Brand in the Background!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/introduce-audible-elements-seamlessly-to-premiere-pro-for-2024/"><u>Introduce Audible Elements Seamlessly to Premiere Pro for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-it-possible-to-navigate-a-flippingbook-pdf-in-reverse-order-similar-to-arabic-text-reading/"><u>Is It Possible to Navigate a FlippingBook PDF in Reverse Order Similar to Arabic Text Reading?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/master-self-publishing-with-ebookwriter-create-interactive-page-turners-from-home-ebookwritercom/"><u>Master Self-Publishing with eBookWriter: Create Interactive Page-Turners From Home [eBookWriter.com]</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-the-art-of-image-editing-prior-to-transforming-images-into-a-flipbook-using-flipbuildercom/"><u>Mastering the Art of Image Editing Prior to Transforming Images Into a Flipbook Using FlipBuilder.com</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sony-s6500-review-latest-improvements/"><u>[New] 2024 Approved Sony S6500 Review Latest Improvements</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unleashing-satirical-genius-in-the-metaverse-how-to-meme-creation-for-2024/"><u>[Updated] Unleashing Satirical Genius in the Metaverse – How-To Meme Creation for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bypass-samsungs-vr-camera-here-are-your-top-alternatives/"><u>2024 Approved Bypass Samsung’s VR Camera - Here Are Your Top Alternatives</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-expert-tips-for-crafting-intricate-photo-mosaics/"><u>2024 Approved Expert Tips for Crafting Intricate Photo Mosaics</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-hot-off-the-tiktok-menu-top-dishes-and-challenges/"><u>2024 Approved Hot Off the TikTok Menu Top Dishes & Challenges</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-effective-social-media-video-promos/"><u>2024 Approved Mastering Effective Social Media Video Promos</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/adjusting-runtime-conditions-comprehensive-controls-dialogue-box-guide/"><u>Adjusting Runtime Conditions: Comprehensive Controls Dialogue Box Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/advanced-techniques-for-selecting-keys-with-a-pick-a-key-dialog-in-applications/"><u>Advanced Techniques for Selecting Keys with a Pick-a-Key Dialog in Applications</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/custom-action-sequence-design-optimizing-your-unique-user-experience/"><u>Custom Action Sequence Design: Optimizing Your Unique User Experience</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortlessly-remove-watermarks-a-comprehensive-tutorial-for-editing-pdf-files/"><u>Effortlessly Remove Watermarks: A Comprehensive Tutorial for Editing PDF Files</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-connecting-your-ipad-to-an-lg-television/"><u>Guide: Connecting Your iPad to an LG Television</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-15-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 15 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-s23-tactical-edition-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy S23 Tactical Edition Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ideal-tools-and-websites-for-transforming-your-digital-signatures-canvas-to-a-crisp-clean-white-hue/"><u>Ideal Tools & Websites for Transforming Your Digital Signature's Canvas to a Crisp, Clean White Hue</u></a></li>
+<li><a href="https://article-tips.techidaily.com/off-facebook-activity-analysis-and-secure-browsing-practices/"><u>Off-Facebook Activity Analysis & Secure Browsing Practices</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/simple-strategies-for-setting-up-auto-run-applications-on-your-computer/"><u>Simple Strategies for Setting Up Auto-Run Applications on Your Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-solo-artists-roadmap-to-auditory-fame-for-2024/"><u>The Solo Artist's Roadmap to Auditory Fame for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-guide-how-to-seamlessly-delete-text-from-pictures-on-any-device-as-of-2023/"><u>Ultimate Guide: How to Seamlessly Delete Text From Pictures on Any Device as of 2023</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-aspnet-configuration-best-practices-and-tips/"><u>Understanding ASP.NET Configuration: Best Practices and Tips</u></a></li>
 </ul></div>
 

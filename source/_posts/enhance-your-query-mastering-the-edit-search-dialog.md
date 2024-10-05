@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Query: Mastering the Edit Search Dialog"
-date: 2024-09-29T11:56:15.110Z
-updated: 2024-09-30T12:51:32.305Z
+date: 2024-10-01T18:05:36.180Z
+updated: 2024-10-05T22:02:01.444Z
 tags:
   - user-guide
 categories:
@@ -85,10 +85,16 @@ Table of Contents
 ![Edit Search String Dialog](https://cdn.advancedinstaller.com/img/dialog/prereq-search-string.png "Edit Search String Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a reference to a folder
@@ -96,10 +102,10 @@ Table of Contents
 Use the \[Folder... \] button. The [Folder Picker](https://tools.techidaily.com/advancedinstaller/products/) will pop up, allowing you to select the folder to reference.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a reference to an environment variable
@@ -107,10 +113,10 @@ Use the \[Folder... \] button. The [Folder Picker](https://tools.techidaily.com/
 Use the \[Env Var... \] button. The [Environment Variable Picker](https://tools.techidaily.com/advancedinstaller/products/) will pop up, allowing you to select an environment variable for reference.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a reference to the registry value
@@ -120,10 +126,10 @@ Use the \[Reg Value... \] button. The file will be searched on the disk at the l
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The references inserted in the field are replaced with their actual value.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -159,16 +165,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>[New] From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-enhancing-your-profile-with-high-quality-videos/"><u>[New] In 2024, Enhancing Your Profile With High-Quality Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ideal-screencasting-software-for-effective-teaching/"><u>[New] In 2024, Ideal Screencasting Software for Effective Teaching</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unlocking-every-participants-placement-in-google-meet/"><u>[Updated] Unlocking Every Participant’s Placement in Google Meet</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-easily-access-and-print-your-favorite-pages-from-a-digital-flipbook-on-flipbuildercom/"><u>1. Easily Access and Print Your Favorite Pages From a Digital Flipbook on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/advanced-flip-techniques-unveiled-comprehensive-tutorials-and-resources-on-flipbuilder-your-go-to-image-editing-hub/"><u>Advanced Flip Techniques Unveiled: Comprehensive Tutorials & Resources on FlipBuilder - Your Go-To Image Editing Hub</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171377590-avoid-stability-issues-install-updated-nvidia-graphics-driver-today/"><u>Avoid Stability Issues - Install Updated Nvidia Graphics Driver Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-heat-cooling-techniques-to-prevent-computer-restarts-while-gaming-windows-1110781-and-8/"><u>Beat the Heat: Cooling Techniques to Prevent Computer Restarts While Gaming (Windows 11/10/7/8.1 & 8)</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/convert-pdf-to-flipbooks-easily-using-flip-builder-design-and-edit-page-turning-books-instantly/"><u>Convert PDF to Flipbooks Easily Using Flip Builder – Design and Edit Page-Turning Books Instantly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-strategies-for-properly-aligning-your-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>Effective Strategies for Properly Aligning Your eBooks with FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-economical-pc-screen-grab-utilities/"><u>[New] 2024 Approved Economical PC Screen Grab Utilities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-in-stream-ads-on-facebook-configuration-and-analysis-guide-for-2024/"><u>[New] Mastering In-Stream Ads on Facebook Configuration & Analysis Guide for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-asus-rog-phone-7-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Asus ROG Phone 7 Phone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/best-spotify-replacements-innovative-music-streaming-platforms-youll-love/"><u>Best Spotify Replacements: Innovative Music Streaming Platforms You'll Love</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/download-and-convert-your-deezer-tunes-into-mp3-format-at-no-cost/"><u>Download & Convert Your Deezer Tunes Into MP3 Format at No Cost</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-amd-graphics-driver-setup-with-built-in-compatibility-sensor/"><u>Easy AMD Graphics Driver Setup with Built-In Compatibility Sensor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-when-cygwin1dll-is-unavailable-or-absent/"><u>Effective Solutions for When Cygwin1.dll Is Unavailable or Absent</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enhancing-engagement-effective-ways-to-implement-interactive-chats/"><u>Enhancing Engagement: Effective Ways to Implement Interactive Chats</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ethereal-editing-in-extended-frame-rate/"><u>In 2024, Ethereal Editing in Extended Frame Rate</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-the-most-shared-stock-photos-and-backstories/"><u>In 2024, Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-mastering-the-art-of-screenshots-with-apowersofts-free-tool/"><u>Step-by-Step Guide: Mastering the Art of Screenshots with Apowersoft's Free Tool</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/the-ultimate-guide-to-selecting-top-file-organizers-for-your-ios-devices-on-a-mac/"><u>The Ultimate Guide to Selecting Top File Organizers for Your iOS Devices on a Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-success-with-spotify-marketing-tips/"><u>Unlocking Success with Spotify Marketing Tips</u></a></li>
 </ul></div>
 

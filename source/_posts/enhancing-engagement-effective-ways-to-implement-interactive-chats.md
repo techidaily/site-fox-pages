@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Engagement: Effective Ways to Implement Interactive Chats"
-date: 2024-09-29T06:09:02.253Z
-updated: 2024-09-29T18:58:52.584Z
+date: 2024-09-30T19:47:32.879Z
+updated: 2024-10-05T17:59:00.862Z
 tags:
   - user-guide
 categories:
@@ -75,10 +75,10 @@ Table of Contents
 ![Add Dialog](https://cdn.advancedinstaller.com/img/dialog/add-dialog.png "Add Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Built-In
@@ -86,10 +86,10 @@ Table of Contents
 These dialogs are [predefined for the selected category](https://tools.techidaily.com/advancedinstaller/products/) and are not present in the default chain of dialogs.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Project
@@ -97,10 +97,16 @@ These dialogs are [predefined for the selected category](https://tools.techidail
 This type of dialogs are user defined in the current project and are not present in the default chain of dialogs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Repository
@@ -140,24 +146,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-elite-hue-refiner-toolkit/"><u>[New] 2024 Approved Elite Hue Refiner Toolkit</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-cutting-edge-filmmaking-the-essential-cinematic-tips-of-24/"><u>[New] Cutting Edge Filmmaking The Essential Cinematic Tips of '24</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-applying-luts-for-cinematic-color-grades/"><u>[Updated] Applying Luts for Cinematic Color Grades</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-emulate-video-success-gaining-youtube-confidence-skills/"><u>[Updated] Emulate Video Success Gaining YouTube Confidence Skills</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-line-up-top-5-slow-motion-models/"><u>[Updated] Premium Line-Up Top 5 Slow Motion Models</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-quick-vocal-alteration-tricks-for-pubg-players-for-2024/"><u>[Updated] Quick Vocal Alteration Tricks for PUBG Players for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-mastering-flipbook-changing-hyperlink-colors-on-hover-using-flipbuilder/"><u>1) Mastering FlipBook: Changing Hyperlink Colors on Hover Using FlipBuilder</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-revolutionary-appeal-of-apples-m1-max-clip/"><u>2024 Approved The Revolutionary Appeal of Apple's M1 Max Clip</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/access-your-pdf-files-as-text-while-keeping-the-design-intact-explore-our-free-conversion-solution-at-flipbuildercom/"><u>Access Your PDF Files as Text While Keeping the Design Intact - Explore Our Free Conversion Solution at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effortless-conversion-compile-your-flipbook-projects-into-cds-with-flipbuilder/"><u>Effortless Conversion: Compile Your FlipBook Projects Into CDs with FlipBuilder</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enable-in-app-printing-feature-for-your-flipbook-readers-on-flipbuilder/"><u>Enable In-App Printing Feature for Your Flipbook Readers on FlipBuilder</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enhance-your-ebooks-visual-appeal-with-our-flipbuilder-integrate-your-brand-in-the-background/"><u>Enhance Your eBook's Visual Appeal with Our FlipBuilder - Integrate Your Brand in the Background!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-it-possible-to-navigate-a-flippingbook-pdf-in-reverse-order-similar-to-arabic-text-reading/"><u>Is It Possible to Navigate a FlippingBook PDF in Reverse Order Similar to Arabic Text Reading?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-chatbots-confidentiality-compromised-an-insight-into-neural-network-inversion-exploits/"><u>Is Your Chatbot's Confidentiality Compromised? An Insight Into Neural Network Inversion Exploits</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/master-self-publishing-with-ebookwriter-create-interactive-page-turners-from-home-ebookwritercom/"><u>Master Self-Publishing with eBookWriter: Create Interactive Page-Turners From Home [eBookWriter.com]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-language-exchange-integrating-chatgpt-into-your-routine/"><u>Maximizing Language Exchange: Integrating ChatGPT Into Your Routine</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/texting-insights-recognizing-when-your-messages-are-actually-read/"><u>Texting Insights: Recognizing When Your Messages Are Actually Read</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unleash-your-creativity-using-creative-tims-premium-setup-nextjs-integrated-with-material-ui-design-kit-at-zero-cost/"><u>Unleash Your Creativity Using Creative Tim's Premium Setup: NextJS Integrated with Material-UI Design Kit at Zero Cost!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unlock-unlimited-potential-with-bootstrap-5-plus-material-design-assets-from-creative-tim-get-yours-for-free-today/"><u>Unlock Unlimited Potential with Bootstrap 5 + Material Design Assets From Creative Tim - Get Yours for Free Today!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-imagemagick-studio-walkthrough-for-2024/"><u>[Updated] ImageMagick Studio Walkthrough for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-8-best-video-grabbers-for-windows-10-for-2024/"><u>[Updated] Top 8 Best Video Grabbers for Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/advanced-techniques-for-selecting-keys-with-a-pick-a-key-dialog-in-applications/"><u>Advanced Techniques for Selecting Keys with a Pick-a-Key Dialog in Applications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-tips-on-hardware-from-toms-technology-corner/"><u>Expert Tips on Hardware From Tom's Technology Corner</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-connecting-your-ipad-to-an-lg-television/"><u>Guide: Connecting Your iPad to an LG Television</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-x-flip-phone-by-drfone-android/"><u>How to Reset a Locked Vivo X Flip Phone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ideal-tools-and-websites-for-transforming-your-digital-signatures-canvas-to-a-crisp-clean-white-hue/"><u>Ideal Tools & Websites for Transforming Your Digital Signature's Canvas to a Crisp, Clean White Hue</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-honor-90-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Honor 90 Pro Through Google Earth?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/most-trusted-websites-for-inexpensive-motion-graphics/"><u>Most Trusted Websites for Inexpensive Motion Graphics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revolutionizing-play-leading-vr-handwear-selections/"><u>Revolutionizing Play Leading VR Handwear Selections</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/simple-strategies-for-setting-up-auto-run-applications-on-your-computer/"><u>Simple Strategies for Setting Up Auto-Run Applications on Your Computer</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-guide-how-to-seamlessly-delete-text-from-pictures-on-any-device-as-of-2023/"><u>Ultimate Guide: How to Seamlessly Delete Text From Pictures on Any Device as of 2023</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-aspnet-configuration-best-practices-and-tips/"><u>Understanding ASP.NET Configuration: Best Practices and Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unveiling-the-strengths-and-weaknesses-of-presenter-8-for-2024/"><u>Unveiling the Strengths and Weaknesses of Presenter 8 for 2024</u></a></li>
 </ul></div>
 

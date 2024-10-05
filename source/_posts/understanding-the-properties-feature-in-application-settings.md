@@ -1,7 +1,7 @@
 ---
 title: Understanding the 'Properties' Feature in Application Settings
-date: 2024-09-23T06:02:21.768Z
-updated: 2024-09-29T19:03:35.251Z
+date: 2024-09-28T16:10:17.439Z
+updated: 2024-10-05T21:53:31.828Z
 tags:
   - user-guide
 categories:
@@ -104,16 +104,10 @@ This tab can be used to configure application pool definitions.
 ## FastCGI
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Full path
@@ -121,10 +115,10 @@ This tab can be used to configure application pool definitions.
 The full path of the FastCGI process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Arguments
@@ -135,24 +129,30 @@ Specify the command-line arguments for the FastCGI process.
 
 The maximum number of requests that a FastCGI worker process can process before it is recycled. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Timeout
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Activity
 
 Specify the maximum time (in seconds) that a FastCGI process can take to process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Request
@@ -192,22 +192,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-pages.techidaily.com/flipbuildercom-the-ultimate-guide-to-transforming-pdf-files-into-accessible-ebooks-using-our-automated-flip-service/"><u>[flipbuilder.com] - The Ultimate Guide to Transforming PDF Files Into Accessible Ebooks Using Our Automated Flip Service</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-leveraging-vlc-for-seamless-media-management/"><u>[New] Leveraging VLC for Seamless Media Management</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-rebound-crafters-tools/"><u>[Updated] Rebound Crafters' Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-masterful-messaging-find-your-go-to-text-transcription-aids/"><u>2024 Approved Masterful Messaging Find Your Go-To Text Transcription Aids</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-v27-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo V27 Pro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-xbox-live-streaming-setup/"><u>Essential Tips for Xbox Live Streaming Setup</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/full-screen-flash-flipbooks-a-guide-on-viewing-with-flipbuilder/"><u>Full-Screen Flash Flipbooks: A Guide on Viewing with FlipBuilder</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-can-i-rapidly-advance-in-the-flipoffice-pro-program-discover-at-flipbuildercom/"><u>How Can I Rapidly Advance in the FlipOffice Pro Program? [Discover at flipbuilder.com!]</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-create-interactive-flipbooks-from-pdf-documents-using-advanced-extraction-techniques/"><u>How to Create Interactive FlipBooks From PDF Documents Using Advanced Extraction Techniques</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-eliminate-previously-selected-photos-from-your-projects-on-flipbuilder/"><u>How to Eliminate Previously Selected Photos From Your Projects on FlipBuilder</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-enable-zooming-on-both-sides-of-a-flip-pdf-using-flipbuilder/"><u>How to Enable Zooming on Both Sides of a Flip PDF Using FlipBuilder</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-showcase-your-full-flipbook-on-any-screen-a-guide-with-flipbuilder/"><u>How to Showcase Your Full FlipBook on Any Screen: A Guide with FlipBuilder</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-infinix-hot-30i-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Infinix Hot 30i</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-mining-marvels-5-best-map-locations-in-terraria/"><u>In 2024, Mining Marvels 5 Best Map Locations in Terraria</u></a></li>
-<li><a href="https://win-forum.techidaily.com/inside-the-windows-registry-essential-information-for-effective-uninstallation/"><u>Inside the Windows Registry: Essential Information for Effective Uninstallation</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-accessible-design-guaranteed-will-my-brands-emblem-appear-in-your-digital-flipbook-after-licensing/"><u>Is Accessible Design Guaranteed: Will My Brand's Emblem Appear in Your Digital FlipBook After Licensing?</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-no-supported-devices-detected-fixes-and-tips-for-windows-7-setup/"><u>Resolve 'No Supported Devices Detected': Fixes & Tips for Windows 7 Setup</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-crafting-compelling-stories-with-your-gopro-footage-for-2024/"><u>[New] Crafting Compelling Stories with Your GoPro Footage for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-expert-tips-for-quality-video-with-nvidia/"><u>[Updated] 2024 Approved Expert Tips for Quality Video with NVIDIA</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-interactive-text-editor-mastering-the-notes-pane-functionality/"><u>1. Interactive Text Editor: Mastering the Notes Pane Functionality</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/captivate-audiences-with-perfectly-tailored-youtube-descriptions/"><u>Captivate Audiences with Perfectly Tailored Youtube Descriptions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-steps-for-removing-pages-from-your-pdf-documents/"><u>Easy Steps for Removing Pages From Your PDF Documents</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/how-to-create-and-edit-videos-on-windows-10/"><u>How to Create and Edit Videos on Windows 10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-7-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 7? Learn All 4 Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Oppo Find N3 Flip</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/securing-personal-data-defend-against-unauthorized-session-takeovers/"><u>Securing Personal Data: Defend Against Unauthorized Session Takeovers</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/tailored-text-translations-mastering-localization/"><u>Tailored Text Translations: Mastering Localization</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-tips-how-to-restore-missing-entries-in-your-iphone-address-book/"><u>Troubleshooting Tips: How To Restore Missing Entries in Your iPhone Address Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-off-windows-security-three-effective-methods-for-windows-11/"><u>Turn Off Windows Security: Three Effective Methods for Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-a2-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo A2 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/windows-store-application-mastering-environment-variables/"><u>Windows Store Application: Mastering Environment Variables</u></a></li>
 </ul></div>
 

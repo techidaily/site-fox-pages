@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Workshop with the Ultimate Guide to Editing Event Mappers
-date: 2024-09-27T17:49:51.393Z
-updated: 2024-09-30T02:45:49.868Z
+date: 2024-10-02T18:43:35.317Z
+updated: 2024-10-05T22:12:15.692Z
 tags:
   - user-guide
 categories:
@@ -87,10 +87,10 @@ This dialog allows you to subscribe the selected control to an event published b
 ![Event Mapping Dialog](https://cdn.advancedinstaller.com/img/dialog/event-mapping.png "Event Mapping Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Subscribe to
@@ -98,10 +98,10 @@ This dialog allows you to subscribe the selected control to an event published b
 Specify the type of event that is subscribed to by the control.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attribute to set
@@ -145,16 +145,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-complete-breakdown-of-freelens-cam-software/"><u>[New] In 2024, A Complete Breakdown of Freelens Cam Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-3-ipad-speech-capture-methods/"><u>[New] Top 3 iPad Speech Capture Methods</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-gear-selection-must-have-supplementary-gopro-items/"><u>2024 Approved Prime Gear Selection Must-Have Supplementary GoPro Items</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/advanced-flip-techniques-unveiled-comprehensive-tutorials-and-resources-on-flipbuilder-your-go-to-image-editing-hub/"><u>Advanced Flip Techniques Unveiled: Comprehensive Tutorials & Resources on FlipBuilder - Your Go-To Image Editing Hub</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/convert-pdf-to-flipbooks-easily-using-flip-builder-design-and-edit-page-turning-books-instantly/"><u>Convert PDF to Flipbooks Easily Using Flip Builder – Design and Edit Page-Turning Books Instantly</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-strategies-for-properly-aligning-your-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>Effective Strategies for Properly Aligning Your eBooks with FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-strategies-to-boost-flipboard-links-in-your-print-material-visit-our-website/"><u>Effective Strategies to Boost FlipBoard Links in Your Print Material - Visit Our Website</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-complete-picture-youtubes-quick-clips-for-2024/"><u>The Complete Picture YouTube's Quick Clips for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-adding-subtitles-in-movies-using-handbrake-a-step-by-step-walkthrough/"><u>Ultimate Guide to Adding Subtitles in Movies Using HandBrake: A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-step-by-step-approach-to-professional-chromatic-control/"><u>[New] A Step by Step Approach to Professional Chromatic Control</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-navigating-social-media-imitation-how-to-clone-yourself-with-finesse-on-tiktok-for-2024/"><u>[Updated] Navigating Social Media Imitation How to Clone Yourself with Finesse on TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-discarding-virtual-gatherings-on-fb-pcsmartphones/"><u>2024 Approved Discarding Virtual Gatherings on FB, PC/Smartphones</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/editing-conversations-made-easy-expert-tips-and-tricks-for-effective-communication-pages/"><u>Editing Conversations Made Easy: Expert Tips and Tricks for Effective Communication Pages</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-transferring-your-samsung-galaxy-note10-content-seamlessly-onto-your-television/"><u>Guide: Transferring Your Samsung Galaxy Note10 Content Seamlessly Onto Your Television</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/high-quality-conversion-techniques-how-to-turn-your-pdf-files-into-perfect-png-images-on-windows-10/"><u>High-Quality Conversion Techniques: How to Turn Your PDF Files Into Perfect PNG Images on Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snap-boost-optimize-images-at-zero-cost/"><u>In 2024, Snap-Boost Optimize Images at Zero Cost</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unbind-from-discord-on-all-platforms/"><u>In 2024, Unbind From Discord on All Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-colored-ai-thermal-paste-by-cooler-master-boost-your-cpu-efficiency-with-the-latest-nano-diamonds/"><u>Introducing Colored AI Thermal Paste by Cooler Master - Boost Your CPU Efficiency with the Latest Nano-Diamonds</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-poco-c55-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Poco C55 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/optimize-tiktok-videos-for-snappy-playback-times-for-2024/"><u>Optimize TikTok Videos for Snappy Playback Times for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-on-modifying-cloud-compute-instance-configurations/"><u>Step-by-Step Tutorial on Modifying Cloud Compute Instance Configurations</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-screenr-problems-how-to-restore-functionality-successfully/"><u>Troubleshooting Screenr Problems: How to Restore Functionality Successfully</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-tips-restoring-apple-music-functionality-on-your-iphone/"><u>Troubleshooting Tips: Restoring Apple Music Functionality on Your iPhone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-fixing-problems-with-editable-versions-of-documents-from-pdfs/"><u>Troubleshooting: Fixing Problems with Editable Versions of Documents From PDFs</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-guide-to-selecting-superior-iphone-e-6-video-transcoder-software/"><u>Ultimate Guide to Selecting Superior iPhone E 6 Video Transcoder Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/uniting-videos-on-ios-step-by-step-methods/"><u>Uniting Videos on iOS Step-by-Step Methods</u></a></li>
 </ul></div>
 

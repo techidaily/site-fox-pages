@@ -1,7 +1,7 @@
 ---
 title: "Understanding ASP.NET Configuration: Best Practices and Tips"
-date: 2024-09-24T20:13:24.363Z
-updated: 2024-09-29T23:12:24.016Z
+date: 2024-10-02T20:31:42.359Z
+updated: 2024-10-05T21:55:42.756Z
 tags:
   - user-guide
 categories:
@@ -102,10 +102,10 @@ Table of Contents
 When multiple .NET Framework versions are executing side-by-side on a single computer, the ASP.NET ISAPI version mapped to an ASP.NET application determines which common language run-time (CLR) version is used for the application. The ASP.NET IIS Registration Tool (Aspnet\_regiis.exe) is used by Advanced Installer to easily update the script maps for an ASP.NET application to point to the ASP.NET ISAPI version that you configure.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ASP.NET Version
@@ -115,13 +115,6 @@ Configure the version of ASP.NET that your web application is using.
 * <not specified> \- no ASP.NET registration is made;
 * 2.0.50727 \- register your application with .NET 2.0, 3.0 or 3.5;
 * 4.0.30319 \- register your application with .NET 4.0;
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Prefer 64-bit version (if available)
 
@@ -137,20 +130,34 @@ Triggers a **restart** of the _World Wide Web Publishing Service_ after installi
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For **IIS 7 or newer**, the ASP.NET version to be used by your web application must be set in the configuration of the [application pool](https://tools.techidaily.com/advancedinstaller/products/) to which it [belongs](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Identity
 
 Use ASP.NET impersonation when you want to run your ASP.NET application under a security context different from the default security context for ASP.NET application.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Not specified
 
 This default option assures every ASP.NET impersonation option is inherited from the server.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Do not use impersonation
 
@@ -160,13 +167,6 @@ Disables ASP.NET impersonation.
 
 With this impersonation option, your ASP.NET application will run under the security context of the [user authenticated by IIS](https://tools.techidaily.com/advancedinstaller/products/). 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Impersonate user
 
 Choosing this impersonation option will run the application under an arbitrary account with whatever security context was set up for that account. This is a [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) field and it can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
@@ -175,16 +175,16 @@ _Use predefined password_ \- Specify a predefined hard coded password.
 
 _Use a property to set password_ \- Reference a property for the password. Use the \[... \] button to select an existing property or to create a new one.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ASP Behavior
 
 Use this section to manage ASP (Classic) configuration settings.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Enable Parent Paths
 
@@ -223,20 +223,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-tripod-setup-in-vlogging/"><u>[New] 2024 Approved Mastering Tripod Setup in Vlogging</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-master-your-clips-on-mac-explore-our-top-5-snippers-for-2024/"><u>[New] Master Your Clips on Mac Explore Our Top 5 Snippers for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-explore-the-finest-10-free-video-conferencing-services-for-corporates-and-academia/"><u>[Updated] In 2024, Explore the Finest 10 Free Video Conferencing Services for Corporates & Academia</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-watch-more-not-less-secrets-to-free-youtube-gains/"><u>[Updated] Watch More, Not Less Secrets to Free YouTube Gains</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/guide-to-building-massive-memes/"><u>Guide to Building Massive Memes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-6s-plus-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 6s Plus? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-save-film-trailers-faster-with-traileraddicts-easy-download-tool/"><u>How to Save Film Trailers Faster with TrailerAddict's Easy Download Tool</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-save-streaming-content-as-various-file-types-mp4-avi-mp3-on-windows-and-macos/"><u>How to Save Streaming Content as Various File Types (MP4, AVI, MP3) on Windows and macOS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx/"><u>In 2024, Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/master-video-editing-on-mac-seamless-transfer-of-youtube-footage-into-final-cut-pro-using-apples-prores-codec/"><u>Master Video Editing on Mac: Seamless Transfer of YouTube Footage Into Final Cut Pro Using Apple's ProRes Codec</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-razr-40-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Razr 40 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/save-and-download-mp4movavi-files-of-emersons-law-school-bar-study-courses/"><u>Save & Download MP4/MOV/AVI Files of Emerson's Law School Bar Study Courses</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-accessing-every-episode-of-the-spongebob-series-online/"><u>Step-by-Step Guide: Accessing Every Episode of the SpongeBob Series Online</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-for-downloading-youtube-movievideo-rentals-as-mp4-mov-or-avi-files/"><u>Step-by-Step Tutorial for Downloading YouTube Movie/Video Rentals as MP4, MOV, or AVI Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-audio-artistry-in-a-download-top-7-vocal-transformation-apps-reviewed-for-2024/"><u>[New] Audio Artistry in a Download Top 7 Vocal Transformation Apps Reviewed for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-boost-your-productivity-mastering-zoom-within-the-gmail-framework/"><u>[Updated] 2024 Approved Boost Your Productivity Mastering Zoom Within the Gmail Framework</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reimagining-the-role-of-titles-in-after-effects-media/"><u>2024 Approved Reimagining the Role of Titles in After Effects Media</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/a-complete-walkthrough-on-utilizing-apowersofts-advanced-screen-capturing-tool/"><u>A Complete Walkthrough on Utilizing Apowersoft's Advanced Screen Capturing Tool</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/discover-the-best-free-platforms-for-crafting-your-own-youtube-channel-introductions-the-ultimate-5-pick-guide/"><u>Discover the Best Free Platforms for Crafting Your Own YouTube Channel Introductions: The Ultimate 5-Pick Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/find-file-version-information-a-comprehensive-guide/"><u>Find File Version Information: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-itel-s23-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Itel S23 Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unraveling-video-platform-distinctions-a-youtube-vs-dailymention-analysis/"><u>In 2024, Unraveling Video Platform Distinctions A YouTube Vs. DailyMention Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/malwarebytes-reviewed-protecting-your-system-without-compromising-security/"><u>Malwarebytes Reviewed: Protecting Your System without Compromising Security</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/modify-origin-settings-within-the-property-values-window/"><u>Modify Origin Settings Within the Property Values Window</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pivot-past-moments-an-android-video-reversal-tutorial/"><u>Pivot Past Moments An Android Video Reversal Tutorial</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-tips-for-sharing-your-tiktoks-to-instagram-with-ease/"><u>Top Tips for Sharing Your TikToks to Instagram with Ease</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In-Depth Examination of Item Specifications and Characteristics
-date: 2024-09-23T23:47:52.214Z
-updated: 2024-09-29T18:20:32.199Z
+date: 2024-10-02T20:58:01.716Z
+updated: 2024-10-05T20:24:21.579Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 The interface is designed to allow the user to set project name, version, and publisher just like in the user interface of Advanced Installer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ The interface is designed to allow the user to set project name, version, and pu
 IProductDetails : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -149,22 +149,22 @@ IProductDetails : IDispatch
 ![Product details](https://cdn.advancedinstaller.com/img/powershell-automation/product-details.png "Product details")  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
 
 **SetIcon(String IConSourceFile, UINT IconIndex)**Sets the product icon.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -209,24 +209,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expertly-curated-green-screen-gear-list/"><u>[Updated] 2024 Approved Expertly Curated Green Screen Gear List</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-ai-voice-over/"><u>2024 Approved What Is AI Voice Over?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/creative-tims-exclusive-premium-aspnet-themes-and-templates-enhance-your-web-design/"><u>Creative Tim's Exclusive Premium ASP.NET Themes and Templates - Enhance Your Web Design</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/creative-tims-premium-nuxt-black-admin-theme-with-bootstrap-cuarto-for-a-superior-web-experience-free-of-charge/"><u>Creative Tim's Premium Nuxt Black Admin Theme with Bootstrap Cuarto for a Superior Web Experience, Free of Charge!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/creative-tims-softui-modern-laravel-dashboards-by-updivision/"><u>Creative Tim's SoftUI: Modern Laravel Dashboards by Updivision</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/creative-tims-ultimate-date-picker-a-premium-no-cost-bootstrap-calendar/"><u>Creative Tim's Ultimate Date Picker: A Premium, No-Cost Bootstrap Calendar</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/discover-unique-reactive-templates-with-chakra-ui-pick-your-perfect-template-from-creative-tims-collection/"><u>Discover Unique Reactive Templates with Chakra UI: Pick Your Perfect Template From Creative Tim's Collection</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/download-premium-themes-and-templates-for-tailwind-css-plus-nextjs-over-17-styles-available-get-your-free-set-from-creative-tim/"><u>Download Premium Themes & Templates for Tailwind CSS + NextJS (Over 17 Styles Available) - Get Your Free Set From Creative Tim!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/explore-over-144-advanced-creative-tim-template-packs-unleash-your-design-potential/"><u>Explore Over 144 Advanced Creative Tim Template Packs – Unleash Your Design Potential!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/extensive-206plus-creative-tim-templates-for-powerful-admin-panels-and-control-dashboards/"><u>Extensive 206+ Creative Tim Templates for Powerful Admin Panels & Control Dashboards</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-lag-issues-in-valheim-on-your-windows-pc/"><u>Fix Lag Issues in Valheim on Your Windows PC</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/free-full-stack-development-with-vue-and-laravel-create-professional-websites-using-creative-tims-vue-paper-ui-framework-and-updivision-techniques/"><u>Free Full-Stack Development with Vue and Laravel - Create Professional Websites Using Creative Tim's Vue Paper UI Framework and UPDIVISION Techniques</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-yuva-2-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Yuva 2 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mastering-fbs-viral-hits-10-songs-that-scored-big-for-2024/"><u>Mastering FB's Viral Hits - 10 Songs That Scored Big for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/snappy-solution-seconds-for-ssgnature-bg-purge/"><u>Snappy Solution Seconds for Ssgnature BG Purge</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-y27s-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo Y27s with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/stronger-gameplay-starts-here-fixing-low-valorant-fps-windows-edition/"><u>Stronger Gameplay Starts Here: Fixing Low Valorant FPS Windows Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-new-dimensions-chatbots-and-creative-endeavors/"><u>Unveiling New Dimensions: Chatbots and Creative Endeavors</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-experts-path-to-masterful-discord-screen-broadcasting-for-2024/"><u>[New] The Expert's Path to Masterful Discord Screen Broadcasting for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-picks-for-the-best-android-image-correction-tools-5-choices/"><u>[Updated] In 2024, Top Picks for the Best Android Image Correction Tools (5 Choices)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/addressing-hp-print-driver-errors-win-10/"><u>Addressing HP Print Driver Errors Win 10</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/best-ultimate-top-5-and-phrases-that-promise-value-such-as-effortless-and-most-effective/"><u>Best, Ultimate, Top 5, and Phrases that Promise Value, Such as Effortless and Most Effective.</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-ways-to-recover-lost-imessages-on-your-iphone-a-step-by-step-guide/"><u>Easy Ways to Recover Lost iMessages on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortless-techniques-for-eliminating-default-backdrop-in-paint-app/"><u>Effortless Techniques for Eliminating Default Backdrop in Paint App</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-nord-3-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus Nord 3 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-viewing-your-android-phones-contact-list/"><u>Step-by-Step Guide to Viewing Your Android Phone's Contact List</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/wireless-iphone-7-screen-mirroring-guide-connect-your-phone-to-pc/"><u>Wireless iPhone 7 Screen Mirroring Guide: Connect Your Phone to PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/44kz44k544oi44ov44oq44o844gq44ot44oh44kq5zyn57iu44og44kv44ol44od44kvic0g5asn44gn44ge5yuv55s744ks56plusa57se44gx44gplus44gz/"><u>コストフリーなビデオ圧縮テクニック - 大きい動画を節約します</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Mastering the Configuration Options of the Settings Tab"
-date: 2024-09-28T16:14:51.754Z
-updated: 2024-09-29T21:28:25.445Z
+date: 2024-10-04T22:11:02.538Z
+updated: 2024-10-05T17:11:58.791Z
 tags:
   - user-guide
 categories:
@@ -92,33 +92,19 @@ Table of Contents
 
 Enable the display of dynamic guidelines when moving or resizing controls. These guidelines will show you possible alignments relative to other controls on the dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Show grid
 
  Display grid on the dialog surface.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Snap to grid
 
 The control is moved from grid point to grid point.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Width/Height
@@ -128,13 +114,27 @@ Specify the distance between two grid points. The distance is measured in [insta
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Dynamic guidelines and dialog grid are mutually exclusive. You can temporarily disable the dynamic guidelines or the "snap to grid" function by pressing and holding down the Shift key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dialog Margins
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Show Margins
 
@@ -177,15 +177,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-zooming-in-smoothly-youtube-video-upgrades/"><u>[Updated] In 2024, Zooming in Smoothly YouTube Video Upgrades</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-rehabilitating-faulty-obs-camera-connection-for-2024/"><u>[Updated] Rehabilitating Faulty OBS Camera Connection for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/discover-unique-reactive-templates-with-chakra-ui-pick-your-perfect-template-from-creative-tims-collection/"><u>Discover Unique Reactive Templates with Chakra UI: Pick Your Perfect Template From Creative Tim's Collection</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/download-premium-themes-and-templates-for-tailwind-css-plus-nextjs-over-17-styles-available-get-your-free-set-from-creative-tim/"><u>Download Premium Themes & Templates for Tailwind CSS + NextJS (Over 17 Styles Available) - Get Your Free Set From Creative Tim!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/explore-over-144-advanced-creative-tim-template-packs-unleash-your-design-potential/"><u>Explore Over 144 Advanced Creative Tim Template Packs – Unleash Your Design Potential!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/extensive-206plus-creative-tim-templates-for-powerful-admin-panels-and-control-dashboards/"><u>Extensive 206+ Creative Tim Templates for Powerful Admin Panels & Control Dashboards</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/laugh-ledger-top-10-tweets-for-a-smile/"><u>Laugh Ledger Top 10 Tweets for a Smile</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-samsung-qn55q60rafxza-the-ultimate-4k-smart-tv-with-advanced-hdr1nplus-technology/"><u>Review of the Samsung QN55Q60RAFXZA: The Ultimate 4K Smart TV with Advanced HDR1n+ Technology</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-xs-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone XS Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-best-of-the-best-12-youtube-video-game-openers-freepaid/"><u>[New] 2024 Approved The Best of the Best 12 YouTube Video Game Openers (FREE/PAID)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-guide-incorporating-visual-annotations-in-edits/"><u>[Updated] 2024 Approved Essential Guide Incorporating Visual Annotations in Edits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-personalized-pick-our-top-12-favorite-pc-clicker-games/"><u>[Updated] 2024 Approved Personalized Pick Our Top 12 Favorite PC Clicker Games</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-taking-stock-of-magix-project-management-app/"><u>[Updated] In 2024, Taking Stock of MAGIX Project Management App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-learn-to-optimize-your-watchlist-using-dual-screens-on-netflix/"><u>[Updated] Learn to Optimize Your Watchlist Using Dual Screens on Netflix</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-essence-of-interactive-virtuality/"><u>[Updated] The Essence of Interactive Virtuality</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/adjust-features-box-simplifying-customization-steps/"><u>Adjust Features Box - Simplifying Customization Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/differences-between-signal-and-whatsapp-which-is-more-secure-for-your-chats/"><u>Differences Between Signal and WhatsApp – Which Is More Secure for Your Chats?</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/editing-conversations-made-easy-expert-tips-and-tricks-for-effective-communication-pages/"><u>Editing Conversations Made Easy: Expert Tips and Tricks for Effective Communication Pages</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-techniques-for-removing-stickers-from-2021-tiktok-videos/"><u>Effective Techniques for Removing Stickers From 2021 TikTok Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fine-tuning-frames-a-comprehensible-approach-to-iphone-editing/"><u>Fine-Tuning Frames A Comprehensible Approach to iPhone Editing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-y200e-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo Y200e 5G FRP Without Computer</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-connecting-your-iphone-with-lg-television/"><u>Step-by-Step Guide: Connecting Your iPhone with LG Television</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-on-modifying-cloud-compute-instance-configurations/"><u>Step-by-Step Tutorial on Modifying Cloud Compute Instance Configurations</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-methods-for-capturing-online-radio-broadcasts-on-pc-and-mac/"><u>Top Methods for Capturing Online Radio Broadcasts on PC & Mac</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-methods-for-saving-your-favorite-disneyplus-shows-for-later-viewing/"><u>Top Methods for Saving Your Favorite Disney+ Shows for Later Viewing</u></a></li>
 </ul></div>
 

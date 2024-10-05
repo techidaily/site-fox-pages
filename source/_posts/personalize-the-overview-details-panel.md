@@ -1,7 +1,7 @@
 ---
 title: Personalize the Overview Details Panel
-date: 2024-09-23T11:18:29.040Z
-updated: 2024-09-30T05:05:57.426Z
+date: 2024-10-03T22:20:26.124Z
+updated: 2024-10-05T17:00:34.685Z
 tags:
   - user-guide
 categories:
@@ -96,16 +96,10 @@ This dialog allows you to edit MSI summary information fields.
 After selecting an item in the list either double-click it, access its “Edit...” context menu(right-click) or press theEdit field link button on the bottom right corner to show the [Edit MSI Summary Information Field Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -146,16 +140,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-beyond-likes-and-shares-the-concealed-factors-of-viewers/"><u>[New] In 2024, Beyond Likes & Shares The Concealed Factors of Viewers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-insider-guide-to-regular-broadcast-etiquette/"><u>[New] In 2024, The Insider Guide to Regular Broadcast Etiquette</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-seamless-skype-group-communication-for-pcmac/"><u>[New] Unlocking Seamless Skype Group Communication for PC/Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-vr-bicycle-journeys-to-try/"><u>2024 Approved Immersive VR Bicycle Journeys to Try</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-nokia-g42-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Nokia G42 5G</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/maximize-your-google-meet-experience-with-effective-use-of-digital-boards-on-any-os/"><u>Maximize Your Google Meet Experience with Effective Use of Digital Boards on Any OS</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-for-downloading-youtube-movievideo-rentals-as-mp4-mov-or-avi-files/"><u>Step-by-Step Tutorial for Downloading YouTube Movie/Video Rentals as MP4, MOV, or AVI Files</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/streamline-entertainment-seamless-downloading-of-dramafevers-popular-tv-shows-and-films/"><u>Streamline Entertainment: Seamless Downloading of DramaFever's Popular TV Shows & Films</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/streamline-your-library-spiegel-to-video-converter-for-mp4-mov-avi-formats/"><u>Streamline Your Library: Spiegel-to-Video Converter for MP4, MOV, AVI Formats</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/sync-your-tunes-using-jetaudio-for-spotify-audio-files/"><u>Sync Your Tunes: Using JetAudio for Spotify Audio Files</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-easy-steps-to-rotate-video-in-vlc/"><u>[Updated] Easy Steps to Rotate Video in VLC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-to-masterpiece-the-premier-free-mobile-editors-for-android/"><u>[Updated] In 2024, From Raw to Masterpiece The Premier Free Mobile Editors for Android</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-strategies-for-enhanced-search-result-interactions/"><u>Effective Strategies for Enhanced Search Result Interactions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-sj7s-pioneering-tech-in-the-action-space-a-complete-4k-starcam-review/"><u>In 2024, SJ7's Pioneering Tech in the Action Space A Complete 4K Starcam Review</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-tomb-of-the-mask-on-pc-a-step-by-step-guide/"><u>Mastering 'Tomb of the Mask' On PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-io-port-mappings-and-file-association-concepts-in-computers/"><u>Mastering I/O Port Mappings and File Association Concepts in Computers</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/quick-guide-tailoring-automated-dialogue-scripts/"><u>Quick Guide: Tailoring Automated Dialogue Scripts</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/simple-steps-for-creating-your-own-anniversary-celebration-video-at-home/"><u>Simple Steps for Creating Your Own Anniversary Celebration Video at Home</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-crafting-compelling-facebook-cover-videos-for-maximum-impact/"><u>Step-by-Step Guide: Crafting Compelling Facebook Cover Videos for Maximum Impact</u></a></li>
 </ul></div>
 

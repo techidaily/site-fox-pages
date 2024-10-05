@@ -1,7 +1,7 @@
 ---
 title: Modify Origin Settings Within the Property Values Window
-date: 2024-09-23T09:10:13.994Z
-updated: 2024-09-30T00:26:58.718Z
+date: 2024-10-03T16:51:24.157Z
+updated: 2024-10-05T16:00:14.686Z
 tags:
   - user-guide
 categories:
@@ -87,19 +87,19 @@ This feature enables you to automatically set the value of a property from a val
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If the property's value cannot be updated at build time, the build will be stopped!
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Synchronize property's value with:
@@ -112,10 +112,10 @@ This feature enables you to automatically set the value of a property from a val
 * Value from a JSON file
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File Path
@@ -123,10 +123,10 @@ This feature enables you to automatically set the value of a property from a val
 Pick the file using the \[...\] button.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -166,24 +166,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-efficient-path-to-time-stamped-image-documentation/"><u>[New] The Efficient Path to Time-Stamped Image Documentation</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unveiling-hidden-functionalities-of-instagrams-question-marker/"><u>[Updated] In 2024, Unveiling Hidden Functionalities of Instagram’s Question Marker</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-practices-when-basking-in-the-podcast-glow/"><u>Best Practices When Basking in the Podcast Glow</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-iphone-12-proipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from iPhone 12 Pro/iPad/iPod</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-to-saving-live-streams-of-la-traviata-and-tosca-in-high-quality-mp4-format/"><u>Guide to Saving Live Streams of La Traviata and Tosca in High-Quality MP4 Format</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-downloading-various-video-formats-from-free-it-training-sources/"><u>Guide: Downloading Various Video Formats From Free IT Training Sources</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-convert-your-spotify-tracks-into-mp3-format-for-compatible-audio-playback/"><u>How to Convert Your Spotify Tracks Into MP3 Format for Compatible Audio Playback</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-efficiently-save-video-content-from-veoh-streaming-service-using-veoh-downloader-compatible-with-macos-and-windows/"><u>How to Efficiently Save Video Content From Veoh Streaming Service Using Veoh Downloader: Compatible with macOS and Windows</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-save-film-trailers-faster-with-traileraddicts-easy-download-tool/"><u>How to Save Film Trailers Faster with TrailerAddict's Easy Download Tool</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-save-streaming-content-as-various-file-types-mp4-avi-mp3-on-windows-and-macos/"><u>How to Save Streaming Content as Various File Types (MP4, AVI, MP3) on Windows and macOS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x-flip-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo X Flip to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a79-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A79 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-master-meeting-magic-key-ways-to-tweak-with-zoom-converter/"><u>In 2024, Master Meeting Magic Key Ways to Tweak with Zoom Converter</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/master-video-editing-on-mac-seamless-transfer-of-youtube-footage-into-final-cut-pro-using-apples-prores-codec/"><u>Master Video Editing on Mac: Seamless Transfer of YouTube Footage Into Final Cut Pro Using Apple's ProRes Codec</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-3d-text-illustration-in-ai/"><u>Mastering 3D Text Illustration in AI</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/save-and-download-mp4movavi-files-of-emersons-law-school-bar-study-courses/"><u>Save & Download MP4/MOV/AVI Files of Emerson's Law School Bar Study Courses</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-accessing-every-episode-of-the-spongebob-series-online/"><u>Step-by-Step Guide: Accessing Every Episode of the SpongeBob Series Online</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-sony-xperia-5-v-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Sony Xperia 5 V</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-ultimate-fix-for-keeping-your-ring-of-elysium-journey-uninterrupted/"><u>The Ultimate Fix for Keeping Your Ring of Elysium Journey Uninterrupted</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/a-complete-walkthrough-on-utilizing-apowersofts-advanced-screen-capturing-tool/"><u>A Complete Walkthrough on Utilizing Apowersoft's Advanced Screen Capturing Tool</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/discover-the-best-free-platforms-for-crafting-your-own-youtube-channel-introductions-the-ultimate-5-pick-guide/"><u>Discover the Best Free Platforms for Crafting Your Own YouTube Channel Introductions: The Ultimate 5-Pick Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/find-file-version-information-a-comprehensive-guide/"><u>Find File Version Information: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-perform-an-append-or-create-function-in-data-management/"><u>How to Perform an Append or Create Function in Data Management</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-xiaomi-13-ultra-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Xiaomi 13 Ultra Activity | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-redmi-a2-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Redmi A2</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/leading-ai-voice-synthesis-applications-the-ultimate-guide/"><u>Leading AI Voice Synthesis Applications: The Ultimate Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/malwarebytes-reviewed-protecting-your-system-without-compromising-security/"><u>Malwarebytes Reviewed: Protecting Your System without Compromising Security</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-milestone-in-7-years-of-language-acquisition/"><u>Mondly's Milestone in 7 Years of Language Acquisition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/should-you-embrace-the-latest-iphone-model/"><u>Should You Embrace the Latest iPhone Model?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-key-to-a-profitable-yt-channel-accurate-monetization-verification/"><u>The Key to a Profitable YT Channel Accurate Monetization Verification</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-tips-for-sharing-your-tiktoks-to-instagram-with-ease/"><u>Top Tips for Sharing Your TikToks to Instagram with Ease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-the-finest-mobile-games-available-now/"><u>Ultimate List of the Finest Mobile Games Available Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-basics-of-langchain-llm-for-enthusiasts/"><u>Unveiling the Basics of LangChain LLM for Enthusiasts</u></a></li>
 </ul></div>
 

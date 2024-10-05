@@ -1,7 +1,7 @@
 ---
 title: "Revise Your Events Seamlessly: Mastering the Edit Event Feature"
-date: 2024-09-26T12:57:35.351Z
-updated: 2024-09-30T08:27:21.748Z
+date: 2024-10-01T21:45:26.342Z
+updated: 2024-10-05T20:23:45.007Z
 tags:
   - user-guide
 categories:
@@ -98,6 +98,13 @@ Table of Contents
 
  The command to run. Use \[... \] button to browse for an external file. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Arguments
 
 Specify arguments for the command to run. This field is of[PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using[Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
@@ -105,17 +112,10 @@ Specify arguments for the command to run. This field is of[PseudoFormatted Type]
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)It is **important** to enclose the paths in quotation marks (" ") otherwise the operations might not be executed correctly or will return an error code. This usually happens when the folder, file name contains spaces or more than 8 characters.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Working Dir
@@ -128,6 +128,13 @@ Specify the full path of the file where you want the output of the executed appl
 
 ## Build
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Log Description
 
 Specify the text showed in the build log when the event is executed. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
@@ -139,22 +146,15 @@ If this option is enabled the event will be executed before the MSI package will
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option can be used only for **Post-Build Events**, because this is the only moment when an event can be scheduled**after** the creation of the MSI file and**before** the EXE file is generated.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cancel build in case of a launch failure
 
 Enable this option for the build process to be interrupted if the specified command returns with an error.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Execute only if build failed
 
@@ -193,20 +193,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-masterful-text-setups-in-adobe-after-effects/"><u>[New] Masterful Text Setups in Adobe After Effects</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-upgrading-your-videos-appeal-youtube-thumbnail-resizing/"><u>[Updated] Upgrading Your Video's Appeal YouTube Thumbnail Resizing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/bypassing-trouble-effective-ways-to-tackle-swtor-initialization-problems/"><u>Bypassing Trouble: Effective Ways to Tackle SWTOR Initialization Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-refreshed-apple-visionos-update-personas-revamped-and-exciting-new-additions-detailed-zdnet-insights/"><u>Discover the Refreshed Apple VisionOS Update: Personas Revamped and Exciting New Additions Detailed | ZDNET Insights</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-efficiently-save-video-content-from-veoh-streaming-service-using-veoh-downloader-compatible-with-macos-and-windows/"><u>How to Efficiently Save Video Content From Veoh Streaming Service Using Veoh Downloader: Compatible with macOS and Windows</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-save-film-trailers-faster-with-traileraddicts-easy-download-tool/"><u>How to Save Film Trailers Faster with TrailerAddict's Easy Download Tool</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-save-streaming-content-as-various-file-types-mp4-avi-mp3-on-windows-and-macos/"><u>How to Save Streaming Content as Various File Types (MP4, AVI, MP3) on Windows and macOS</u></a></li>
-<li><a href="https://facebook.techidaily.com/legal-boundaries-redefined-as-germany-restricts-facebook-from-harvesting-whatsapp-data/"><u>Legal Boundaries Redefined as Germany Restricts Facebook From Harvesting WhatsApp Data</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/master-video-editing-on-mac-seamless-transfer-of-youtube-footage-into-final-cut-pro-using-apples-prores-codec/"><u>Master Video Editing on Mac: Seamless Transfer of YouTube Footage Into Final Cut Pro Using Apple's ProRes Codec</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigate-through-2024s-top-computer-brand-landscapes/"><u>Navigate Through 2024'S Top Computer Brand Landscapes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722965133704-quick-guide-best-webcam-drivers-for-windows-7-free-downloads-available/"><u>Quick Guide: Best Webcam Drivers for Windows 7 - Free Downloads Available</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/save-and-download-mp4movavi-files-of-emersons-law-school-bar-study-courses/"><u>Save & Download MP4/MOV/AVI Files of Emerson's Law School Bar Study Courses</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-accessing-every-episode-of-the-spongebob-series-online/"><u>Step-by-Step Guide: Accessing Every Episode of the SpongeBob Series Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/upcoming-changes-and-free-expansions-of-rainbow-six-siege-in-the-new-year/"><u>Upcoming Changes and Free Expansions of Rainbow Six Siege in the New Year</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/visual-perfection-through-quantum-hdr-techniques-for-2024/"><u>Visual Perfection Through Quantum HDR Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-setting-up-unique-youtube-shorts-thumbnails/"><u>[Updated] Step-by-Step Setting Up Unique YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-powerpoint-presentation-rescue-effortless-retrieval-of-lost-ppts/"><u>1. PowerPoint Presentation Rescue: Effortless Retrieval of Lost PPTs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonys-choice-top-10-songs-that-say-yes/"><u>2024 Approved Harmony's Choice Top 10 Songs That Say 'Yes!'</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comprehensive-step-by-step-guide-on-using-video-converter-studios-latest-4th-edition/"><u>Comprehensive Step-by-Step Guide on Using Video Converter Studio's Latest 4Th Edition</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1725289516238-dvd/"><u>DVD形式一覧によるガイド - 重要なビジュアルフォーマットの解説: 書き込み前から録画用まで！</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-strategies-for-building-a-powerful-organizational-website/"><u>Effective Strategies for Building a Powerful Organizational Website</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-your-iphones-common-screen-issues-quickly/"><u>How to Resolve Your iPhone's Common Screen Issues Quickly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audience-captivation-for-personal-podcasts/"><u>In 2024, Audience Captivation for Personal Podcasts</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-common-sound-recording-problems-on-ios-and-android-devices/"><u>Troubleshooting Common Sound Recording Problems on iOS and Android Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-repairing-the-0x80004005-communication-error-in-software-applications/"><u>Understanding & Repairing the 0X80004005 Communication Error in Software Applications</u></a></li>
 </ul></div>
 

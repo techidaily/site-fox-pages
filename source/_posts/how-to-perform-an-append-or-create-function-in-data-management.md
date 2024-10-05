@@ -1,7 +1,7 @@
 ---
 title: How to Perform an Append or Create Function in Data Management
-date: 2024-09-25T12:29:30.779Z
-updated: 2024-09-29T21:50:30.390Z
+date: 2024-10-03T21:39:18.134Z
+updated: 2024-10-05T18:37:37.726Z
 tags:
   - user-guide
 categories:
@@ -94,19 +94,6 @@ The following properties can be set or changed on a selected "Append/Create" ope
 
 ![Text File Append/Create](https://cdn.advancedinstaller.com/img/dialog/txt-create-append.png "Text File Append/Create")  
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## File Content
 
 In this field write the text information that your file will contain. If the file does not exist a new file with the name specified in the [Text File Properties Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be created containing the text written here. If the specified file already exists the content from this field will be appended at the end of the specified text file. 
@@ -116,25 +103,26 @@ In this field write the text information that your file will contain. If the fil
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The "Create" operation **cannot** be used when wildcards are defined in [Text File Properties](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Operation
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create file with encoding
@@ -152,10 +140,10 @@ If this checkbox is ticked the content of the file will be saved using the encod
 * The selected encoding will be used only if the file is created from scratch. If the file already exists on the target machine before being updated, then the current file encoding will be preserved.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### If the file exists
@@ -198,19 +186,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-google-translate-strategies-for-excellent-audio-to-text-for-2024/"><u>[New] Google Translate Strategies for Excellent Audio to Text for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-create-captivating-entrance-scenes-with-flipbuilder-integrate-movies-into-your-web-pages/"><u>1. 'Create Captivating Entrance Scenes with FlipBuilder: Integrate Movies Into Your Web Pages'</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-comprehensive-walkthrough-creating-channel-banners/"><u>A Comprehensive Walkthrough Creating Channel Banners</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/raw-footage-to-highlight-hits/"><u>From Raw Footage to Highlight Hits</u></a></li>
-<li><a href="https://facebook.techidaily.com/hack-proofing-your-life-on-social-platform-fb-with-these-7-rules/"><u>Hack-Proofing Your Life on Social Platform (FB) with These 7 Rules</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-honor-play-7t-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor Play 7T in Minutes | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-the-spotlight-overcoming-the-challenge-of-a-non-illuminated-razer-keyboard/"><u>In The Spotlight: Overcoming the Challenge of a Non-Illuminated Razer Keyboard</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/jokes-in-photos-your-path-to-memeloreality/"><u>Jokes in Photos Your Path to Memeloreality</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-the-art-of-presenting-texts-a-guide-to-engaging-readers-with-flippingbook/"><u>Mastering the Art of Presenting Texts: A Guide to Engaging Readers with FlippingBook</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-the-creation-of-oversized-flipbooks-on-flipbuilder-a-step-by-step-tutorial/"><u>Mastering the Creation of Oversized Flipbooks on FlipBuilder – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-integrating-a-help-section-into-your-ebook-with-flipbuilder/"><u>Step-by-Step Guide: Integrating a Help Section Into Your eBook with FlipBuilder</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-command-line-conversion-techniques-with-flipbuilder/"><u>Understanding Command-Line Conversion Techniques with FlipBuilder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-cash-content-creators-for-2024/"><u>[New] High-Cash Content Creators for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-start-a-google-meet-on-laptops-and-mobile-in-2024/"><u>[Updated] How to Start a Google Meet on Laptops & Mobile, In 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-secrets-of-seamlessly-sharing-in-tiktok-livestreams/"><u>[Updated] In 2024, Secrets of Seamlessly Sharing in TikTok Livestreams</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/complete-task-confirmation-prompt-enhancing-user-interactions/"><u>Complete Task Confirmation Prompt: Enhancing User Interactions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-de-conversor-gratuito-online-para-mp3-e-ogv-pelo-site-da-movavi/"><u>Download De Conversor Gratuito Online Para Mp3 E Ogv Pelo Site Da Movavi</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/free-and-favorite-watermark-software-options-for-android-devices-top-choices-unveiled/"><u>Free and Favorite Watermark Software Options for Android Devices: Top Choices Unveiled</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-camon-30-pro-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Tecno Camon 30 Pro 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-lenovo-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lenovo Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/is-the-google-customer-loyalty-scheme-a-genuine-offer-or-a-fraudulent-trap/"><u>Is the Google Customer Loyalty Scheme a Genuine Offer or a Fraudulent Trap?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-note-30-vip-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Note 30 VIP with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-transforming-stereo-audio-into-mono-format/"><u>Step-by-Step Guide: Transforming Stereo Audio Into Mono Format</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-common-issues-what-causes-youtube-to-not-function/"><u>Understanding Common Issues: What Causes YouTube to Not Function?</u></a></li>
 </ul></div>
 

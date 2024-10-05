@@ -1,7 +1,7 @@
 ---
 title: Detailed Product Information Overview
-date: 2024-09-26T19:35:44.981Z
-updated: 2024-09-30T08:29:31.639Z
+date: 2024-09-30T18:48:26.237Z
+updated: 2024-10-05T17:34:57.841Z
 tags:
   - user-guide
 categories:
@@ -78,13 +78,20 @@ This page allows you to specify the information that will identify the products 
 
 ![Upgrade Info](https://cdn.advancedinstaller.com/img/dialog/upgrade-info.png "Upgrade Info")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Product
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Upgrade Code
@@ -97,16 +104,16 @@ Specify the product's Upgrade Code. You can directly specify it or use the \[...
 
 In this field, you can specify the minimum old product version which will be upgraded. For example, if the minimum version is 1.1 then your package will upgrade all the old product versions which are higher than 1.1\. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Include minimum version in range
 
  This option will include the minimum version you specified in the old product versions which will be upgraded. For example, if the minimum version is 1.1 then your package will upgrade all the old product versions which are equal to or higher than 1.1.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Max. Version
 
@@ -118,13 +125,6 @@ In this field, you can specify the maximum old product version which will be upg
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the either "Min. Version" or "Max. Version" fields are left blank no minimum/maximum version is taken into consideration when the old product versions are detected. Also, the correspondent "include" flag is disregarded.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Languages
 
 Specify a set of languages to be detected. Use the\[... \] button to select them.
@@ -134,10 +134,10 @@ You have the option to specify whether you want to detect the languages you spec
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If this field is blank all the languages will be detected. Also, the correspondent flags will be ignored.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -173,24 +173,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-countering-harshness-maintaining-poise-online/"><u>[New] 2024 Approved Countering Harshness Maintaining Poise Online</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-estimating-total-seconds-a-20mb-sized-video/"><u>[New] Estimating Total Seconds A 20MB-Sized Video</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-screencapture-unveiled-the-ultimate-review-of-camstudio-for-2024/"><u>[Updated] ScreenCapture Unveiled The Ultimate Review of CamStudio for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-mastering-flipbook-changing-hyperlink-colors-on-hover-using-flipbuilder/"><u>1) Mastering FlipBook: Changing Hyperlink Colors on Hover Using FlipBuilder</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-destinations-amplifying-youtube-videos/"><u>2024 Approved Premier Destinations Amplifying YouTube Videos</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/access-your-pdf-files-as-text-while-keeping-the-design-intact-explore-our-free-conversion-solution-at-flipbuildercom/"><u>Access Your PDF Files as Text While Keeping the Design Intact - Explore Our Free Conversion Solution at FlipBuilder.com</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nubia-z50s-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nubia Z50S Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effortless-conversion-compile-your-flipbook-projects-into-cds-with-flipbuilder/"><u>Effortless Conversion: Compile Your FlipBook Projects Into CDs with FlipBuilder</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enable-in-app-printing-feature-for-your-flipbook-readers-on-flipbuilder/"><u>Enable In-App Printing Feature for Your Flipbook Readers on FlipBuilder</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enhance-your-ebooks-visual-appeal-with-our-flipbuilder-integrate-your-brand-in-the-background/"><u>Enhance Your eBook's Visual Appeal with Our FlipBuilder - Integrate Your Brand in the Background!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oneplus-ace-2-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of OnePlus Ace 2 Pro? Try These Fixes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-s17-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo S17 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-xr-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone XR Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-it-possible-to-navigate-a-flippingbook-pdf-in-reverse-order-similar-to-arabic-text-reading/"><u>Is It Possible to Navigate a FlippingBook PDF in Reverse Order Similar to Arabic Text Reading?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/master-self-publishing-with-ebookwriter-create-interactive-page-turners-from-home-ebookwritercom/"><u>Master Self-Publishing with eBookWriter: Create Interactive Page-Turners From Home [eBookWriter.com]</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-final-say-on-ricohs-theta-s-vision-system/"><u>The Final Say on Ricoh's Theta S Vision System</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-ultimate-guide-to-subtitle-editing-on-mac-alternatives-to-subtitle-edit-for-2024/"><u>The Ultimate Guide to Subtitle Editing on Mac Alternatives to Subtitle Edit for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unleash-your-creativity-using-creative-tims-premium-setup-nextjs-integrated-with-material-ui-design-kit-at-zero-cost/"><u>Unleash Your Creativity Using Creative Tim's Premium Setup: NextJS Integrated with Material-UI Design Kit at Zero Cost!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unlock-unlimited-potential-with-bootstrap-5-plus-material-design-assets-from-creative-tim-get-yours-for-free-today/"><u>Unlock Unlimited Potential with Bootstrap 5 + Material Design Assets From Creative Tim - Get Yours for Free Today!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-5-tools-for-cutting-edge-video-title-and-tag-generation/"><u>[New] 5 Tools for Cutting Edge Video Title & Tag Generation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-storytelling-with-smooth-fading-techniques/"><u>[New] Seamless Storytelling with Smooth Fading Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-make-free-intros-for-youtube-plustemplates/"><u>[Updated] How to Make Free Intros for YouTube? [+Templates]</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/collaborative-selection-tool-mastering-the-group-chooser-interface/"><u>Collaborative Selection Tool: Mastering the Group Chooser Interface</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/customize-your-codes-with-ease-exploring-the-code-swap-section/"><u>Customize Your Codes with Ease: Exploring the 'Code Swap' Section</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo FRP In 3 Different Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-11-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme 11 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-breaking-down-the-selfie-security-on-insta/"><u>In 2024, Breaking Down the Selfie Security on Insta</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-how-to-record-teams-video-meeting/"><u>In 2024, How to Record Teams Video Meeting?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-complete-guide-for-setting-up-and-managing-regular-meetings-on-google/"><u>In 2024, The Complete Guide for Setting Up and Managing Regular Meetings on Google</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-change-techniques-to-thrive-through-personal-evolution/"><u>Mastering Change: Techniques to Thrive Through Personal Evolution</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/simple-methods-transferring-your-tunes-from-pc-to-android-seamlessly/"><u>Simple Methods: Transferring Your Tunes From PC to Android Seamlessly</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-tips-for-restoring-functionality-in-the-phone-manager-app-on-ios-devices/"><u>Troubleshooting Tips for Restoring Functionality in the Phone Manager App on iOS Devices</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-guide-to-deleting-png-backgrounds-the-top-tools-of-2023-for-online-and-smartphone-use-easy-to-follow-comparison/"><u>Ultimate Guide to Deleting PNG Backgrounds: The Top Tools of 2023 for Online & Smartphone Use - Easy-to-Follow Comparison.</u></a></li>
 </ul></div>
 

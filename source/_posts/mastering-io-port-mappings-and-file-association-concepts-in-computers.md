@@ -1,7 +1,7 @@
 ---
 title: Mastering I/O Port Mappings and File Association Concepts in Computers
-date: 2024-09-29T05:08:03.763Z
-updated: 2024-09-30T03:28:16.444Z
+date: 2024-10-03T16:42:22.211Z
+updated: 2024-10-05T22:27:40.863Z
 tags:
   - user-guide
 categories:
@@ -113,10 +113,10 @@ Table of Contents
 IFileAssociations : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -124,10 +124,10 @@ IFileAssociations : IDispatch
 This interface is meant to manage file associations 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -144,6 +144,13 @@ Creates a new ProgId setup.
 **RemoveProgId(IProgIdFA ProgId)**   
 Removes a new ProgId setup. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Properties
 
 **Array<IDefaultProgramFA> DefaultPrograms**  
@@ -151,13 +158,6 @@ Gets the collection of default programs setups.
 
 **Array<IProgIdFA> ProgIds**  
 Gets the collection of ProgId setups. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Example
 
@@ -173,10 +173,10 @@ $defaultProgrram.AddExtension($extension)
     Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -218,16 +218,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-synching-sounds-with-visual-stories-on-ig/"><u>[New] 2024 Approved Synching Sounds with Visual Stories on IG</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-monetary-milestones-pewdiepies-income-summary/"><u>[New] Monetary Milestones PewDiePie’s Income Summary</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-streamlining-visual-storytelling-best-plugin-choices-in-ae-for-2024/"><u>[New] Streamlining Visual Storytelling Best Plugin Choices in AE for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-mastering-flipbook-changing-hyperlink-colors-on-hover-using-flipbuilder/"><u>1) Mastering FlipBook: Changing Hyperlink Colors on Hover Using FlipBuilder</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-tecno-pop-7-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Tecno Pop 7 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/leverage-both-platforms-youtube-and-facebook-integration-for-2024/"><u>Leverage Both Platforms YouTube and Facebook Integration for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/onikuma-headset-mic-problems-heres-how-you-can-fix-them/"><u>Onikuma Headset Mic Problems? Here's How You Can Fix Them</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-overcoming-startup-issues-in-the-popular-fall-guys-game/"><u>Step-by-Step Guide: Overcoming Startup Issues in the Popular Fall Guys Game</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-shopify-designs-and-template-packages-by-creative-tim-1-selection/"><u>Top Shopify Designs and Template Packages by Creative Tim - 1 Selection</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unleash-your-creativity-using-creative-tims-premium-setup-nextjs-integrated-with-material-ui-design-kit-at-zero-cost/"><u>Unleash Your Creativity Using Creative Tim's Premium Setup: NextJS Integrated with Material-UI Design Kit at Zero Cost!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unlock-unlimited-potential-with-bootstrap-5-plus-material-design-assets-from-creative-tim-get-yours-for-free-today/"><u>Unlock Unlimited Potential with Bootstrap 5 + Material Design Assets From Creative Tim - Get Yours for Free Today!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-powerful-tools-for-effective-youtubers-seo/"><u>[Updated] In 2024, Harnessing Powerful Tools for Effective YouTubers' SEO</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-kids-car-clubbing-capers/"><u>[Updated] Kids' Car Clubbing Capers</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/commanding-digital-governance-essential-tips-for-excelling-at-the-president-game-on-a-personal-computer/"><u>Commanding Digital Governance: Essential Tips for Excelling at 'The President' Game on a Personal Computer</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-repository-organization-and-management-tools/"><u>Effective Repository Organization and Management Tools</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortless-file-management-how-to-use-folder-chooser-dialogs-effectively/"><u>Effortless File Management: How to Use Folder Chooser Dialogs Effectively</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enhance-your-workshop-with-the-ultimate-guide-to-editing-event-mappers/"><u>Enhance Your Workshop with the Ultimate Guide to Editing Event Mappers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-winerror-installation-fault-0xc004f050/"><u>How to Resolve WinError: Installation Fault #0XC004F050</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-zbook-15-g3-drivers-download-and-install-for-windows/"><u>HP ZBook 15 G3 Drivers Download and Install for Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-g54-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola G54 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-photo-background-removal-with-these-4-powerful-methods/"><u>Mastering Photo Background Removal with These 4 Powerful Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quickly-secure-newest-drivers-for-your-wi-fi-network-card/"><u>Quickly Secure Newest Drivers for Your Wi-Fi Network Card</u></a></li>
 </ul></div>
 

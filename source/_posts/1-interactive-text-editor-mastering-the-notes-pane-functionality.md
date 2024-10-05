@@ -1,7 +1,7 @@
 ---
 title: "1. Interactive Text Editor: Mastering the Notes Pane Functionality"
-date: 2024-09-28T23:42:46.594Z
-updated: 2024-09-29T17:10:15.184Z
+date: 2024-09-29T20:39:26.695Z
+updated: 2024-10-05T17:14:23.075Z
 tags:
   - user-guide
 categories:
@@ -80,26 +80,19 @@ For every resource (like prerequisites, files, file operations, custom actions, 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Notes cannot be added for elements that represent views: folders, registry keys, etc. Also, notes can not be added for**multiple** resources selected at once.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Empty notes will not be saved. In order for a note to be saved, it must contain a comment.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Delete note
@@ -107,15 +100,22 @@ For every resource (like prerequisites, files, file operations, custom actions, 
 In order to delete an existing note, select it press the\[Remove... \] button, use the “Delete” context menu option or press the Delete key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Navigate to resource
 
 It is possible to navigate to the resource associated with the currently selected note by using the “Go to item” context menu option. Once this option is being used the resource will be selected.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comments Pane
 
@@ -161,18 +161,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-live-your-dreams-insights-into-the-panasonic-hx-a1-cam/"><u>[New] In 2024, Live Your Dreams Insights Into the Panasonic HX-A1 Cam</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-upgrade-your-content-creation-process-via-youtube-studio/"><u>[Updated] 2024 Approved Upgrade Your Content Creation Process via YouTube Studio</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-from-concept-to-completion-mastering-the-art-of-snap-campaigns-for-2024/"><u>[Updated] From Concept to Completion Mastering the Art of Snap Campaigns for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-precision-in-perspective-mastery-of-youtube-video-degrees-for-2024/"><u>[Updated] Precision in Perspective Mastery of Youtube Video Degrees for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-mastering-flipbook-changing-hyperlink-colors-on-hover-using-flipbuilder/"><u>1) Mastering FlipBook: Changing Hyperlink Colors on Hover Using FlipBuilder</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-vidvibes-merge-android-and-ios-insta-photos/"><u>2024 Approved VidVibes Merge Android & iOS Insta Photos</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/access-your-pdf-files-as-text-while-keeping-the-design-intact-explore-our-free-conversion-solution-at-flipbuildercom/"><u>Access Your PDF Files as Text While Keeping the Design Intact - Explore Our Free Conversion Solution at FlipBuilder.com</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/camera-selection-for-amateurs-for-2024/"><u>Camera Selection for Amateurs for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effortless-conversion-compile-your-flipbook-projects-into-cds-with-flipbuilder/"><u>Effortless Conversion: Compile Your FlipBook Projects Into CDs with FlipBuilder</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-drawings-top-artistic-tools-on-chrome-os/"><u>Elevate Your Drawings Top Artistic Tools on Chrome OS</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unlock-unlimited-potential-with-bootstrap-5-plus-material-design-assets-from-creative-tim-get-yours-for-free-today/"><u>Unlock Unlimited Potential with Bootstrap 5 + Material Design Assets From Creative Tim - Get Yours for Free Today!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eamless-streaming-screen-record-and-upload-from-macpc/"><u>[New] Seamless Streaming Screen Record & Upload From Mac/PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-scheduling-and-recording-on-demand-slack-meetings/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Scheduling & Recording On-Demand Slack Meetings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-nikon-km-170-vs-gopro-for-flexible-filmmaking/"><u>[Updated] Nikon KM-170 Vs GoPro for Flexible Filmmaking?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-the-curtain-the-hidden-costs-of-vr/"><u>2024 Approved Behind the Curtain The Hidden Costs of VR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-launch-xp-movie-editor-for-seamless-editing/"><u>2024 Approved Launch XP Movie Editor for Seamless Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-top-hdr-camera-brands-and-features/"><u>2024 Approved Unraveling Top HDR Camera Brands and Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-m34-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy M34 Phone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comprehensive-guide-mastering-the-configuration-options-of-the-settings-tab/"><u>Comprehensive Guide: Mastering the Configuration Options of the Settings Tab</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-tutorial-how-to-sync-and-reflect-your-android-with-a-different-android-smartphone/"><u>Easy Tutorial: How To Sync and Reflect Your Android with a Different Android Smartphone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enhance-your-query-mastering-the-edit-search-dialog/"><u>Enhance Your Query: Mastering the Edit Search Dialog</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/exploring-the-functionality-of-icominterface-in-software-development/"><u>Exploring the Functionality of IComInterface in Software Development</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-access-and-listen-to-apple-music-effortlessly-on-android-phones/"><u>How to Access and Listen to Apple Music Effortlessly on Android Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-local-groups-policies-to-individual-accounts-in-windows-11/"><u>Integrating Local Groups Policies to Individual Accounts in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/is-netflix-down-or-not-working-fix-your-netflix-problems/"><u>Is Netflix Down or Not Working? Fix Your Netflix Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lg-smart-television-mirror-display-setup-a-comprehensive-tutorial/"><u>LG Smart Television Mirror Display Setup - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-screen-captures-a-step-by-step-guide-for-macos-el-capitan-users/"><u>Mastering Screen Captures: A Step-by-Step Guide for macOS El Capitan Users</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/the-ultimate-walkthrough-of-customizing-property-attributes-in-action-modification-interface/"><u>The Ultimate Walkthrough of Customizing Property Attributes in Action Modification Interface</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-10-png-background-removal-apps-in-2ebyfhq8jl-zcbm7kpng-updated-web-and-mobile-solutions-reviewed/"><u>Top 10 PNG Background Removal Apps in 2ebyfhq8Jl-ZcBm7K.png, Updated – Web and Mobile Solutions Reviewed.</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-technique-to-switch-from-flac-to-lossless-wav-soundtracks/"><u>Ultimate Technique to Switch From FLAC to Lossless WAV Soundtracks</u></a></li>
 </ul></div>
 

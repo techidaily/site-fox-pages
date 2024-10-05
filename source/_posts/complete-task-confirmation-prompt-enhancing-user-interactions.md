@@ -1,7 +1,7 @@
 ---
 title: "Complete Task Confirmation Prompt: Enhancing User Interactions"
-date: 2024-09-26T04:42:30.911Z
-updated: 2024-09-29T16:18:37.813Z
+date: 2024-10-01T20:05:56.791Z
+updated: 2024-10-05T18:01:13.104Z
 tags:
   - user-guide
 categories:
@@ -82,6 +82,13 @@ Table of Contents
 
 ## Finish Actions Dialog
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Finish Actions
 
 You can use the Finish Actions tab to schedule two predefined actions that will be executed when the installer ends.
@@ -89,10 +96,10 @@ You can use the Finish Actions tab to schedule two predefined actions that will 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The tab is available only if ExitDialog is selected in the “Install Sequence” tree.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Show ReadMe File
@@ -102,10 +109,10 @@ You can use the Finish Actions tab to schedule two predefined actions that will 
 Select this option if you want to display the “Show readme file” check box on the ExitDialog.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ReadMe file
@@ -123,39 +130,32 @@ By default the “Show readme file” box on the dialog is selected.
 Select this option if you want to display the “Launch Your Application” check box on the ExitDialog.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Application
 
 Select the file that will be launched.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Arguments
 
 Optionally, you can specify the arguments that will be passed to the application. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Check by default
 
 By default the “Launch Your Application” box on the dialog is selected.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Optionally, you can launch any action at the end of the install process by adding it without sequence. For the \[Finish \] button assign an _Execute custom action_ event in the[Published Events Tab](https://tools.techidaily.com/advancedinstaller/products/) with its argument set with the previously created custom action. Another method is by adding a custom action under "Finish Execution" action group found in "Install Execution Stage".
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Minimize Installation Steps
 
@@ -196,18 +196,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-approaches-to-non-sound-media/"><u>[New] 2024 Approved Best Approaches to Non-Sound Media</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-exploring-youtubes-regular-income-mechanism/"><u>[New] In 2024, Exploring YouTube's Regular Income Mechanism</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-virtual-reality-enhancements-for-gamers/"><u>[New] Leading Virtual Reality Enhancements for Gamers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-decrypting-the-mystery-understanding-unlisted-content-on-youtube/"><u>[Updated] In 2024, Decrypting the Mystery Understanding 'Unlisted' Content on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-is-av1-the-new-video-codec-front-runner/"><u>[Updated] Is AV1 The New Video Codec Front-Runner?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-exclusive-list-of-top-mobile-editing-software-for-iphoneandroid/"><u>2024 Approved Exclusive List of Top Mobile Editing Software for iPhone/Android</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972711498-approach-discuss-the-role-of-aggregates-in-determining-the-properties-of-concrete/"><u>Approach: Discuss the Role of Aggregates in Determining the Properties of Concrete</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unveiling-the-potential-of-dual-screen-broadcasting-in-facebook-lives/"><u>In 2024, Unveiling the Potential of Dual-Screen Broadcasting in Facebook Lives</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/localize-your-digital-library-converting-books-into-pdf-on-flipbuilder/"><u>Localize Your Digital Library: Converting Books Into PDF on FlipBuilder</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/proofread-and-correct-text-spellings-for-accurate-flipbook-creation-try-free-trial-at-flipbuildercom/"><u>Proofread & Correct Text Spellings for Accurate Flipbook Creation - Try Free Trial at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/solving-the-enigma-of-blank-end-pages-on-your-flipbuilder-projects/"><u>Solving the Enigma of Blank End Pages on Your FlipBuilder Projects</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/turning-off-audio-cues-and-visual-transitions-for-smoother-presentations-on-flipbuilder-flipbuildercom/"><u>Turning Off Audio Cues & Visual Transitions for Smoother Presentations on FlipBuilder (flipbuilder.com)</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/will-your-flipbuilder-links-remain-functional-when-zoomed-in-on-a-webpage/"><u>Will Your FlipBuilder Links Remain Functional When Zoomed In On A Webpage?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-boost-your-video-impact-expert-tips-on-using-wm-maker/"><u>[New] 2024 Approved Boost Your Video Impact Expert Tips on Using WM Maker</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-create-captivating-content-engaging-windows-movie-maker-on-w11/"><u>[New] Create Captivating Content Engaging Windows Movie Maker on W11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-coloredge-clarity-redefined-examining-eizos-4kcg318-display/"><u>2024 Approved ColorEdge Clarity Redefined – Examining EIZO’s 4KCG318 Display</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-to-high-speed-pc-controller-extensions/"><u>2024 Approved Ultimate Guide to High-Speed PC Controller Extensions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-tecno-spark-10-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Tecno Spark 10 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-sccm-system-center-configuration-manager-guide-essential-tips-and-strategies/"><u>Effective SCCM (System Center Configuration Manager) Guide: Essential Tips & Strategies</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-capturing-amazon-prime-video-streams-across-various-gadgets/"><u>Guide: Capturing Amazon Prime Video Streams Across Various Gadgets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-get-the-official-seal-of-approval-on-x-a-complete-guide/"><u>How To Get The Official Seal of Approval On X - A Complete Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-the-setup-of-module-features-panel-in-web-applications/"><u>Mastering the Setup of Module Features Panel in Web Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-properties-feature-in-application-settings/"><u>Understanding the 'Properties' Feature in Application Settings</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-wav-audio-file-format-an-essential-guide/"><u>Understanding the WAV Audio File Format: An Essential Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/versatile-strategies-to-power-down-laptop-screen/"><u>Versatile Strategies to Power Down Laptop Screen</u></a></li>
 </ul></div>
 

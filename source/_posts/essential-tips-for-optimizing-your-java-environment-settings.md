@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Optimizing Your Java Environment Settings
-date: 2024-09-25T05:49:01.265Z
-updated: 2024-09-29T23:13:17.231Z
+date: 2024-09-29T19:19:43.301Z
+updated: 2024-10-05T16:45:49.916Z
 tags:
   - user-guide
 categories:
@@ -79,13 +79,6 @@ Table of Contents
 
 ## Java Settings
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Package with Bundled JRE
 
  For [Java Products](https://tools.techidaily.com/advancedinstaller/products/), you can bundle a JRE into your installation at build time. If your installation package includes a JRE bundle, the installed Java Product will use the bundle over any JRE version installed on the target machine.
@@ -94,48 +87,55 @@ In order to bundle a JRE with your build use the \[Add JRE Bundle... \] button.
 
 ![Java settings tab](https://cdn.advancedinstaller.com/img/ui/java-settings-tab.png "Java settings tab")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For the Mac OS build, only Java Products using Oracle VM support JRE bundling. You can change the MacOS VM provider from [Mac OS X settings Tab](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For the Mac OS build you can bundle only the JRE installed by the JDK. So you should first install the JDK on a Mac machine and then pick its installation folder when using the \[Add JRE Bundle... \] button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When none of the Java Products, included in the Mac OS X build, is self-contained (all of its application files are added under [Product Section](https://tools.techidaily.com/advancedinstaller/products/)) a JRE bundle cannot be included in the Mac OS X build.
 
 ## Compression
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use Pack200 to compress the JAR files
 
  Pack200 is a method to compress JAR files very efficiently. You can find more details on the [Pack200 page](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Only from JRE bundle
 
  You can use this option if you want to be packed using Pack200 only the JAR files from the JRE bundled with your application.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Verify JAR files signature before and after packing
 
 When you are using this option, the JAR signature is verified not to be broken during packing. The files whose signature is broken will not be compressed with Pack200.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The Verify JAR signature option requires JDK installed on your development machine and the JDK installation folder to be specified in the [External Tools](https://tools.techidaily.com/advancedinstaller/products/) settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Below there is a short video to visually discover this functionality:
 
@@ -177,20 +177,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-ultimate-guide-to-free-aesthetic-iphone-image-editing-software/"><u>[New] In 2024, The Ultimate Guide to FREE, Aesthetic iPhone Image Editing Software</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-live-production-pros-dilemma-pmix-vs-castpro/"><u>[New] Live Production Pros' Dilemma PMix Vs. CastPro</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-step-by-step-strategy-crafting-video-ads-without-spending-a-dime/"><u>[Updated] Step-by-Step Strategy Crafting Video Ads without Spending a Dime</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-motorola-moto-g04-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Motorola Moto G04 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-between-direct-chatgpt-and-enhanced-gpt-tools/"><u>Choosing Between Direct ChatGPT & Enhanced GPT Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-logitechs-latest-drivers-fast-optimized-for-windows-users/"><u>Download Logitech's Latest Drivers Fast: Optimized for Windows Users</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exporting-youtube-clips-as-prores-format-a-step-by-step-guide-for-mac-and-pc-users/"><u>Exporting YouTube Clips as ProRes Format: A Step-by-Step Guide for Mac & PC Users</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-to-saving-live-streams-of-la-traviata-and-tosca-in-high-quality-mp4-format/"><u>Guide to Saving Live Streams of La Traviata and Tosca in High-Quality MP4 Format</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-convert-and-save-your-favorite-songs-from-kkbox-as-mp3-files-on-pc-or-mac/"><u>Guide: Convert and Save Your Favorite Songs From KKBOX as MP3 Files on PC or Mac</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-downloading-various-video-formats-from-free-it-training-sources/"><u>Guide: Downloading Various Video Formats From Free IT Training Sources</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-convert-your-spotify-tracks-into-mp3-format-for-compatible-audio-playback/"><u>How to Convert Your Spotify Tracks Into MP3 Format for Compatible Audio Playback</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-efficiently-save-video-content-from-veoh-streaming-service-using-veoh-downloader-compatible-with-macos-and-windows/"><u>How to Efficiently Save Video Content From Veoh Streaming Service Using Veoh Downloader: Compatible with macOS and Windows</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-save-film-trailers-faster-with-traileraddicts-easy-download-tool/"><u>How to Save Film Trailers Faster with TrailerAddict's Easy Download Tool</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-mousepad-issues-on-windows-1087-fixes-and-solutions/"><u>Troubleshooting Lenovo Mousepad Issues on Windows 10/8/7: Fixes and Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-visual-journey-mastering-the-art-of-incorporating-text-into-images-on-pcmacos/"><u>[New] A Visual Journey Mastering the Art of Incorporating Text Into Images on PC/MacOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-basics-of-weaving-a-narrative-thread/"><u>[New] Basics of Weaving a Narrative Thread</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveil-the-potential-of-vfx-animated-text-for-free-for-2024/"><u>[New] Unveil the Potential of VFX Animated Text for Free for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-ultimateglobalvision-select-live-and-home-channels-together/"><u>[Updated] In 2024, UltimateGlobalVision Select Live and Home Channels Together</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/detailed-product-information-overview/"><u>Detailed Product Information Overview</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/discover-the-best-project-categories-a-comprehensive-guide-from-i-advise/"><u>Discover the Best Project Categories: A Comprehensive Guide From I Advise</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-techniques-to-migrate-images-from-samsung-s9-smartphone-to-your-personal-laptopdesktop-device/"><u>Effective Techniques to Migrate Images From Samsung S9 Smartphone to Your Personal Laptop/Desktop Device</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erase-with-ease-on-your-iphone-secure-the-best-eraser-now/"><u>Erase with Ease on Your iPhone – Secure the Best Eraser Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-your-faulty-ps4-joystick-a-comprehensive-troubleshooting-guide/"><u>Fix Your Faulty Ps4 Joystick: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-secure-is-your-data-with-dropbox-defending-against-cyber-threats/"><u>How Secure Is Your Data with Dropbox: Defending Against Cyber Threats</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/insightful-repackager-overview-a-comprehensive-guide/"><u>Insightful Repackager Overview: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pull-off-professional-video-edits-with-ken-burns-effect/"><u>Pull Off Professional Video Edits with Ken Burns Effect</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-tips-restoring-apple-music-functionality-on-your-iphone/"><u>Troubleshooting Tips: Restoring Apple Music Functionality on Your iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-dvd-ripper-platinum-free-keygen-activation-2024/"><u>WinX DVD Ripper Platinum - FREE Keygen Activation 2024</u></a></li>
 </ul></div>
 

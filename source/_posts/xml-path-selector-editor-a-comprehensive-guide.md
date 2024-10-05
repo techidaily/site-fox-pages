@@ -1,7 +1,7 @@
 ---
 title: "XML Path Selector Editor: A Comprehensive Guide"
-date: 2024-09-22T17:54:31.928Z
-updated: 2024-09-29T21:08:24.278Z
+date: 2024-10-02T18:04:04.175Z
+updated: 2024-10-05T21:54:27.324Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,10 @@ Table of Contents
 ## XML Locator
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Search
@@ -111,10 +111,17 @@ In this field, you can define the value of the search operation. This field corr
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If an **Element has index in the parent** criteria is selected the value field must contain only integer numbers and is a_0 based_ value. In case a string is supplied the search operation's found value will always return the current element.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Store
@@ -133,10 +140,16 @@ This field corresponds with the _Result Type_ field from the [](https://tools.te
 * The text contained by the element that meets the search criteria will be returned by the search operation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### in
@@ -144,13 +157,6 @@ This field corresponds with the _Result Type_ field from the [](https://tools.te
 In this field, you can specify the Advanced Installer property where the resulted value will be stored. You can write the name of the property or use the \[... \] button to display the [Property Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) and select a property. This field corresponds with the _Result Property_ field from the[](https://tools.techidaily.com/advancedinstaller/products/) panel.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)It is highly advised to use **public properties**. A public property has its name written in capital letters. If in this field a property is written which is not previously declared, it will be created**only** if the search proves to be successful; otherwise, it will not exist.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The following combinations for an XML locator are possible:
 
@@ -199,24 +205,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-master-the-algorithm-effective-tools-to-increase-youtube-views/"><u>[Updated] 2024 Approved Master the Algorithm Effective Tools to Increase YouTube Views</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-discord-live-stream-recording-guide/"><u>[Updated] Discord Live Stream Recording Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-perfection-seamless-text-integration-on-pc-and-mac-systems/"><u>2024 Approved Photo Perfection Seamless Text Integration on PC & Mac Systems</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/3d-games-and-apps-using-advanced-techniques/"><u>3D Games and Apps Using Advanced Techniques</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-a24-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy A24</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/audio-capture-essentials-mastering-mac-setup/"><u>Audio Capture Essentials Mastering Mac Setup</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-edge-podcast-apps-for-android-lovers-top-6/"><u>Cutting-Edge Podcast Apps for Android Lovers (Top 6)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-8-cybernetic-photograph-assembly-suite/"><u>Elite 8 Cybernetic Photograph Assembly Suite</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-xs-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone XS Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-y100-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo Y100 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/leveraging-advanced-visual-technologies-discover-mirillis-picture2/"><u>Leveraging Advanced Visual Technologies: Discover Mirillis Picture2</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/revolutionize-your-past-the-essential-guide-to-updating-history/"><u>Revolutionize Your Past: The Essential Guide to Updating History</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-for-downloading-youtube-movievideo-rentals-as-mp4-mov-or-avi-files/"><u>Step-by-Step Tutorial for Downloading YouTube Movie/Video Rentals as MP4, MOV, or AVI Files</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/streamline-entertainment-seamless-downloading-of-dramafevers-popular-tv-shows-and-films/"><u>Streamline Entertainment: Seamless Downloading of DramaFever's Popular TV Shows & Films</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/streamline-your-library-spiegel-to-video-converter-for-mp4-mov-avi-formats/"><u>Streamline Your Library: Spiegel-to-Video Converter for MP4, MOV, AVI Formats</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/sync-your-tunes-using-jetaudio-for-spotify-audio-files/"><u>Sync Your Tunes: Using JetAudio for Spotify Audio Files</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-alternatives-to-bandicam-for-recording-on-mac-and-windows-discover-allavsofts-superior-features/"><u>Top Alternatives to Bandicam for Recording on Mac & Windows: Discover Allavsoft's Superior Features</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-clipnabber-substitutes-unmatched-performance-for-pc-and-mac-with-allvsoft/"><u>Top Clipnabber Substitutes: Unmatched Performance for PC & Mac with Allvsoft</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-behind-successful-content-consumption-with-netflix/"><u>Unlocking the Secrets Behind Successful Content Consumption with Netflix</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-artist-writes-an-ipad-guide-to-time-lapse-photography/"><u>[New] 2024 Approved The Artist' Writes An iPad Guide to Time-Lapse Photography</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-direct-transfer-of-youtube-playlists-stepwise-processing-for-2024/"><u>[New] Direct Transfer of YouTube Playlists - Stepwise Processing for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-shooting-hdr-on-iphone-a-comprehensive-guide-for-2024/"><u>[New] Shooting HDR on iPhone A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-steadicam-models-compatible-with-dslr-cameras-for-2024/"><u>[New] Top Steadicam Models Compatible with DSLR Cameras for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-leading-selection-top-6-fb-lite-vids-for-2024/"><u>[Updated] Leading Selection #Top 6 FB Lite Vids for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bikes-viewing-experience-5050-of-the-ultimate-helmet-cam-tech/"><u>Bike's Viewing Experience - 50/50 of the Ultimate Helmet Cam Tech</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/commanding-digital-governance-essential-tips-for-excelling-at-the-president-game-on-a-personal-computer/"><u>Commanding Digital Governance: Essential Tips for Excelling at 'The President' Game on a Personal Computer</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-repository-organization-and-management-tools/"><u>Effective Repository Organization and Management Tools</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortless-file-management-how-to-use-folder-chooser-dialogs-effectively/"><u>Effortless File Management: How to Use Folder Chooser Dialogs Effectively</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enhance-your-workshop-with-the-ultimate-guide-to-editing-event-mappers/"><u>Enhance Your Workshop with the Ultimate Guide to Editing Event Mappers</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/enhancing-visibility-with-cookiebot-technology-smart-seo-solutions/"><u>Enhancing Visibility with Cookiebot Technology - Smart SEO Solutions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/exploring-different-techniques-in-project-type-imports/"><u>Exploring Different Techniques in Project Type Imports</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-discovering-your-customized-youtube-playlist/"><u>In 2024, Discovering Your Customized YouTube Playlist</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heard-words-spoken-ideas-no-price/"><u>In 2024, Heard Words, Spoken Ideas – No Price</u></a></li>
 </ul></div>
 

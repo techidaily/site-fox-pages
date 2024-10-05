@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Walkthrough of Customizing Property Attributes in Action Modification Interface
-date: 2024-09-25T22:38:57.077Z
-updated: 2024-09-30T01:03:56.395Z
+date: 2024-10-01T22:10:36.878Z
+updated: 2024-10-05T17:02:45.580Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ This dialog allows you to specify a status message that will be displayed in the
 ![Edit Action Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-action-properties.png "Edit Action Properties Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -90,10 +90,10 @@ This dialog allows you to specify a status message that will be displayed in the
 Edit the text which is displayed in the progress dialog box, or written in the log file when the action is executing. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Template
@@ -105,10 +105,10 @@ These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstal
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Action text is displayed only for custom actions that are sequenced as **deferred** between the_InstallInitialize_ (Preparing action group) and_InstallFinalize actions_ (Finish Execution action group).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -144,21 +144,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-libertycam-pro-live-stream-review-explored-for-2024/"><u>[Updated] LibertyCam Pro Live Stream Review Explored for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-streamlining-media-transformation-from-xml-to-srt/"><u>2024 Approved Streamlining Media Transformation From XML to SRT</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12 5G</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/free-full-stack-development-with-vue-and-laravel-create-professional-websites-using-creative-tims-vue-paper-ui-framework-and-updivision-techniques/"><u>Free Full-Stack Development with Vue and Laravel - Create Professional Websites Using Creative Tim's Vue Paper UI Framework and UPDIVISION Techniques</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/fully-loaded-get-sht-done-bootstrap-toolkit-complimentary-design-assets-from-creative-tim/"><u>Fully-Loaded Get Sht Done Bootstrap Toolkit - Complimentary Design Assets From Creative Tim</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/goods-under-article-2-are-defined-as-tangible-personal-property-that-can-be-moved-from-one-place-to-another/"><u>Goods Under Article 2 Are Defined as Tangible Personal Property that Can Be Moved From One Place to Another.</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/goods/"><u>Goods.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/implementing-dynamic-filters-transform-your-videos-digitally/"><u>Implementing Dynamic Filters Transform Your Videos Digitally</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-f14-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy F14 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-civi-3-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi Civi 3 Phones? | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/professional-blk-design-collection-enhanced-bootstrap-4-template-package-from-creative-tim/"><u>Professional BLK Design Collection - Enhanced Bootstrap 4 Template Package From Creative Tim</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/professional-nextjs-dashboard-pro-with-enhanced-features-integrated-nextjs-advanced-react-and-bootstrap-4-components-reactstrap-admin-panel/"><u>Professional NextJS Dashboard Pro with Enhanced Features: Integrated NextJS, Advanced React & Bootstrap 4 Components, Reactstrap Admin Panel</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/professional-ui-dashboard-toolkit-for-react-developers-premium-bootstrap-integration-admin-template-suite-from-creative-tim/"><u>Professional UI Dashboard Toolkit for React Developers: Premium Bootstrap Integration, Admin Template Suite From Creative Tim</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-unseen-dos-and-donts-of-instagram-reels/"><u>The Unseen Dos & Don'ts of Instagram Reels</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-2024-led-torches-industry-experts-reviews-and-ratings-zdnet/"><u>Top-Rated 2024 LED Torches: Industry Experts' Reviews & Ratings - ZDNet</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unlocking-the-art-of-ps3-gaming-footage-collection-for-2024/"><u>Unlocking the Art of PS3 Gaming Footage Collection for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionize-visual-content-leading-montage-tools-for-phones/"><u>[New] Revolutionize Visual Content Leading Montage Tools for Phones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-stories-on-youtube-2023-edition/"><u>[Updated] Pioneering Stories on YouTube, 2023 Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-30-hashtags-propel-video-views-in-gameplay/"><u>[Updated] Top 30 Hashtags Propel Video Views in Gameplay</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exclusive-choice-premium-virtual-reality-experiences-on-google-cardboard/"><u>Exclusive Choice Premium Virtual Reality Experiences on Google Cardboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-right-acer-bluetooth-drivers-in-minutes-safe-download-options/"><u>Find & Install the Right Acer Bluetooth Drivers in Minutes – Safe Download Options</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-overcoming-the-game-crash-issue-in-formula-1-2021-for-pc/"><u>Fixes and Solutions: Overcoming the Game-Crash Issue in Formula 1 2021 for PC</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/free-htc-video-player-watch-htc-files-seamlessly-on-windows/"><u>Free HTC Video Player: Watch HTC Files Seamlessly on Windows</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-transferring-your-samsung-galaxy-note10-content-seamlessly-onto-your-television/"><u>Guide: Transferring Your Samsung Galaxy Note10 Content Seamlessly Onto Your Television</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/high-quality-conversion-techniques-how-to-turn-your-pdf-files-into-perfect-png-images-on-windows-10/"><u>High-Quality Conversion Techniques: How to Turn Your PDF Files Into Perfect PNG Images on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-lava-blaze-2-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Blaze 2 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-persistent-issues-with-gameplay-frames-per-second/"><u>Resolving Persistent Issues with Gameplay Frames Per Second</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-screenr-problems-how-to-restore-functionality-successfully/"><u>Troubleshooting Screenr Problems: How to Restore Functionality Successfully</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-fixing-problems-with-editable-versions-of-documents-from-pdfs/"><u>Troubleshooting: Fixing Problems with Editable Versions of Documents From PDFs</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-guide-to-selecting-superior-iphone-e-6-video-transcoder-software/"><u>Ultimate Guide to Selecting Superior iPhone E 6 Video Transcoder Software</u></a></li>
 </ul></div>
 

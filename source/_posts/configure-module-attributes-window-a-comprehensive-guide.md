@@ -1,7 +1,7 @@
 ---
 title: "Configure Module Attributes Window: A Comprehensive Guide"
-date: 2024-09-27T12:29:33.569Z
-updated: 2024-09-30T02:45:08.011Z
+date: 2024-09-28T19:08:58.433Z
+updated: 2024-10-05T21:04:03.620Z
 tags:
   - user-guide
 categories:
@@ -76,10 +76,10 @@ This dialog allows you to select the source file of the currently selected merge
 ![Merge Module Properties dialog](https://cdn.advancedinstaller.com/img/dialog/merge-modules-properties.png "Merge Module Properties dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Source Path
@@ -89,10 +89,10 @@ This field contains the actual path to the source file's location on the hard dr
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Selecting a source file of a different merge module is equivalent to removing the current merge module and adding the new one in the [Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -128,24 +128,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-rhythmic-explorations-the-essential-15-videos-for-musicians/"><u>[Updated] Rhythmic Explorations The Essential 15 Videos for Musicians</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-zipping-outcomes-turning-into-subrip-text-files-for-2024/"><u>[Updated] Zipping Outcomes Turning Into SubRip Text Files for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-embark-on-an-avatar-journey-crafting-characters-with-ease-and-style/"><u>2024 Approved Embark on an Avatar Journey Crafting Characters with Ease and Style</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-htc-u23-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from HTC U23.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/efficient-social-media-management-removing-multiple-contacts-in-one-step-on-snapchat/"><u>Efficient Social Media Management: Removing Multiple Contacts in One Step on Snapchat</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-save-film-trailers-faster-with-traileraddicts-easy-download-tool/"><u>How to Save Film Trailers Faster with TrailerAddict's Easy Download Tool</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-save-streaming-content-as-various-file-types-mp4-avi-mp3-on-windows-and-macos/"><u>How to Save Streaming Content as Various File Types (MP4, AVI, MP3) on Windows and macOS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max Passcode Screen?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-insider-secrets-mastering-unseen-social-media-features/"><u>In 2024, Insider Secrets Mastering Unseen Social Media Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-navigating-timecodes-and-text-in-srt-with-macos/"><u>In 2024, Navigating Timecodes and Text in SRT with macOS</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/master-video-editing-on-mac-seamless-transfer-of-youtube-footage-into-final-cut-pro-using-apples-prores-codec/"><u>Master Video Editing on Mac: Seamless Transfer of YouTube Footage Into Final Cut Pro Using Apple's ProRes Codec</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/save-and-download-mp4movavi-files-of-emersons-law-school-bar-study-courses/"><u>Save & Download MP4/MOV/AVI Files of Emerson's Law School Bar Study Courses</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-accessing-every-episode-of-the-spongebob-series-online/"><u>Step-by-Step Guide: Accessing Every Episode of the SpongeBob Series Online</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-for-downloading-youtube-movievideo-rentals-as-mp4-mov-or-avi-files/"><u>Step-by-Step Tutorial for Downloading YouTube Movie/Video Rentals as MP4, MOV, or AVI Files</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/streamline-entertainment-seamless-downloading-of-dramafevers-popular-tv-shows-and-films/"><u>Streamline Entertainment: Seamless Downloading of DramaFever's Popular TV Shows & Films</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/streamline-your-library-spiegel-to-video-converter-for-mp4-mov-avi-formats/"><u>Streamline Your Library: Spiegel-to-Video Converter for MP4, MOV, AVI Formats</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/sync-your-tunes-using-jetaudio-for-spotify-audio-files/"><u>Sync Your Tunes: Using JetAudio for Spotify Audio Files</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/k-cross-platform-content-sharing-convert-and-upload-with-these-tools/"><u>Unlock Cross-Platform Content Sharing Convert and Upload with These Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-award-winners-in-writing-for-different-movie-types/"><u>[New] Award Winners in Writing for Different Movie Types</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mastering-azures-transcription-service/"><u>[Updated] Mastering Azure's Transcription Service</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/8-edition/"><u>8 Edition</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-administrative-conversations-key-strategies-and-tips/"><u>Effective Administrative Conversations: Key Strategies and Tips</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/event-management-techniques-mastering-control-and-coordination/"><u>Event Management Techniques: Mastering Control and Coordination</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/expert-tips-for-professional-gopro-film-cuts-and-editing-techniques/"><u>Expert Tips for Professional GoPro Film Cuts and Editing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725290363474-free-winx-dvd-ripper-convert-dvds-to-mp4avi-formats-for-ios-and-android-devices/"><u>Free WinX DVD Ripper: Convert DVDs to MP4/AVI Formats for iOS & Android Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-roi-with-targeted-market-research-strategies/"><u>In 2024, Maximizing ROI with Targeted Market Research Strategies</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-no-cost-video-editing-top-online-solutions-ranked/"><u>In 2024, No-Cost Video Editing Top Online Solutions Ranked</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-must-read-learn-from-deepfake-scandals-and-protect-your-stream/"><u>New 2024 Approved Must-Read Learn From Deepfake Scandals & Protect Your Stream</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-fcp-editing-essentials-adding-transitions-like-a-pro-in-3-easy-steps/"><u>New In 2024, FCP Editing Essentials Adding Transitions Like a Pro in 3 Easy Steps</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/recognizing-and-avoiding-counterfeit-apple-id-fraud-insights-from-malwarefox/"><u>Recognizing and Avoiding Counterfeit Apple ID Fraud: Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/reviving-your-ipad-effortlessly-with-these-tips-for-a-successful-icloud-backup-restoration-process/"><u>Reviving Your iPad Effortlessly with These Tips for a Successful iCloud Backup Restoration Process</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-crafting-a-masterpiece-with-collages-for-2024/"><u>Step-by-Step Crafting a Masterpiece with Collages for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016140614-troubleshoot-and-restore-fortnites-voice-communication-features-now/"><u>Troubleshoot and Restore Fortnite's Voice Communication Features Now</u></a></li>
 </ul></div>
 

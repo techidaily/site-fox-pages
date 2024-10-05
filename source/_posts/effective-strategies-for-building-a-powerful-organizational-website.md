@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Building a Powerful Organizational Website
-date: 2024-09-26T10:13:15.144Z
-updated: 2024-09-30T00:39:21.841Z
+date: 2024-09-30T20:17:36.935Z
+updated: 2024-10-05T21:54:59.818Z
 tags:
   - user-guide
 categories:
@@ -98,28 +98,49 @@ The components in an Advanced Installer project are created by following the Win
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Creating components which don't respect these rules may result in an installation package which doesn't work correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating new features
 
 ![New Feature](https://cdn.advancedinstaller.com/img/toolbar/feature-new.png "New Feature") Use the \[New Feature \] toolbar button, the “New Feature” tree context menu item or press the Insert key while the “Features And Components” panel is focused. The new feature will be added after the last sub-feature of the selected feature. The feature will get a default name, which you can edit anytime. 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)When a new component is created and there is no feature in the project, a new feature, named "MainFeature" will be automatically created. Also when you create a feature from this page and there is no other feature in the project, that feature will also get the name "Main Feature". All the components will be added by default in the "Current Feature".
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Renaming a feature
 
  Use the “Rename” tree context menu item or press the F2 key while a feature is selected. Only the features names can be edited. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Renaming a component
 
  Use the “Rename” tree context menu item or press the F2 key while a component is selected. This identifier is used in conditions to refer to the installed state or the action state of a component.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When changing the name of a component, all the conditions that refer to this identifier must be updated accordingly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Moving a feature up, down, left or right
 
@@ -128,10 +149,23 @@ The components in an Advanced Installer project are created by following the Win
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)A feature's position among its siblings is important because at install time, in the Customize dialog, the features will be displayed in the order they appear in the left tree.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting the Current Feature
@@ -139,13 +173,6 @@ The components in an Advanced Installer project are created by following the Win
  Use the “Set As Current” tree context menu item. The Current Feature will be displayed in **bold** text. Newly created components for various resources (files, registry keys, etc.) will always be added to the Current Feature. 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can also set the Current Feature using the drop-down list box in the toolbar of the Component-producing pages.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Moving a component between features
 
@@ -189,57 +216,36 @@ Use the “Add to list” context menu item or press theF4 key while a tree item
 
 Use the “Add Children to List” option or press theShift + F4 key to add all the item's children to the list.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing features and shared components
 
 ![Remove Feature](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove Feature") Use the\[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while a feature or component is selected. 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)A feature must be empty before you can remove it. A regular component cannot be removed, only a shared one. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Searching for a feature, component or resource
 
 ![Find](https://cdn.advancedinstaller.com/img/ui/search-icons/magnifier.png "Find") Type the label text that you want to search in the top right corner edit box. Press theEnter key to trigger the search.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Find Next](https://cdn.advancedinstaller.com/img/ui/search-icons/down.png "Find Next") To search for the next value use the _Find Next_ button or press theF3 key. The search results are displayed in the[Search Pane](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Find and Append](https://cdn.advancedinstaller.com/img/ui/search-icons/plus.png "Find and Append") Use the_Find and Append_ button to append the search results to the search pane list.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you want to search for the whole word you must enclose the string from the combo in quotes (").
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The search is case insensitive.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -286,20 +292,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-maintain-uninterrupted-youtube-experience-on-phones/"><u>[New] Maintain Uninterrupted YouTube Experience on Phones</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-create-captivating-entrance-scenes-with-flipbuilder-integrate-movies-into-your-web-pages/"><u>1. 'Create Captivating Entrance Scenes with FlipBuilder: Integrate Movies Into Your Web Pages'</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-easily-access-and-print-your-favorite-pages-from-a-digital-flipbook-on-flipbuildercom/"><u>1. Easily Access and Print Your Favorite Pages From a Digital Flipbook on FlipBuilder.com</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-your-notes-opt-for-mematic/"><u>2024 Approved Master Your Notes - Opt for Mematic</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-tips-for-effective-network-livestreaming-using-vlc/"><u>2024 Approved Precision Tips for Effective Network Livestreaming Using VLC</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-essential-steps-to-compress-youtube-video-spaces/"><u>2024 Approved The Essential Steps to Compress YouTube Video Spaces</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/advanced-flip-techniques-unveiled-comprehensive-tutorials-and-resources-on-flipbuilder-your-go-to-image-editing-hub/"><u>Advanced Flip Techniques Unveiled: Comprehensive Tutorials & Resources on FlipBuilder - Your Go-To Image Editing Hub</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/convert-pdf-to-flipbooks-easily-using-flip-builder-design-and-edit-page-turning-books-instantly/"><u>Convert PDF to Flipbooks Easily Using Flip Builder – Design and Edit Page-Turning Books Instantly</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-strategies-for-properly-aligning-your-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>Effective Strategies for Properly Aligning Your eBooks with FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-strategies-to-boost-flipboard-links-in-your-print-material-visit-our-website/"><u>Effective Strategies to Boost FlipBoard Links in Your Print Material - Visit Our Website</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-apple-iphone-15-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Apple iPhone 15 Pro on Windows??</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-huawei-nova-y71-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Huawei Nova Y71 and Browser | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-top-7-camcorders-for-extreme-weather-and-splashes-review/"><u>In 2024, Top 7 Camcorders for Extreme Weather and Splashes Review</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-command-line-conversion-techniques-with-flipbuilder/"><u>Understanding Command-Line Conversion Techniques with FlipBuilder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-finest-choices-free-streaming-tools-suitable-everywhere/"><u>[New] Finest Choices Free Streaming Tools Suitable Everywhere</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-guide-to-the-ifunny-meme-application/"><u>[New] Quick Guide to the iFunny Meme Application</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-guide-to-thriving-as-a-digital-creator-for-2024/"><u>A Guide to Thriving as a Digital Creator for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/comprehensive-guide-to-sns-hdr-pro-and-similar-software/"><u>Comprehensive Guide to SNS HDR Pro and Similar Software</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enhance-your-query-mastering-the-edit-search-dialog/"><u>Enhance Your Query: Mastering the Edit Search Dialog</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fossil-sport-gear-reviewed-premium-performance-meets-wallet-friendly-prices/"><u>Fossil Sport Gear Reviewed: Premium Performance Meets Wallet-Friendly Prices</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-enable-usb-debugging-on-your-android-device-with-apowersoft-phone-manager/"><u>How to Enable USB Debugging on Your Android Device with Apowersoft Phone Manager</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-t2-pro-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo T2 Pro 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-insert-electronic-signatures-into-pdfs-using-simple-techniques/"><u>How To: Insert Electronic Signatures Into PDFs Using Simple Techniques</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-screen-captures-a-step-by-step-guide-for-macos-el-capitan-users/"><u>Mastering Screen Captures: A Step-by-Step Guide for macOS El Capitan Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/netgear-wireless-networking-driver-updates-where-and-how-to-download/"><u>NETGEAR Wireless Networking Driver Updates: Where and How to Download</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/private-discussions-enhancing-engagement-through-personalized-interactions/"><u>Private Discussions: Enhancing Engagement Through Personalized Interactions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/seo-best-practices-mastering-the-art-of-configuring-virtual-directories-online/"><u>SEO Best Practices: Mastering the Art of Configuring Virtual Directories Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turning-text-to-audio-with-ais-help/"><u>Turning Text to Audio with AI's Help</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-technique-to-switch-from-flac-to-lossless-wav-soundtracks/"><u>Ultimate Technique to Switch From FLAC to Lossless WAV Soundtracks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-profitability-on-youtube-shorts-essentials-and-future-earning-prospects-for-2024/"><u>Unlocking Profitability on Youtube Shorts Essentials and Future Earning Prospects for 2024</u></a></li>
 </ul></div>
 

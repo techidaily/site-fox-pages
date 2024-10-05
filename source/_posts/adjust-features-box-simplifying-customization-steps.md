@@ -1,7 +1,7 @@
 ---
 title: Adjust Features Box - Simplifying Customization Steps
-date: 2024-09-23T06:11:40.716Z
-updated: 2024-09-30T04:09:04.681Z
+date: 2024-10-03T21:21:02.282Z
+updated: 2024-10-05T21:37:25.613Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 ![ODBC Attribute Dialog](https://cdn.advancedinstaller.com/img/dialog/odbc-attribute.png "ODBC Attribute Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -91,10 +91,10 @@ Table of Contents
  The attribute's name.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -102,10 +102,10 @@ Table of Contents
  The attribute's value. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) for ODBC data sources and ODBC drivers and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### OK
@@ -113,10 +113,10 @@ Table of Contents
  Saves the attribute's name and value.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cancel
@@ -156,17 +156,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-light-intensity-in-hdr-scrutinized-beneficial/"><u>[New] Light Intensity in HDR Scrutinized Beneficial?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-mastering-the-art-of-cropping-in-the-digital-age/"><u>[New] Mastering the Art of Cropping in the Digital Age</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-key-to-professional-filming-without-spending-free-lessons-from-the-best-in-green-screen-artistry-for-2024/"><u>[New] The Key to Professional Filming Without Spending Free Lessons From the Best in Green Screen Artistry for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-how-to-resolve-spellbreak-pc-game-crash-issues/"><u>Fixes and Solutions: How To Resolve Spellbreak PC Game Crash Issues</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/goods/"><u>Goods.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-narzo-60-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme Narzo 60 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/professional-blk-design-collection-enhanced-bootstrap-4-template-package-from-creative-tim/"><u>Professional BLK Design Collection - Enhanced Bootstrap 4 Template Package From Creative Tim</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/professional-nextjs-dashboard-pro-with-enhanced-features-integrated-nextjs-advanced-react-and-bootstrap-4-components-reactstrap-admin-panel/"><u>Professional NextJS Dashboard Pro with Enhanced Features: Integrated NextJS, Advanced React & Bootstrap 4 Components, Reactstrap Admin Panel</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/professional-ui-dashboard-toolkit-for-react-developers-premium-bootstrap-integration-admin-template-suite-from-creative-tim/"><u>Professional UI Dashboard Toolkit for React Developers: Premium Bootstrap Integration, Admin Template Suite From Creative Tim</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/propel-your-youtube-journey-breakthroughs-at-the-500-subscriber-mark/"><u>Propel Your YouTube Journey Breakthroughs at the 500-Subscriber Mark</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-harnessing-the-power-of-mov-recording-in-windows-10-for-2024/"><u>[New] Harnessing the Power of MOV Recording in Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-extracting-youtube-images-online-desktop-tools-and-terminal-tactics/"><u>[Updated] 2024 Approved Extracting YouTube Images Online, Desktop Tools & Terminal Tactics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-building-a-following-with-stunning-unboxing-content/"><u>[Updated] Building a Following with Stunning Unboxing Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-focus-on-you-iphone-and-android-photo-trimmers/"><u>[Updated] Focus On You IPhone & Android Photo Trimmers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-simplified-methods-for-logging-videos-on-vimeo/"><u>[Updated] Simplified Methods for Logging Videos on Vimeo</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-mastering-the-edit-record-details-interface-a-step-by-step-guide/"><u>1. Mastering the 'Edit Record Details' Interface: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-guide-transform-your-spotify-music-library-into-mp3-files-using-a-top-ranking-converter/"><u>Easy Guide: Transform Your Spotify Music Library Into MP3 Files Using a Top-Ranking Converter</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-sccm-system-center-configuration-manager-guide-essential-tips-and-strategies/"><u>Effective SCCM (System Center Configuration Manager) Guide: Essential Tips & Strategies</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-record-audio-from-youtube-for-2024/"><u>How to Record Audio From YouTube for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2020-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE (2020)</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/managing-tasks-with-project-type-sections/"><u>Managing Tasks with Project Type Sections</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-the-setup-of-module-features-panel-in-web-applications/"><u>Mastering the Setup of Module Features Panel in Web Applications</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-wav-audio-file-format-an-essential-guide/"><u>Understanding the WAV Audio File Format: An Essential Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/versatile-strategies-to-power-down-laptop-screen/"><u>Versatile Strategies to Power Down Laptop Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
 </ul></div>
 

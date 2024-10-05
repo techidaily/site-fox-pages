@@ -1,7 +1,7 @@
 ---
 title: Understanding MacOS Java Runtime Configuration Settings
-date: 2024-09-27T23:40:33.608Z
-updated: 2024-09-29T21:37:16.335Z
+date: 2024-10-03T19:49:20.773Z
+updated: 2024-10-05T20:54:14.670Z
 tags:
   - user-guide
 categories:
@@ -82,16 +82,10 @@ Table of Contents
 ![Conditional Levels Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-macos-properties.png "Conditional Levels Dialog")  
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -101,10 +95,10 @@ Table of Contents
 In addition to the predefined options, this dialog allows you to specify any other property that should be added to the Mac OS application configuration file (Info.plist).
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding new properties
@@ -114,10 +108,10 @@ Use the \[New Sibling \] button to create a new property/value pair.
 Use the \[New Child \] button to create a new property/value pair as a child of the selected “dict” or “array” property.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit a property
@@ -131,10 +125,10 @@ During editing use:
 * Tab, Up andDown keys to continue editing other items.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a property
@@ -174,17 +168,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-xbox-game-recordings-made-easy/"><u>[New] In 2024, Step-by-Step Xbox Game Recordings Made Easy</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-tune-treasure-trove-save-and-study-sound-files/"><u>[Updated] 2024 Approved Tune Treasure Trove Save & Study Sound Files</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-sharing-sites-guide-for-instagram-story-and-post-links/"><u>[Updated] In 2024, Sharing Sites Guide for Instagram Story and Post Links</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-world-within-reach-the-most-exciting-psvr-games-ahead/"><u>2024 Approved World Within Reach The Most Exciting PSVR Games Ahead</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazfit-helio-ring-overview-specs-breakdown-plus-purchase-price-forecast/"><u>Amazfit Helio Ring Overview: Specs Breakdown + Purchase Price Forecast</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cost-effective-stratosphere-storage-for-large-archives/"><u>Cost-Effective Stratosphere Storage for Large Archives</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-amd-processor-drivers-for-windows-systems/"><u>Download the Latest AMD Processor Drivers for Windows Systems</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enable-in-app-printing-feature-for-your-flipbook-readers-on-flipbuilder/"><u>Enable In-App Printing Feature for Your Flipbook Readers on FlipBuilder</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enhance-your-ebooks-visual-appeal-with-our-flipbuilder-integrate-your-brand-in-the-background/"><u>Enhance Your eBook's Visual Appeal with Our FlipBuilder - Integrate Your Brand in the Background!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-it-possible-to-navigate-a-flippingbook-pdf-in-reverse-order-similar-to-arabic-text-reading/"><u>Is It Possible to Navigate a FlippingBook PDF in Reverse Order Similar to Arabic Text Reading?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/master-self-publishing-with-ebookwriter-create-interactive-page-turners-from-home-ebookwritercom/"><u>Master Self-Publishing with eBookWriter: Create Interactive Page-Turners From Home [eBookWriter.com]</u></a></li>
-<li><a href="https://fox-http.techidaily.com/premier-visual-experience-top-10-screen-selections-for-mac-for-2024/"><u>Premier Visual Experience Top 10 Screen Selections for Mac for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-gopro-fixing-fish-eye-effects-in-video/"><u>[New] Mastering GoPro Fixing Fish Eye Effects in Video</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-viral-visionaries-most-watched-clips-2023-for-2024/"><u>[New] Viral Visionaries Most Watched Clips 2023 for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-document-total-screen-content-for-2024/"><u>[Updated] Document Total Screen Content for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-navigating-the-world-of-unfollowed-instagrams/"><u>[Updated] In 2024, Navigating the World of Unfollowed Instagrams</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-powerpoint-presentation-rescue-effortless-retrieval-of-lost-ppts/"><u>1. PowerPoint Presentation Rescue: Effortless Retrieval of Lost PPTs</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/commanding-digital-governance-essential-tips-for-excelling-at-the-president-game-on-a-personal-computer/"><u>Commanding Digital Governance: Essential Tips for Excelling at 'The President' Game on a Personal Computer</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comprehensive-step-by-step-guide-on-using-video-converter-studios-latest-4th-edition/"><u>Comprehensive Step-by-Step Guide on Using Video Converter Studio's Latest 4Th Edition</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-strategies-for-building-a-powerful-organizational-website/"><u>Effective Strategies for Building a Powerful Organizational Website</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortless-file-management-how-to-use-folder-chooser-dialogs-effectively/"><u>Effortless File Management: How to Use Folder Chooser Dialogs Effectively</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/exploring-different-techniques-in-project-type-imports/"><u>Exploring Different Techniques in Project Type Imports</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-magic5-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-rollback-new-enhancements-in-windows-11-system/"><u>How to Rollback New Enhancements in Windows 11 System</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-tecno-spark-20-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Tecno Spark 20 Pro Device SIM</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/learn-audio-recording-in-audacity-with-your-mac-for-2024/"><u>Learn Audio Recording in Audacity with Your Mac for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pc-awakening-guide-navigating-windows-8-revival-strategies/"><u>PC Awakening Guide: Navigating Windows' 8 Revival Strategies</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-common-sound-recording-problems-on-ios-and-android-devices/"><u>Troubleshooting Common Sound Recording Problems on iOS and Android Devices</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-risks-of-a-roblox-infection-and-easy-step-by-step-removal-guide/"><u>Understanding the Risks of a Roblox Infection & Easy Step-by-Step Removal Guide</u></a></li>
 </ul></div>
 

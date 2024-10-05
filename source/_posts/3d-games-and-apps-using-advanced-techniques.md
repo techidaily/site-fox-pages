@@ -1,7 +1,7 @@
 ---
 title: 3D Games and Apps Using Advanced Techniques
-date: 2024-09-24T05:10:06.203Z
-updated: 2024-09-29T22:33:57.061Z
+date: 2024-09-30T16:15:55.661Z
+updated: 2024-10-05T22:20:39.597Z
 tags:
   - product
 categories:
@@ -66,16 +66,16 @@ Action Tutorials
 
 ![Mirillis Action! - DirectX 12 game recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_games_applications_recording_mode.jpg "Select DirectX 12 game recording mode") 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, run your DirectX 12 game. Action! HUD appears in the top right corner of your DirectX 12 game window showing current game framerate in blue color. This means that Action! connected to your DirectX 12 game successfully and is ready to start game recording. 
 
 ![Mirillis Action! - Ready to start DirectX 12 video recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_normal_status.jpg "Action! HUD shows it is ready to start DirectX12 recording") 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  DirectX 12 game recording
 
@@ -90,10 +90,10 @@ Action Tutorials
 ![Mirillis Action! - DirectX 12 game recording finished](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_normal_status.jpg "Action! HUD - recording is finished") 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pause DirectX 12 gameplay recording
@@ -102,14 +102,14 @@ Action Tutorials
 
 ![Mirillis Action! - paused game recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_recording_paused_status.jpg "Action! HUD - recording is paused") 
 
- To resume your paused DirectX 12 game recording use   **Shift+F9** hotkey again. 
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ To resume your paused DirectX 12 game recording use   **Shift+F9** hotkey again. 
 
 ## DirectX 12 gameplay recordings playback
 
@@ -118,15 +118,22 @@ Action Tutorials
 ![Mirillis Action! - DirectX 12 game recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_thumbnail_dx12.jpg "Action! recordings manager") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Double click opens Action! video player dedicated for fast video recordings playback. 
 
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_playback_dx12.jpg "Action! player - recording playback") 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Action! HUD on DirectX 12 games recordings
 
@@ -134,25 +141,11 @@ Action Tutorials
 
 ![Mirillis Action! - Settings - Do not record HUD in DirectX 12 games and applications](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_hud_settings.jpg "Action! HUD settings") 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Upload your DirectX 12 game recordings to YouTube
 
  With Action! you can easily upload your DirectX 12 game recording to YouTube. Just select your DirectX 12 game recording and use YouTube export button in the bottom of Action! recordings list. Select YouTube HD profile, provide all required information and start your DirectX 12 game clip upload. 
 
 ![Mirillis Action! - Uploading DirectX 12 game recording to YouTube](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_selecting_youtube_hd_profile.jpg "Upload recording to YouTube") 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add webcam to your DirectX 12 games recordings
 
@@ -169,16 +162,17 @@ Action Tutorials
 ![Mirillis Action! - Add logo to DirectX 12 game recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_games_overlay_graphics_settings.jpg "Action! - overlay graphics settings") 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## DirectX 12 games recording troubleshooting
@@ -204,14 +198,20 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-designing-a-memorable-youtube-sign-off/"><u>[New] In 2024, Designing a Memorable YouTube Sign-Off</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-engaging-strategies-to-enlarge-your-instagram-base/"><u>[New] In 2024, Engaging Strategies to Enlarge Your Instagram Base</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-boosting-streams-switching-to-av1-in-youtubes-settings/"><u>[Updated] Boosting Streams Switching to AV1 in YouTube's Settings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-examining-the-financial-success-strategies-of-t-series-on-youtube/"><u>[Updated] In 2024, Examining the Financial Success Strategies of T-Series on YouTube</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-complete-guide-downloading-bet-content-converting-tv-show-episodes-movies-and-more-into-audio-and-video-files/"><u>1. 'Complete Guide: Downloading BET Content - Converting TV Show Episodes, Movies & More Into Audio and Video Files'</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/access-comprehensive-ine-e-learning-modules-free-download/"><u>Access Comprehensive INE E-Learning Modules – Free Download</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/capture-the-best-of-nz-television-secure-tv-show-and-video-downloads-via-tvnz-downloader/"><u>Capture the Best of NZ Television: Secure TV Show & Video Downloads via TVNZ Downloader</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/convert-and-download-tumblr-video-content-as-mp4avimovwmv-for-pcsmacs-easily/"><u>Convert & Download Tumblr Video Content as MP4/AVI/MOV/WMV for PCs/Macs Easily</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/from-memory-to-moments-share-images-seamlessly-today-for-2024/"><u>From Memory to Moments Share Images Seamlessly Today for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-best-5-webcams-with-mic-for-2024/"><u>[New] Best 5 Webcams with Mic for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-engaging-excellence-best-story-filter-compilation/"><u>[Updated] Engaging Excellence Best Story Filter Compilation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-perfecting-your-technique-a-vr-recordists-manual/"><u>[Updated] In 2024, Perfecting Your Technique A VR Recordist's Manual</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-prime-emulation-tools-sonys-ps1-classics-at-the-fingertips/"><u>[Updated] Prime Emulation Tools Sony's PS1 Classics at the Fingertips</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/a-complete-walkthrough-on-utilizing-apowersofts-advanced-screen-capturing-tool/"><u>A Complete Walkthrough on Utilizing Apowersoft's Advanced Screen Capturing Tool</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/discover-the-best-free-platforms-for-crafting-your-own-youtube-channel-introductions-the-ultimate-5-pick-guide/"><u>Discover the Best Free Platforms for Crafting Your Own YouTube Channel Introductions: The Ultimate 5-Pick Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/find-file-version-information-a-comprehensive-guide/"><u>Find File Version Information: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-htc-u23-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your HTC U23 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-iphone-long-exposure-a-comprehensive-guide/"><u>In 2024, Mastering iPhone Long Exposure A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/itunes-version-121-common-issues-and-troubleshooting-tips/"><u>ITunes Version 12.1 - Common Issues and Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mitigating-pressure-chatgpt-techniques/"><u>Mitigating Pressure: ChatGPT Techniques</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/modify-origin-settings-within-the-property-values-window/"><u>Modify Origin Settings Within the Property Values Window</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/personalize-the-overview-details-panel/"><u>Personalize the Overview Details Panel</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-moving-pictures-from-samsung-smartphone-to-mac-system/"><u>Step-by-Step Tutorial: Moving Pictures From Samsung Smartphone to MAC System</u></a></li>
 </ul></div>
 

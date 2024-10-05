@@ -1,7 +1,7 @@
 ---
 title: Exploring Different Techniques in Project Type Imports
-date: 2024-09-26T12:37:39.085Z
-updated: 2024-09-30T10:39:14.354Z
+date: 2024-10-03T16:51:49.085Z
+updated: 2024-10-05T20:52:50.571Z
 tags:
   - user-guide
 categories:
@@ -86,10 +86,10 @@ This tab enables you to import various external projects or packages into an Adv
 ![Vd import](https://cdn.advancedinstaller.com/img/project/vd-import.png "Vd import")This wizard allows you to import a Visual Studio setup project into an Advanced Installer project. This project type is available in the freeware edition.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Wix Product
@@ -97,41 +97,48 @@ This tab enables you to import various external projects or packages into an Adv
 ![Wix project import](https://cdn.advancedinstaller.com/img/project/wix-project-import.png "Wix project import")This wizard allows you to import a Wix product in an Advanced Installer project. This project type is available in the freeware edition.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Inno Setup Script
 
 ![Inno import](https://cdn.advancedinstaller.com/img/project/inno-import.png "Inno import")This wizard allows you to import an Inno Setup script in an Advanced Installer project. This project type is available in the freeware edition.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### NSIS Script
 
 ![Nsis import](https://cdn.advancedinstaller.com/img/project/nsis-import.png "Nsis import")This wizard allows you to import an NSIS script in an Advanced Installer project. This project type is available in the freeware edition.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### InstallShield Project
 
 ![Import is](https://cdn.advancedinstaller.com/img/project/import-is.png "Import is")This wizard allows you to import an MSI project that was previously created with InstallShield. This project type is available in the freeware edition.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### WISE Project
 
 ![Wise import](https://cdn.advancedinstaller.com/img/project/wise-import.png "Wise import")This wizard allows you to [import a WISE project](https://tools.techidaily.com/advancedinstaller/products/) into an Advanced Installer project. This project type is available in the freeware edition.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### MSIX Package
 
@@ -145,13 +152,6 @@ You can also import a Java Eclipse or IntelliJ IDEA Workspace from the [Start Pa
 
 ![Appv4 import](https://cdn.advancedinstaller.com/img/project/appv4-import.png "Appv4 import") This type of project gives you the possibility to[import existing App-V 4.x packages](https://tools.techidaily.com/advancedinstaller/products/) into an MSI Advanced Installer project. Note that this project type requires an Architect license.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Import App-V 5.x Package
 
 ![Appv5 import](https://cdn.advancedinstaller.com/img/project/appv5-import.png "Appv5 import") This type of project gives you the possibility to[import existing App-V 5.x packages](https://tools.techidaily.com/advancedinstaller/products/) into an MSI Advanced Installer project. Note that this project type requires an Architect license.
@@ -161,10 +161,10 @@ You can also import a Java Eclipse or IntelliJ IDEA Workspace from the [Start Pa
 ![Thin app](https://cdn.advancedinstaller.com/img/project/thin-app.png "Thin app") This type of project gives you the possibility to import existing ThinApp project folders and edit them using the Advanced Installer GUI. Note that this project type requires an Architect license.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -200,24 +200,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-expert-tips-crafting-compelling-facebook-ad-videos/"><u>[Updated] Expert Tips Crafting Compelling Facebook Ad Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-transform-yourfb-watchlist-with-easy-youtube-video-autoplay-configuration/"><u>[Updated] Transform YourFB Watchlist with Easy Youtube Video Autoplay Configuration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advance-your-gaming-experience-by-upgrading-to-asus-nvidia-geforce-rtx-a5000-graphics-card/"><u>Advance Your Gaming Experience by Upgrading to ASUS NVIDIA GeForce RTX A5000 Graphics Card</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/capture-and-save-your-favorite-clips-as-mp4-avi-or-mov-using-nowvideo-downloader-for-pc-and-mac/"><u>Capture and Save Your Favorite Clips as MP4, AVI, or MOV Using NowVideo Downloader for PC and Mac</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/download-and-convert-your-market-motive-courses-into-popular-videoaudio-formats-for-easy-access/"><u>Download & Convert Your Market Motive Courses Into Popular Video/Audio Formats for Easy Access</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/download-and-enjoy-pandora-media-in-high-quality-mp3-format-for-all-devices-windows-mac/"><u>Download & Enjoy Pandora Media in High-Quality MP3 Format for All Devices (Windows, Mac)</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/download-and-convert-bandcamp-albums-and-playlists-to-crisp-clear-mp3-audio-at-320-kbps/"><u>Download and Convert Bandcamp Albums & Playlists to Crisp, Clear MP3 Audio at 320 Kbps</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/download-and-save-your-favorite-youtubers-episodes-for-offline-viewing/"><u>Download and Save Your Favorite YouTubers' Episodes for Offline Viewing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/download-and-start-streaming-with-bambuser-your-ultimate-guide/"><u>Download and Start Streaming with Bambuser: Your Ultimate Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/free-downloading-guide-mediasack-media-content-music-and-movies-and-emphasize-the-cost-effectiveness-with-phrases-like-without-spending-a-penny/"><u>Free Downloading Guide, Mediasack Media Content, Music & Movies, and Emphasize the Cost-Effectiveness with Phrases Like without Spending a Penny.</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/full-seasons-19-and-20-of-south-park-in-high-quality-mp4-format-ready-to-download-now/"><u>Full Seasons 19 & 20 of South Park in High-Quality MP4 Format – Ready to Download Now!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-find-x7-ultra-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo Find X7 Ultra to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-13-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 13 Pro Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mastering-mac-capturing-screens-with-record-feature-for-2024/"><u>Mastering Mac Capturing Screens with Record Feature for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/no-price-no-problem-turning-twitter-vids-into-gifs-for-2024/"><u>No Price, No Problem Turning Twitter Vids Into GIFs for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-unsuccessful-nvidia-connect-attempts-in-windows-11/"><u>Resolving Unsuccessful Nvidia Connect Attempts in Windows 11</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-downloading-full-hd-youtube-content-for-macwindows-systems/"><u>Step-by-Step Guide to Downloading Full HD YouTube Content for Mac/Windows Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uncover-the-10-most-trusted-wedding-timer-apps-androidios-of-2023/"><u>[New] Uncover the 10 Most Trusted Wedding Timer Apps (Android/iOS) of 2023</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-microcapture-screen-capture-tool-analysis/"><u>[Updated] In 2024, MicroCapture Screen Capture Tool Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-color-transformation-an-expert-written-by-dr-jane-smith/"><u>[Updated] The Art of Color Transformation An Expert' Written by Dr. Jane Smith</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-evolution-of-youtube-shorts-templates-and-their-impact-on-engagement-for-2024/"><u>[Updated] The Evolution of YouTube Shorts Templates and Their Impact on Engagement for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-powerpoint-presentation-rescue-effortless-retrieval-of-lost-ppts/"><u>1. PowerPoint Presentation Rescue: Effortless Retrieval of Lost PPTs</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-ultimate-guide-enjoy-apple-music-streaming-on-your-android-device/"><u>1. Ultimate Guide: Enjoy Apple Music Streaming on Your Android Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pulse-up-your-routine-20-most-empowering-workout-songs/"><u>2024 Approved Pulse Up Your Routine 20 Most Empowering Workout Songs</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comprehensive-step-by-step-guide-on-using-video-converter-studios-latest-4th-edition/"><u>Comprehensive Step-by-Step Guide on Using Video Converter Studio's Latest 4Th Edition</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-strategies-for-building-a-powerful-organizational-website/"><u>Effective Strategies for Building a Powerful Organizational Website</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/essential-guide-tamper-protection-strategies-in-windows-11-insights-from-malwarefox/"><u>Essential Guide: Tamper Protection Strategies in Windows 11 - Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-to-navigating-successful-edit-actions-and-dialogue-interactions/"><u>Guide to Navigating Successful Edit Actions and Dialogue Interactions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-m6-pro-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on M6 Pro 4G</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-modifying-facial-gender-on-snapchatinstagramfacebook-photos/"><u>In 2024, Modifying Facial Gender on Snapchat/Instagram/Facebook Photos</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/intuitive-real-estate-choice-conversation-tool/"><u>Intuitive Real Estate Choice Conversation Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-vs-edge-deciding-on-prime-gaming-browsers/"><u>Opera Vs. Edge: Deciding on Prime Gaming Browsers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/perfecting-video-speed-for-engaging-instagram-stories/"><u>Perfecting Video Speed for Engaging Instagram Stories</u></a></li>
+<li><a href="https://win-updates.techidaily.com/the-ultimate-guide-top-5-elite-4k-video-transcoding-software/"><u>The Ultimate Guide: Top 5 Elite 4K Video Transcoding Software</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-common-sound-recording-problems-on-ios-and-android-devices/"><u>Troubleshooting Common Sound Recording Problems on iOS and Android Devices</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-risks-of-a-roblox-infection-and-easy-step-by-step-removal-guide/"><u>Understanding the Risks of a Roblox Infection & Easy Step-by-Step Removal Guide</u></a></li>
 </ul></div>
 

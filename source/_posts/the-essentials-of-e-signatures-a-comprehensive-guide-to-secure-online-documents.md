@@ -1,7 +1,7 @@
 ---
 title: "The Essentials of E-Signatures: A Comprehensive Guide to Secure Online Documents"
-date: 2024-09-25T17:27:16.707Z
-updated: 2024-09-30T05:17:34.676Z
+date: 2024-10-01T21:36:22.406Z
+updated: 2024-10-05T17:43:53.542Z
 tags:
   - user-guide
 categories:
@@ -109,26 +109,26 @@ Table of Contents
 ## IDigitalSignature
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IDigitalSignature: IDispatch
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overview
 
 This component is meant to edit digital signature details.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -147,10 +147,10 @@ This component is meant to edit digital signature details.
 **Array<IDigitalCertificate> Certificates** \- Gets all certificates from the personal certificate store.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -171,10 +171,10 @@ This method sets the password policy to store the encrypted password in the proj
 This method sets the password policy to enter a password each time project is built. This method is available only when a certificate from disk is used and that certificate requires a password.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -216,14 +216,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-rgb-to-srgb-transition-what-it-means-for-visual-media/"><u>[Updated] Rgb to Srgb Transition What It Means for Visual Media</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-process-converting-youtube-clips-into-playful-gifs-for-2024/"><u>[Updated] Step-By-Step Process Converting YouTube Clips Into Playful GIFs for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-the-door-to-dual-video-playback/"><u>[Updated] Unlocking the Door to Dual Video Playback</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-quickly-capture-iphone-screens-on-the-fly/"><u>2024 Approved How to Quickly Capture iPhone Screens on the Fly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-and-workarounds-for-slime-rancher-2-pc-game-crashing-problems/"><u>Effective Fixes and Workarounds for Slime Rancher 2 PC Game Crashing Problems</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-to-saving-live-streams-of-la-traviata-and-tosca-in-high-quality-mp4-format/"><u>Guide to Saving Live Streams of La Traviata and Tosca in High-Quality MP4 Format</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-convert-and-save-your-favorite-songs-from-kkbox-as-mp3-files-on-pc-or-mac/"><u>Guide: Convert and Save Your Favorite Songs From KKBOX as MP3 Files on PC or Mac</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-downloading-various-video-formats-from-free-it-training-sources/"><u>Guide: Downloading Various Video Formats From Free IT Training Sources</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-convert-your-spotify-tracks-into-mp3-format-for-compatible-audio-playback/"><u>How to Convert Your Spotify Tracks Into MP3 Format for Compatible Audio Playback</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-who-will-be-the-champion-of-dynamic-video-recording-black-gopro-or-x1000v/"><u>[New] Who Will Be the Champion of Dynamic Video Recording, Black GoPro or X1000V?</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-ultimate-guide-enjoy-apple-music-streaming-on-your-android-device/"><u>1. Ultimate Guide: Enjoy Apple Music Streaming on Your Android Device</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/configure-module-attributes-window-a-comprehensive-guide/"><u>Configure Module Attributes Window: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-7-spaceships-selling-ai-generated-content/"><u>Discover the Leading 7 Spaceships Selling AI Generated Content</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminate-your-windows-10-trouble-fixing-the-unanticipated-store-exception-error-with-ease/"><u>Eliminate Your Windows 10 Trouble: Fixing the Unanticipated Store Exception Error with Ease</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/essential-guide-tamper-protection-strategies-in-windows-11-insights-from-malwarefox/"><u>Essential Guide: Tamper Protection Strategies in Windows 11 - Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-to-navigating-successful-edit-actions-and-dialogue-interactions/"><u>Guide to Navigating Successful Edit Actions and Dialogue Interactions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-microphone-malfunctions-on-the-razer-barracuda-x-laptop-windows-1110/"><u>How to Solve Microphone Malfunctions on the Razer Barracuda X Laptop (Windows 11/10)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-elite-eight-polishing-pictures-through-premium-grid-makers/"><u>In 2024, Elite Eight Polishing Pictures Through Premium Grid Makers</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/intuitive-real-estate-choice-conversation-tool/"><u>Intuitive Real Estate Choice Conversation Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-opera-experience-secure-free-discord-nitro/"><u>Maximize Opera Experience: Secure Free Discord Nitro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-chatgpt-for-global-language-diversity/"><u>Tailoring ChatGPT for Global Language Diversity</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-risks-of-a-roblox-infection-and-easy-step-by-step-removal-guide/"><u>Understanding the Risks of a Roblox Infection & Easy Step-by-Step Removal Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/unveiling-the-impact-of-viruses-on-mobile-devices-insights-from-malwarefox/"><u>Unveiling the Impact of Viruses on Mobile Devices: Insights From MalwareFox</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-10-the-definitive-resource-for-downloading-and-updating-lenovo-ideapad-100-drivers/"><u>Windows 10: The Definitive Resource for Downloading & Updating Lenovo IdeaPad 100 Drivers</u></a></li>
 </ul></div>
 

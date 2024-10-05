@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Changing Text Documents Through the Update Interface
-date: 2024-09-23T00:26:22.107Z
-updated: 2024-09-30T10:21:00.450Z
+date: 2024-10-02T16:39:52.453Z
+updated: 2024-10-05T18:03:19.777Z
 tags:
   - user-guide
 categories:
@@ -95,10 +95,10 @@ The main dialog interface is composed from two panels. The left side will displa
 Multiple updates can be defined. These operations will be executed on the files specified under [Global Properties](https://tools.techidaily.com/advancedinstaller/products/) in the “Include” field.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add an Append/Create operation
@@ -111,31 +111,31 @@ A new Search and Replace operation can be created by selecting\[New \] from the 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Only **one** append/create operation can be declared per "Text File Update".
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Rename an operation
 
 A created operation can be renamed by selecting\[Rename \] from the context menu or by pressingF2 key while the operation is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Move Up
 
 To move up the selected update operation select from the context menu the \[Move Up \] option or pressShift + Up keys when the update is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Move Down
 
 To move up the selected update operation select from the context menu the \[Move Down \] option or pressShift + Down keys when the update is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Delete
 
@@ -143,10 +143,10 @@ An update operation can be deleted by selecting from the context menu the \[Dele
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -193,15 +193,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-visionarys-toolkit-for-personalized-animation-techniques/"><u>[Updated] In 2024, The Visionary's Toolkit for Personalized Animation Techniques</u></a></li>
-<li><a href="https://tools.techidaily.com/apowersoft/video-editor/"><u>ApowerEdit</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-itel-a05s-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Itel A05s Phones with/without a PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/insta-collage-creation-tips-for-engaging-online-portfolits/"><u>Insta-Collage Creation: Tips for Engaging Online Portfolits</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/streamline-entertainment-seamless-downloading-of-dramafevers-popular-tv-shows-and-films/"><u>Streamline Entertainment: Seamless Downloading of DramaFever's Popular TV Shows & Films</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/streamline-your-library-spiegel-to-video-converter-for-mp4-mov-avi-formats/"><u>Streamline Your Library: Spiegel-to-Video Converter for MP4, MOV, AVI Formats</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/sync-your-tunes-using-jetaudio-for-spotify-audio-files/"><u>Sync Your Tunes: Using JetAudio for Spotify Audio Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-fabric-of-future-cutting-edge-vr-technology/"><u>The Fabric of Future Cutting-Edge VR Technology</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-alternatives-to-bandicam-for-recording-on-mac-and-windows-discover-allavsofts-superior-features/"><u>Top Alternatives to Bandicam for Recording on Mac & Windows: Discover Allavsoft's Superior Features</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-video-playback-device-pcmobile-focus-for-2024/"><u>Ultimate Video Playback Device - PC/Mobile Focus for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-video-creation-with-aiseesofts-capture-capabilities/"><u>[New] Unlocking Video Creation with Aiseesoft's Capture Capabilities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-eliminate-your-instagram-existence-a-comprehensive-walkthrough/"><u>[Updated] 2024 Approved How to Eliminate Your Instagram Existence A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/create-your-own-customized-event-tracking-panel/"><u>Create Your Own Customized Event Tracking Panel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/diverse-alternatives-to-winmovie-editor-applications/"><u>Diverse Alternatives to WinMovie Editor Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dng-a-jpeg-conversion-gratuite-en-ligne-movavi/"><u>DNG a JPEG Conversion Gratuite en Ligne - Movavi</u></a></li>
+<li><a href="https://fox-http.techidaily.com/expanding-horizons-the-vr-in-classroom-effect-for-2024/"><u>Expanding Horizons The VR in Classroom Effect for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instagram-intonation-blending-audio-with-imagery-for-2024/"><u>Instagram Intonation Blending Audio with Imagery for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/iupdatesproject-your-ultimate-guide-to-timely-updates-and-information/"><u>IUpdatesProject: Your Ultimate Guide to Timely Updates and Information</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/protecting-your-system-how-antivirus-programs-and-firewalls-work-together-explained/"><u>Protecting Your System: How Antivirus Programs and Firewalls Work Together Explained</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/resolving-image-export-restrictions-in-apowermanager-app-for-iphones-and-ipads/"><u>Resolving Image Export Restrictions in ApowerManager App for iPhones and iPads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/streamline-your-social-experience-with-mobile-music-files-for-2024/"><u>Streamline Your Social Experience with Mobile Music Files for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-memory-warnings-when-playing-roblox-essential-tips/"><u>Troubleshooting iPhone Memory Warnings When Playing Roblox: Essential Tips</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-macro-viruses-removal-strategies-explored/"><u>Understanding Macro Viruses: Removal Strategies Explored</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-properties-feature-in-application-settings/"><u>Understanding the 'Properties' Feature in Application Settings</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/unlocking-the-power-of-apowersoft-a-comprehensive-guide-on-using-the-background-eraser-redemption-code/"><u>Unlocking the Power of Apowersoft: A Comprehensive Guide on Using the Background Eraser Redemption Code</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity with the IShortcutsComponent Toolset – Advanced Coding Solutions
-date: 2024-09-27T23:47:43.617Z
-updated: 2024-09-30T05:33:36.289Z
+date: 2024-10-04T21:57:06.167Z
+updated: 2024-10-05T16:11:47.790Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 This interface creates new shortcuts and gets all the existing shortcuts from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ This interface creates new shortcuts and gets all the existing shortcuts from th
 IShortcutsComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -137,10 +137,16 @@ IShortcutsComponent : IDispatch
 **Array<IShorcut> Shortcuts** \- Gets all the shortcuts from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -155,16 +161,10 @@ CreateFolderShorcut(IFolder **Folder**, IFolder**TargetFolder**) - returns IFold
 \- Creates a new shortcut for the specified **TargetFolder**, in the desired**Folder**.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,16 +208,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-secure-your-webcam-with-these-10-tips-for-2024/"><u>[Updated] Secure Your Webcam with These 10 Tips for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-practices-for-reviving-vintage-pictures-with-state-of-the-art-restoration-software/"><u>Best Practices for Reviving Vintage Pictures with State-of-the-Art Restoration Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/bypassing-dvd-region-restrictions-and-copyright-locks-with-vlc-media-player/"><u>Bypassing DVD Region Restrictions & Copyright Locks with VLC Media Player</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/capture-and-save-your-favorite-clips-as-mp4-avi-or-mov-using-nowvideo-downloader-for-pc-and-mac/"><u>Capture and Save Your Favorite Clips as MP4, AVI, or MOV Using NowVideo Downloader for PC and Mac</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/download-and-convert-your-market-motive-courses-into-popular-videoaudio-formats-for-easy-access/"><u>Download & Convert Your Market Motive Courses Into Popular Video/Audio Formats for Easy Access</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/download-and-convert-bandcamp-albums-and-playlists-to-crisp-clear-mp3-audio-at-320-kbps/"><u>Download and Convert Bandcamp Albums & Playlists to Crisp, Clear MP3 Audio at 320 Kbps</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/full-seasons-19-and-20-of-south-park-in-high-quality-mp4-format-ready-to-download-now/"><u>Full Seasons 19 & 20 of South Park in High-Quality MP4 Format – Ready to Download Now!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-k70-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi K70 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/rank-your-download-preferences-with-our-top-5-list/"><u>Rank Your Download Preferences with Our Top 5 List</u></a></li>
-<li><a href="https://facebook.techidaily.com/selling-giphy-off-the-impact-on-social-media-landscape-explored/"><u>Selling Giphy Off? The Impact on Social Media Landscape Explored</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-downloading-full-hd-youtube-content-for-macwindows-systems/"><u>Step-by-Step Guide to Downloading Full HD YouTube Content for Mac/Windows Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unlocking-potential-advanced-techniques-for-slug-line-creation/"><u>[New] In 2024, Unlocking Potential Advanced Techniques for Slug Line Creation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-harness-10-tools-for-free-thumbnail-acquisition/"><u>[Updated] Harness 10 Tools for FREE Thumbnail Acquisition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-channel-building-gear-a-quick-start-guide/"><u>2024 Approved Channel-Building Gear A Quick Start Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/8-edition/"><u>8 Edition</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/best-mobile-live-streaming-platforms-top-8-picks-you-cant-miss/"><u>Best Mobile Live Streaming Platforms: Top 8 Picks You Can't Miss!</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/best-spotify-replacements-innovative-music-streaming-platforms-youll-love/"><u>Best Spotify Replacements: Innovative Music Streaming Platforms You'll Love</u></a></li>
+<li><a href="https://win11.techidaily.com/boot-time-essentials-configuring-windows-startups/"><u>Boot Time Essentials: Configuring Windows Startups</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-the-most-recent-pl2303-driver-version-for-your-windows-pc/"><u>Easy Steps to Download the Most Recent PL2303 Driver Version for Your Windows PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722994501281-elevate-your-vr-experience-with-the-essential-oculus-quest-2-elite-carrying-case-unbox-test-and-reveal-proscons/"><u>Elevate Your VR Experience with the Essential Oculus Quest 2 Elite Carrying Case – Unbox, Test & Reveal Pros/Cons</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enhancing-engagement-effective-ways-to-implement-interactive-chats/"><u>Enhancing Engagement: Effective Ways to Implement Interactive Chats</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/expert-tips-for-professional-gopro-film-cuts-and-editing-techniques/"><u>Expert Tips for Professional GoPro Film Cuts and Editing Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-7-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-v29-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo V29 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/recognizing-and-avoiding-counterfeit-apple-id-fraud-insights-from-malwarefox/"><u>Recognizing and Avoiding Counterfeit Apple ID Fraud: Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/reviving-your-ipad-effortlessly-with-these-tips-for-a-successful-icloud-backup-restoration-process/"><u>Reviving Your iPad Effortlessly with These Tips for a Successful iCloud Backup Restoration Process</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-mastering-pdf-comments-across-computers-and-mobile-devices/"><u>Step-by-Step Guide to Mastering PDF Comments Across Computers and Mobile Devices</u></a></li>
 </ul></div>
 
