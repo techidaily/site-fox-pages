@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Mastering the Configuration Options of the Settings Tab"
-date: 2024-10-04T22:11:02.538Z
-updated: 2024-10-05T17:11:58.791Z
+date: 2024-10-04T17:15:37.714Z
+updated: 2024-10-11T03:07:34.027Z
 tags:
   - user-guide
 categories:
@@ -88,6 +88,13 @@ Table of Contents
 
 ## Layout Guides
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Dynamic guidelines
 
 Enable the display of dynamic guidelines when moving or resizing controls. These guidelines will show you possible alignments relative to other controls on the dialog.
@@ -100,25 +107,11 @@ Enable the display of dynamic guidelines when moving or resizing controls. These
 
 The control is moved from grid point to grid point.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Width/Height
 
 Specify the distance between two grid points. The distance is measured in [installer units](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Dynamic guidelines and dialog grid are mutually exclusive. You can temporarily disable the dynamic guidelines or the "snap to grid" function by pressing and holding down the Shift key.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
@@ -130,15 +123,28 @@ Specify the distance between two grid points. The distance is measured in [insta
 ## Dialog Margins
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Show Margins
 
 Display dialog margins.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Top, Bottom, Left, Right
 
@@ -177,21 +183,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-the-best-of-the-best-12-youtube-video-game-openers-freepaid/"><u>[New] 2024 Approved The Best of the Best 12 YouTube Video Game Openers (FREE/PAID)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-guide-incorporating-visual-annotations-in-edits/"><u>[Updated] 2024 Approved Essential Guide Incorporating Visual Annotations in Edits</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-personalized-pick-our-top-12-favorite-pc-clicker-games/"><u>[Updated] 2024 Approved Personalized Pick Our Top 12 Favorite PC Clicker Games</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-taking-stock-of-magix-project-management-app/"><u>[Updated] In 2024, Taking Stock of MAGIX Project Management App</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-learn-to-optimize-your-watchlist-using-dual-screens-on-netflix/"><u>[Updated] Learn to Optimize Your Watchlist Using Dual Screens on Netflix</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-essence-of-interactive-virtuality/"><u>[Updated] The Essence of Interactive Virtuality</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/adjust-features-box-simplifying-customization-steps/"><u>Adjust Features Box - Simplifying Customization Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/differences-between-signal-and-whatsapp-which-is-more-secure-for-your-chats/"><u>Differences Between Signal and WhatsApp – Which Is More Secure for Your Chats?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/editing-conversations-made-easy-expert-tips-and-tricks-for-effective-communication-pages/"><u>Editing Conversations Made Easy: Expert Tips and Tricks for Effective Communication Pages</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-techniques-for-removing-stickers-from-2021-tiktok-videos/"><u>Effective Techniques for Removing Stickers From 2021 TikTok Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fine-tuning-frames-a-comprehensible-approach-to-iphone-editing/"><u>Fine-Tuning Frames A Comprehensible Approach to iPhone Editing</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-y200e-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo Y200e 5G FRP Without Computer</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-connecting-your-iphone-with-lg-television/"><u>Step-by-Step Guide: Connecting Your iPhone with LG Television</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-on-modifying-cloud-compute-instance-configurations/"><u>Step-by-Step Tutorial on Modifying Cloud Compute Instance Configurations</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-methods-for-capturing-online-radio-broadcasts-on-pc-and-mac/"><u>Top Methods for Capturing Online Radio Broadcasts on PC & Mac</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-methods-for-saving-your-favorite-disneyplus-shows-for-later-viewing/"><u>Top Methods for Saving Your Favorite Disney+ Shows for Later Viewing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-trendsetters-on-twitternet-top-10-threads-ranking/"><u>[New] 2024 Approved Trendsetters on Twitternet Top 10 Threads Ranking</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-techniques-for-enhancing-game-stream-videos-with-ai-portrait-technology/"><u>[New] In 2024, Techniques for Enhancing Game Stream Videos with AI Portrait Technology</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-guide-to-closing-videos-effectively/"><u>[New] In 2024, The Ultimate Guide to Closing Videos Effectively</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-vocal-choirs-on-tiktoks-digital-stage-for-2024/"><u>[Updated] Vocal Choirs on TikTok's Digital Stage for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-strategies-disabling-chrome-alerts-and-preventing-intrusive-advertisements/"><u>Effective Strategies: Disabling Chrome Alerts & Preventing Intrusive Advertisements</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enhancing-your-digital-collection-mastering-the-edit-library-feature/"><u>Enhancing Your Digital Collection: Mastering the Edit Library Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-when-the-outer-worlds-keeps-crashing-on-pc/"><u>Essential Fixes for When 'The Outer Worlds' Keeps Crashing on PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/excellence-in-video-selecting-peak-frame-rates-for-slow-motion-effects/"><u>Excellence in Video Selecting Peak Frame Rates for Slow-Motion Effects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-successfully-transfer-high-size-documents-using-whatsapp/"><u>How to Successfully Transfer High-Size Documents Using WhatsApp</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-faster-powerpoint-tips-for-quick-video-viewing/"><u>In 2024, Faster PowerPoint Tips for Quick Video Viewing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/is-browserbrokerexe-a-threat-a-comprehensive-guide-to-its-security-implications/"><u>Is Browser_broker.exe a Threat? A Comprehensive Guide to Its Security Implications</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/methods-to-capture-audio-from-your-jango-device-and-convert-to-mp3-format/"><u>Methods to Capture Audio From Your Jango Device & Convert to MP3 Format</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/by-step-youtube-image-enlargement-technique/"><u>Step-by-Step Youtube Image Enlargement Technique</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-macos-java-runtime-configuration-settings/"><u>Understanding MacOS Java Runtime Configuration Settings</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-java-virtual-machine-control-panel/"><u>Understanding the Java Virtual Machine Control Panel</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/update-verification-file-detection-methods/"><u>Update Verification File Detection Methods</u></a></li>
 </ul></div>
 

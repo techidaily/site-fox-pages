@@ -1,7 +1,7 @@
 ---
 title: Modify Origin Settings Within the Property Values Window
-date: 2024-10-03T16:51:24.157Z
-updated: 2024-10-05T16:00:14.686Z
+date: 2024-10-08T23:38:27.919Z
+updated: 2024-10-11T04:34:03.260Z
 tags:
   - user-guide
 categories:
@@ -87,19 +87,31 @@ This feature enables you to automatically set the value of a property from a val
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If the property's value cannot be updated at build time, the build will be stopped!
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Synchronize property's value with:
@@ -112,10 +124,10 @@ This feature enables you to automatically set the value of a property from a val
 * Value from a JSON file
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File Path
@@ -123,10 +135,16 @@ This feature enables you to automatically set the value of a property from a val
 Pick the file using the \[...\] button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -166,20 +184,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/a-complete-walkthrough-on-utilizing-apowersofts-advanced-screen-capturing-tool/"><u>A Complete Walkthrough on Utilizing Apowersoft's Advanced Screen Capturing Tool</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/discover-the-best-free-platforms-for-crafting-your-own-youtube-channel-introductions-the-ultimate-5-pick-guide/"><u>Discover the Best Free Platforms for Crafting Your Own YouTube Channel Introductions: The Ultimate 5-Pick Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/find-file-version-information-a-comprehensive-guide/"><u>Find File Version Information: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-perform-an-append-or-create-function-in-data-management/"><u>How to Perform an Append or Create Function in Data Management</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-xiaomi-13-ultra-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Xiaomi 13 Ultra Activity | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-redmi-a2-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Redmi A2</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/leading-ai-voice-synthesis-applications-the-ultimate-guide/"><u>Leading AI Voice Synthesis Applications: The Ultimate Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/malwarebytes-reviewed-protecting-your-system-without-compromising-security/"><u>Malwarebytes Reviewed: Protecting Your System without Compromising Security</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-milestone-in-7-years-of-language-acquisition/"><u>Mondly's Milestone in 7 Years of Language Acquisition</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/should-you-embrace-the-latest-iphone-model/"><u>Should You Embrace the Latest iPhone Model?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-key-to-a-profitable-yt-channel-accurate-monetization-verification/"><u>The Key to a Profitable YT Channel Accurate Monetization Verification</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-tips-for-sharing-your-tiktoks-to-instagram-with-ease/"><u>Top Tips for Sharing Your TikToks to Instagram with Ease</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-the-finest-mobile-games-available-now/"><u>Ultimate List of the Finest Mobile Games Available Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-basics-of-langchain-llm-for-enthusiasts/"><u>Unveiling the Basics of LangChain LLM for Enthusiasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-creating-impactful-youtube-conclusion/"><u>[New] In 2024, Creating Impactful YouTube Conclusion</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sneaky-soundtrack-watching-youtube-unobtrusively/"><u>[New] Sneaky Soundtrack Watching YouTube Unobtrusively</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-superfast-fb-downloader-mp4-files-in-minutes/"><u>[Updated] SuperFast FB Downloader MP4 Files in Minutes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-engaging-strategies-for-amplifying-your-youtube-fanbase/"><u>2024 Approved Engaging Strategies for Amplifying Your YouTube Fanbase</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-navigating-job-interviews-with-confidence-and-competence/"><u>2024 Approved Navigating Job Interviews with Confidence and Competence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audiophiles-pathway-starting-with-the-fade-in-functionality-for-2024/"><u>Audiophile's Pathway Starting with the Fade-In Functionality for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/detailed-product-information-overview/"><u>Detailed Product Information Overview</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/discover-the-best-project-categories-a-comprehensive-guide-from-i-advise/"><u>Discover the Best Project Categories: A Comprehensive Guide From I Advise</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-administrative-conversations-key-strategies-and-tips/"><u>Effective Administrative Conversations: Key Strategies and Tips</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-techniques-to-migrate-images-from-samsung-s9-smartphone-to-your-personal-laptopdesktop-device/"><u>Effective Techniques to Migrate Images From Samsung S9 Smartphone to Your Personal Laptop/Desktop Device</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/event-management-techniques-mastering-control-and-coordination/"><u>Event Management Techniques: Mastering Control and Coordination</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-secure-is-your-data-with-dropbox-defending-against-cyber-threats/"><u>How Secure Is Your Data with Dropbox: Defending Against Cyber Threats</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/insightful-repackager-overview-a-comprehensive-guide/"><u>Insightful Repackager Overview: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/nokia-c12-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia C12 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-s23-ultra-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy S23 Ultra Phone Network-Ready</u></a></li>
 </ul></div>
 

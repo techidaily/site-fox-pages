@@ -1,7 +1,7 @@
 ---
 title: Create Your Own Customized Event Tracking Panel
-date: 2024-10-02T21:24:25.501Z
-updated: 2024-10-05T19:21:50.566Z
+date: 2024-10-04T00:20:43.414Z
+updated: 2024-10-10T21:12:29.667Z
 tags:
   - user-guide
 categories:
@@ -94,22 +94,15 @@ In this page you can specify commands to be executed in current build process. E
 
 Global builds events are executed for all builds from the list. If you want to have events defined only for a certain build, you must first select the build and then go to “Build Events” tab from the right side pane.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Creating a new event
 
 It is possible to create **Pre** and **Post** build events.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pre-Build Events
@@ -132,22 +125,42 @@ Also, you can create new events starting from some predefined templates. Just se
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You need to substitute place holders <source\_file> and <destination\_file> with actual paths.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can access the current build output path by using properties like AI\_BUILD\_OUTPUT\_FILE or AI\_BUILD\_OUTPUT\_FOLDER. These properties are available only during build-time. It is **highly recommended** to include all paths in quotation marks (" ") since some of them can contain spaces of special characters.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Edit an event
 
  Use the “Edit” list context menu item or press theSpace key in order to edit an event.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Removing an event
 
  Use the “Delete” list context menu item or press theDelete key in order to remove an event.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specifying the events execution order
 
@@ -161,13 +174,6 @@ It is possible to define your own event that will be scheduled post or prior bui
 * Add a command line [batch (.bat) file as a custom event](https://tools.techidaily.com/advancedinstaller/products/)
 * Add a [vbscript file as a custom event](https://tools.techidaily.com/advancedinstaller/products/)
 * Add a [custom exe file as a custom event](https://tools.techidaily.com/advancedinstaller/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -215,19 +221,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-snap-tastic-facebooks-fleeting-media/"><u>[New] 2024 Approved Snap-Tastic Facebook's Fleeting Media</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-complete-guide-mastering-final-cut-pro/"><u>[New] Complete Guide Mastering Final Cut Pro</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-universal-techniques-for-streaming-to-disk-from-youtube/"><u>[Updated] Universal Techniques for Streaming to Disk From YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-explained-essential-aspects-and-more/"><u>2024 Approved SRT Explained Essential Aspects and More</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-substitutes-for-gmail-top-8-picks-revealed/"><u>Discover the Leading Substitutes for Gmail - Top 8 Picks Revealed</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-strategies-disabling-chrome-alerts-and-preventing-intrusive-advertisements/"><u>Effective Strategies: Disabling Chrome Alerts & Preventing Intrusive Advertisements</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-successfully-transfer-high-size-documents-using-whatsapp/"><u>How to Successfully Transfer High-Size Documents Using WhatsApp</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-browserbrokerexe-a-threat-a-comprehensive-guide-to-its-security-implications/"><u>Is Browser_broker.exe a Threat? A Comprehensive Guide to Its Security Implications</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/methods-to-capture-audio-from-your-jango-device-and-convert-to-mp3-format/"><u>Methods to Capture Audio From Your Jango Device & Convert to MP3 Format</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-up-your-iphone-x7s-selfies-with-these-top-free-tools/"><u>Step Up Your iPhone X/7's Selfies with These Top Free Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-playing-tiny-tinas-epic-quest-without-glitches-on-pc/"><u>Step-by-Step Solutions: Playing Tiny Tina's Epic Quest without Glitches on PC</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-macos-java-runtime-configuration-settings/"><u>Understanding MacOS Java Runtime Configuration Settings</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/update-verification-file-detection-methods/"><u>Update Verification File Detection Methods</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-best-free-video-cutters-for-mov-file-editing/"><u>Updated The Best Free Video Cutters for MOV File Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-master-the-art-of-avi-gif-conversion-via-filmora-platform/"><u>[New] 2024 Approved Master the Art of AVI-GIF Conversion via Filmora Platform</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-discovering-new-dimensions-a-guide-to-iphone-xs-advanced-cameras/"><u>[Updated] 2024 Approved Discovering New Dimensions A Guide to iPhone X's Advanced Cameras</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-peak-level-hd-mastery-in-the-markets-top-recorders/"><u>[Updated] In 2024, Peak-Level HD Mastery in the Market's Top Recorders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-animatedapps-review-full-guide-24-year/"><u>2024 Approved AnimatedApps Review - Full Guide '24 Year</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-gamer-friendly-video-capture-apps/"><u>2024 Approved Gamer-Friendly Video Capture Apps</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comprehensive-apowersoft-gif-tutorial-your-ultimate-users-handbook/"><u>Comprehensive Apowersoft GIF Tutorial: Your Ultimate User's Handbook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-history-and-impact-of-netflixs-former-dvd-rental-program/"><u>Discover the History and Impact of Netflix's Former DVD Rental Program</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-enable-usb-debugging-on-your-android-device-with-apowersoft-phone-manager/"><u>How to Enable USB Debugging on Your Android Device with Apowersoft Phone Manager</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-editing-efforts-10-text-innovations/"><u>In 2024, Top Editing Efforts 10 Text Innovations</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/private-discussions-enhancing-engagement-through-personalized-interactions/"><u>Private Discussions: Enhancing Engagement Through Personalized Interactions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/seo-best-practices-mastering-the-art-of-configuring-virtual-directories-online/"><u>SEO Best Practices: Mastering the Art of Configuring Virtual Directories Online</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-changing-text-documents-through-the-update-interface/"><u>Step-by-Step Guide to Changing Text Documents Through the Update Interface</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-enjoy-weverse-music-videos-and-concert-footage-on-your-hdtv-setup/"><u>Step-by-Step Guide: Enjoy Weverse Music Videos and Concert Footage on Your HDTV Setup</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1725289002149-winxvideo-ai-gpu/"><u>WinxVideo AI: 利用GPU强化加速，无价值转换视频与音频</u></a></li>
 </ul></div>
 

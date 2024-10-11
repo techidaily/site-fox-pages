@@ -1,7 +1,7 @@
 ---
 title: "Understanding ASP.NET Configuration: Best Practices and Tips"
-date: 2024-10-02T20:31:42.359Z
-updated: 2024-10-05T21:55:42.756Z
+date: 2024-10-05T02:37:42.083Z
+updated: 2024-10-10T23:24:47.074Z
 tags:
   - user-guide
 categories:
@@ -102,10 +102,10 @@ Table of Contents
 When multiple .NET Framework versions are executing side-by-side on a single computer, the ASP.NET ISAPI version mapped to an ASP.NET application determines which common language run-time (CLR) version is used for the application. The ASP.NET IIS Registration Tool (Aspnet\_regiis.exe) is used by Advanced Installer to easily update the script maps for an ASP.NET application to point to the ASP.NET ISAPI version that you configure.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ASP.NET Version
@@ -116,9 +116,23 @@ Configure the version of ASP.NET that your web application is using.
 * 2.0.50727 \- register your application with .NET 2.0, 3.0 or 3.5;
 * 4.0.30319 \- register your application with .NET 4.0;
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Prefer 64-bit version (if available)
 
 On 64-bit systems, if both a 32-bit and a 64-bit version of the same .NET Framework are found, register with the 64-bit version.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use this version for all child web applications
 
@@ -130,33 +144,19 @@ Triggers a **restart** of the _World Wide Web Publishing Service_ after installi
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For **IIS 7 or newer**, the ASP.NET version to be used by your web application must be set in the configuration of the [application pool](https://tools.techidaily.com/advancedinstaller/products/) to which it [belongs](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Identity
 
 Use ASP.NET impersonation when you want to run your ASP.NET application under a security context different from the default security context for ASP.NET application.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Not specified
 
 This default option assures every ASP.NET impersonation option is inherited from the server.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not use impersonation
@@ -176,10 +176,10 @@ _Use predefined password_ \- Specify a predefined hard coded password.
 _Use a property to set password_ \- Reference a property for the password. Use the \[... \] button to select an existing property or to create a new one.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ASP Behavior
@@ -223,19 +223,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-audio-artistry-in-a-download-top-7-vocal-transformation-apps-reviewed-for-2024/"><u>[New] Audio Artistry in a Download Top 7 Vocal Transformation Apps Reviewed for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-boost-your-productivity-mastering-zoom-within-the-gmail-framework/"><u>[Updated] 2024 Approved Boost Your Productivity Mastering Zoom Within the Gmail Framework</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-reimagining-the-role-of-titles-in-after-effects-media/"><u>2024 Approved Reimagining the Role of Titles in After Effects Media</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/a-complete-walkthrough-on-utilizing-apowersofts-advanced-screen-capturing-tool/"><u>A Complete Walkthrough on Utilizing Apowersoft's Advanced Screen Capturing Tool</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/discover-the-best-free-platforms-for-crafting-your-own-youtube-channel-introductions-the-ultimate-5-pick-guide/"><u>Discover the Best Free Platforms for Crafting Your Own YouTube Channel Introductions: The Ultimate 5-Pick Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/find-file-version-information-a-comprehensive-guide/"><u>Find File Version Information: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-itel-s23-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Itel S23 Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-unraveling-video-platform-distinctions-a-youtube-vs-dailymention-analysis/"><u>In 2024, Unraveling Video Platform Distinctions A YouTube Vs. DailyMention Analysis</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/malwarebytes-reviewed-protecting-your-system-without-compromising-security/"><u>Malwarebytes Reviewed: Protecting Your System without Compromising Security</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/modify-origin-settings-within-the-property-values-window/"><u>Modify Origin Settings Within the Property Values Window</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pivot-past-moments-an-android-video-reversal-tutorial/"><u>Pivot Past Moments An Android Video Reversal Tutorial</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-tips-for-sharing-your-tiktoks-to-instagram-with-ease/"><u>Top Tips for Sharing Your TikToks to Instagram with Ease</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-undisclosed-screengrabbing-invisible-photography-on-snapchat/"><u>[New] Undisclosed ScreenGrabbing Invisible Photography on Snapchat</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-record-teams-video-meeting/"><u>[Updated] How to Record Teams Video Meeting?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-create-a-breakthrough-in-health-tech/"><u>Can ChatGPT Create a Breakthrough in Health Tech?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-personalizing-your-online-presence-for-optimal-engagement-and-conversion-rates/"><u>Cookiebot: Personalizing Your Online Presence for Optimal Engagement and Conversion Rates</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/discover-the-best-project-categories-a-comprehensive-guide-from-i-advise/"><u>Discover the Best Project Categories: A Comprehensive Guide From I Advise</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-steps-to-get-keep-and-watch-your-chosen-facebook-videos-for-pcmacmobile/"><u>Easy Steps to Get, Keep & Watch Your Chosen Facebook Videos for PC/Mac/Mobile</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-fresh-sapphire-graphics-driver-downloads-and-upgrades-for-windows-users/"><u>Easy Steps: Fresh Sapphire Graphics Driver Downloads & Upgrades for Windows Users</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-administrative-conversations-key-strategies-and-tips/"><u>Effective Administrative Conversations: Key Strategies and Tips</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-techniques-to-migrate-images-from-samsung-s9-smartphone-to-your-personal-laptopdesktop-device/"><u>Effective Techniques to Migrate Images From Samsung S9 Smartphone to Your Personal Laptop/Desktop Device</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-secure-is-your-data-with-dropbox-defending-against-cyber-threats/"><u>How Secure Is Your Data with Dropbox: Defending Against Cyber Threats</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-comprehensive-assessment-unveiling-du-recorders-features/"><u>In 2024, Comprehensive Assessment Unveiling Du Recorder's Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-amazonbasics-secure-shredding-machine-for-up-to-12-sheets-at-a-time/"><u>In-Depth Analysis of the AmazonBasics Secure Shredding Machine for Up to 12 Sheets at a Time</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/insightful-repackager-overview-a-comprehensive-guide/"><u>Insightful Repackager Overview: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering I/O Port Mappings and File Association Concepts in Computers
-date: 2024-10-03T16:42:22.211Z
-updated: 2024-10-05T22:27:40.863Z
+date: 2024-10-10T02:25:53.630Z
+updated: 2024-10-11T02:52:00.999Z
 tags:
   - user-guide
 categories:
@@ -108,15 +108,22 @@ Table of Contents
 
 ## IFileAssociations
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IFileAssociations : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -124,10 +131,16 @@ IFileAssociations : IDispatch
 This interface is meant to manage file associations 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -144,13 +157,6 @@ Creates a new ProgId setup.
 **RemoveProgId(IProgIdFA ProgId)**   
 Removes a new ProgId setup. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Properties
 
 **Array<IDefaultProgramFA> DefaultPrograms**  
@@ -158,6 +164,13 @@ Gets the collection of default programs setups.
 
 **Array<IProgIdFA> ProgIds**  
 Gets the collection of ProgId setups. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Example
 
@@ -171,13 +184,6 @@ $defaultProgrram = $project.FileAssociations.NewDefaultProgram()
 $defaultProgrram.AddExtension($extension)
 
     Copy
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -218,17 +224,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-powerful-tools-for-effective-youtubers-seo/"><u>[Updated] In 2024, Harnessing Powerful Tools for Effective YouTubers' SEO</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-kids-car-clubbing-capers/"><u>[Updated] Kids' Car Clubbing Capers</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/commanding-digital-governance-essential-tips-for-excelling-at-the-president-game-on-a-personal-computer/"><u>Commanding Digital Governance: Essential Tips for Excelling at 'The President' Game on a Personal Computer</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-repository-organization-and-management-tools/"><u>Effective Repository Organization and Management Tools</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effortless-file-management-how-to-use-folder-chooser-dialogs-effectively/"><u>Effortless File Management: How to Use Folder Chooser Dialogs Effectively</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enhance-your-workshop-with-the-ultimate-guide-to-editing-event-mappers/"><u>Enhance Your Workshop with the Ultimate Guide to Editing Event Mappers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-winerror-installation-fault-0xc004f050/"><u>How to Resolve WinError: Installation Fault #0XC004F050</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-zbook-15-g3-drivers-download-and-install-for-windows/"><u>HP ZBook 15 G3 Drivers Download and Install for Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-g54-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola G54 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-photo-background-removal-with-these-4-powerful-methods/"><u>Mastering Photo Background Removal with These 4 Powerful Methods</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quickly-secure-newest-drivers-for-your-wi-fi-network-card/"><u>Quickly Secure Newest Drivers for Your Wi-Fi Network Card</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-10-lifelike-photo-editing-apps-on-ios-devices/"><u>[Updated] Top 10 Lifelike Photo Editing Apps on iOS Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-social-media-savvy-quick-fire-tips-for-aspiring-online-marketers/"><u>2024 Approved Social Media Savvy Quick-Fire Tips for Aspiring Online Marketers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-definitive-io-screen-recorder-guidebook/"><u>2024 Approved The Definitive IO Screen Recorder Guidebook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung FRP</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/find-file-version-information-a-comprehensive-guide/"><u>Find File Version Information: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-perform-an-append-or-create-function-in-data-management/"><u>How to Perform an Append or Create Function in Data Management</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-defy-2-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Defy 2? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-c300-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia C300 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/leading-ai-voice-synthesis-applications-the-ultimate-guide/"><u>Leading AI Voice Synthesis Applications: The Ultimate Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/malwarebytes-reviewed-protecting-your-system-without-compromising-security/"><u>Malwarebytes Reviewed: Protecting Your System without Compromising Security</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/quick-guide-tailoring-automated-dialogue-scripts/"><u>Quick Guide: Tailoring Automated Dialogue Scripts</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-tips-for-sharing-your-tiktoks-to-instagram-with-ease/"><u>Top Tips for Sharing Your TikToks to Instagram with Ease</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-11-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 11 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo Find X6 Pro | Dr.fone</u></a></li>
 </ul></div>
 

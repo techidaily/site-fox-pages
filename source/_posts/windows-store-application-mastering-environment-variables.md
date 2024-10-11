@@ -1,7 +1,7 @@
 ---
 title: "Windows Store Application: Mastering Environment Variables"
-date: 2024-09-29T22:30:30.272Z
-updated: 2024-10-05T16:27:02.381Z
+date: 2024-10-06T22:43:16.620Z
+updated: 2024-10-10T18:55:46.057Z
 tags:
   - user-guide
 categories:
@@ -71,33 +71,33 @@ In this page you can add environment variables to the MSIX package. These variab
 
 ![Uwp environment variable](https://cdn.advancedinstaller.com/img/ui/uwp-environment-variable.png "Uwp environment variable")
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating new environment variables
 
 ![New Environment Variable](https://cdn.advancedinstaller.com/img/toolbar/environment-variables-new.png "New Environment Variable") Use the \[New Variable... \] toolbar button, the “New Variable...” context menu item or press the Insert key while the list is focused. In the [Edit Environment Variable Dialog](https://tools.techidaily.com/advancedinstaller/products/) you can set the variable's properties. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Editing an environment variable
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button, the “Properties...” context menu item or press theEnter key to activate the [Edit Environment Variable Dialog](https://tools.techidaily.com/advancedinstaller/products/), where you can set the variable's properties. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing environment variables
@@ -105,10 +105,10 @@ In this page you can add environment variables to the MSIX package. These variab
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” context menu item or press theDelete key while an element is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -149,19 +149,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-elite-10-customizations-elevating-terria/"><u>[New] Elite 10 Customizations Elevating Terria</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-green-screen-resources-download-free-for-2024/"><u>[New] Green Screen Resources, Download Free for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-step-into-retro-gaming-with-top-5-ps1-emulators-for-pc-for-2024/"><u>[Updated] Step Into Retro Gaming with Top 5 PS1 Emulators for PC for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-premiere-toolkit-for-app-introduction-edits/"><u>2024 Approved Premiere Toolkit for App Introduction Edits</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/5-amazing-methods-to-transform-your-videos-from-vlc-to-mp4-format/"><u>5 Amazing Methods to Transform Your Videos From VLC to MP4 Format</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/collaborative-selection-tool-mastering-the-group-chooser-interface/"><u>Collaborative Selection Tool: Mastering the Group Chooser Interface</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/customize-your-codes-with-ease-exploring-the-code-swap-section/"><u>Customize Your Codes with Ease: Exploring the 'Code Swap' Section</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-v30-lite-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo V30 Lite 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-securely-remove-all-information-from-your-iphone-for-good/"><u>How To Securely Remove All Information From Your iPhone For Good!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-skype-call-recording-a-step-by-step-guide-for-2024/"><u>Mastering Skype Call Recording A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-flip-and-rotate-the-top-free-iphone-video-editing-apps-for-2024/"><u>New Flip and Rotate The Top Free iPhone Video Editing Apps for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-tips-for-restoring-functionality-in-the-phone-manager-app-on-ios-devices/"><u>Troubleshooting Tips for Restoring Functionality in the Phone Manager App on iOS Devices</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/ultimate-guide-to-deleting-png-backgrounds-the-top-tools-of-2023-for-online-and-smartphone-use-easy-to-follow-comparison/"><u>Ultimate Guide to Deleting PNG Backgrounds: The Top Tools of 2023 for Online & Smartphone Use - Easy-to-Follow Comparison.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-exploring-remote-desktop-capabilities-within-zoom-on-win11/"><u>[New] Exploring Remote Desktop Capabilities Within Zoom on Win11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-facebook-live-recording/"><u>[New] In 2024, The Ultimate Guide to Facebook Live Recording</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-crafting-a-seamless-social-journey-from-instaplustik/"><u>[Updated] In 2024, Crafting a Seamless Social Journey From Insta+Tik</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/adjusting-runtime-conditions-comprehensive-controls-dialogue-box-guide/"><u>Adjusting Runtime Conditions: Comprehensive Controls Dialogue Box Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/advanced-techniques-for-selecting-keys-with-a-pick-a-key-dialog-in-applications/"><u>Advanced Techniques for Selecting Keys with a Pick-a-Key Dialog in Applications</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortlessly-remove-watermarks-a-comprehensive-tutorial-for-editing-pdf-files/"><u>Effortlessly Remove Watermarks: A Comprehensive Tutorial for Editing PDF Files</u></a></li>
+<li><a href="https://video-capture.techidaily.com/gameboy-advance-mastered-android-emulator-selection-for-2024/"><u>GameBoy Advance Mastered Android Emulator Selection for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/how-to-easily-rip-dvds-for-mobile-playback-using-the-gratis-winx-dvd-ripper-tool-mp4avi-output/"><u>How to Easily Rip DVDs for Mobile Playback Using the Gratis WinX DVD Ripper Tool (MP4/AVI Output)</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-rainbow-six-extraction-no-compatible-driverhardware-found/"><u>How to Fix Rainbow Six Extraction No Compatible Driver/Hardware Found</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-standard-edition-review-of-djis-drone-model-3/"><u>In 2024, The Standard Edition Review of DJI's Drone Model 3</u></a></li>
+<li><a href="https://win-forum.techidaily.com/simplifying-computer-startup-with-bios-and-effective-usage-of-revo-uninstaller/"><u>Simplifying Computer Startup with BIOS and Effective Usage of Revo Uninstaller</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-guide-how-to-seamlessly-delete-text-from-pictures-on-any-device-as-of-2023/"><u>Ultimate Guide: How to Seamlessly Delete Text From Pictures on Any Device as of 2023</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/winxdvd-ultimate-toolkit-professional-dvd-ripping-and-iphone-video-transfers/"><u>WinXDVD Ultimate Toolkit - Professional DVD Ripping & iPhone Video Transfers</u></a></li>
 </ul></div>
 

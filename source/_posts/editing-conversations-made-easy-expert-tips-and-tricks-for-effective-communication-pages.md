@@ -1,7 +1,7 @@
 ---
 title: "Editing Conversations Made Easy: Expert Tips and Tricks for Effective Communication Pages"
-date: 2024-10-04T20:20:27.674Z
-updated: 2024-10-05T21:44:42.376Z
+date: 2024-10-05T18:50:20.378Z
+updated: 2024-10-10T22:39:56.393Z
 tags:
   - user-guide
 categories:
@@ -87,10 +87,10 @@ The Dialog Editor is composed of four sections:
 4. [Properties](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install Sequence
@@ -115,10 +115,23 @@ For more information on each category, please follow [Predefined Dialogs](https:
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option requires at least an [Enterprise](https://tools.techidaily.com/advancedinstaller/products/) or Architect project type.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Testing the maintenance User Interface
@@ -128,10 +141,10 @@ For more information on each category, please follow [Predefined Dialogs](https:
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option requires at least an Enterprise or Architect project type.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new dialog
@@ -139,10 +152,10 @@ For more information on each category, please follow [Predefined Dialogs](https:
 ![New Dialog](https://cdn.advancedinstaller.com/img/toolbar/dialog-new.png "New Dialog")Use the \[New Dialog \] toolbar button, the “New Dialog” context menu item or press the Insert key while the “Install Sequence” panel is focused. This option is not always enabled as you can not add a new dialog anywhere in the sequence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Adding a dialog
@@ -158,10 +171,10 @@ Select a user-defined dialog then right-click it to access the “Duplicate Dial
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Only user-defined dialogs can be duplicated, not [predefined ones](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Creating a new dialog in sequence
@@ -190,6 +203,19 @@ Drag and drop the dialog to the new section.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To avoid disrupting the dialog sequence, the following dialogs cannot be moved:_PrepareDlg_, _WelcomeDlg_,_MaitenanceWelcomeDlg_, _PatchWelcomeDlg_,_ResumeDlg_, _VerifyReadyDlg_,_VerifyRepairDlg_, _VerifyRemoveDlg_,_ProgressDlg_, _ExitDialog_,_MaintenanceTypeDlg_, and _UserRegistrationDlg_.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Sharing a dialog
 
 Drag and drop the dialog to a new section, while the Shift key is pressed. The dialog will be present in both sections.
@@ -206,52 +232,26 @@ For example, if you conditioned the FolderDlg dialog:_drag & drop_ FolderDlg dia
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The dialogs order in each section represents the order in which the dialogs will be displayed when the installer runs.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Editor
 
 The [Editor](https://tools.techidaily.com/advancedinstaller/products/) allows you to modify the currently selected dialog. You can add or remove controls, change the banner and image, change the displayed strings' text style, etc.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When customizing the **Spring** theme dialogs, to add static text elements, the HTML source pages must be edited. Also, two types of dialogs are provided, one if HTML is present and enabled on the target computer and the "classic Windows Installer" type otherwise. So it is wise to customize both of these types to your needs. For more information, please read the[Add a new dialog when using Spring theme](https://tools.techidaily.com/advancedinstaller/products/) tutorial.
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Control
 
 In the [Events Editor](https://tools.techidaily.com/advancedinstaller/products/) pane, you can specify events that will be associated with the controls. If the pane is not visible use the “Events” context menu item or press the Ctrl + Shift + Enter keys while the focus is on a control to display it.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Properties
 
 In the [Properties](https://tools.techidaily.com/advancedinstaller/products/) pane, all the selected dialog's properties of the selected dialog or control are displayed, grouped in categories. You can modify some of them. If the pane is not visible use “Properties” context menu item or press the Ctrl + Enter keys while the focus is on a dialog or control, to display it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -295,16 +295,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-all-time-highest-chart-youtubes-premier-video-list/"><u>[New] 2024 Approved All-Time Highest Chart YouTube's Premier Video List</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-ultimate-guide-enjoy-apple-music-streaming-on-your-android-device/"><u>1. Ultimate Guide: Enjoy Apple Music Streaming on Your Android Device</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-comparative-analysis-of-two-streaming-superpowers-obs-studio-and-bandicam/"><u>2024 Approved Comparative Analysis of Two Streaming Superpowers OBS Studio and Bandicam</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/essential-guide-tamper-protection-strategies-in-windows-11-insights-from-malwarefox/"><u>Essential Guide: Tamper Protection Strategies in Windows 11 - Insights From MalwareFox</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-to-navigating-successful-edit-actions-and-dialogue-interactions/"><u>Guide to Navigating Successful Edit Actions and Dialogue Interactions</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-13-ultra-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 13 Ultra in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-tecno-camon-20-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Tecno Camon 20 to iPod | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/intuitive-real-estate-choice-conversation-tool/"><u>Intuitive Real Estate Choice Conversation Tool</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revive-lenovo-lights-screen-brightness/"><u>Revive Lenovo Lights - Screen Brightness</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-displaying-battery-level-on-your-ios-device/"><u>Step-by-Step Guide: Displaying Battery Level on Your iOS Device</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-the-risks-of-a-roblox-infection-and-easy-step-by-step-removal-guide/"><u>Understanding the Risks of a Roblox Infection & Easy Step-by-Step Removal Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-enhancing-visuals-a-compreenas-guide-to-zoomed-snapshots/"><u>[New] In 2024, Enhancing Visuals A Compreenas Guide to Zoomed Snapshots</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-review-and-insight-into-movavi-editor-plus-now-available/"><u>[New] In 2024, Review & Insight Into Movavi Editor Plus, Now Available</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-fast-and-fun-the-quick-guide-to-taking-screenshots-on-chromebook/"><u>[Updated] In 2024, Fast & Fun The Quick Guide to Taking Screenshots on Chromebook</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-interactive-text-editor-mastering-the-notes-pane-functionality/"><u>1. Interactive Text Editor: Mastering the Notes Pane Functionality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/5-efficient-ways-to-store-movies-and-videos-mov-in-windows-for-2024/"><u>5 Efficient Ways to Store Movies & Videos (.mov) in Windows for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/browser-extensions-ensuring-ai-tool-security/"><u>Browser Extensions: Ensuring AI Tool Security</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-steps-for-removing-pages-from-your-pdf-documents/"><u>Easy Steps for Removing Pages From Your PDF Documents</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Itel A60s Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/in-depth-examination-of-item-specifications-and-characteristics/"><u>In-Depth Examination of Item Specifications and Characteristics</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/securing-personal-data-defend-against-unauthorized-session-takeovers/"><u>Securing Personal Data: Defend Against Unauthorized Session Takeovers</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/tailored-text-translations-mastering-localization/"><u>Tailored Text Translations: Mastering Localization</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-prime-day-bargains-exclusive-discounts-on-all-new-and-refurbished-samsung-electronics/"><u>Top Prime Day Bargains: Exclusive Discounts on All New & Refurbished Samsung Electronics</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-tips-how-to-restore-missing-entries-in-your-iphone-address-book/"><u>Troubleshooting Tips: How To Restore Missing Entries in Your iPhone Address Book</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-guide-essential-strategies-and-insider-advice-for-iphone-enthusiasts/"><u>Ultimate Guide: Essential Strategies and Insider Advice for iPhone Enthusiasts</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unihertz-atom-xl-analysis-compact-durability-meets-mighty-performance/"><u>Unihertz Atom XL Analysis: Compact Durability Meets Mighty Performance</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-split-your-screen-for-free-top-online-and-offline-video-editors-for-2024/"><u>Updated Split Your Screen for Free Top Online and Offline Video Editors for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/windows-store-application-mastering-environment-variables/"><u>Windows Store Application: Mastering Environment Variables</u></a></li>
 </ul></div>
 

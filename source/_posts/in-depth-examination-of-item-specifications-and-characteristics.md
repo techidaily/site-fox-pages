@@ -1,7 +1,7 @@
 ---
 title: In-Depth Examination of Item Specifications and Characteristics
-date: 2024-10-02T20:58:01.716Z
-updated: 2024-10-05T20:24:21.579Z
+date: 2024-10-08T04:13:11.780Z
+updated: 2024-10-11T04:49:10.707Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 The interface is designed to allow the user to set project name, version, and publisher just like in the user interface of Advanced Installer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ The interface is designed to allow the user to set project name, version, and pu
 IProductDetails : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -149,10 +149,16 @@ IProductDetails : IDispatch
 ![Product details](https://cdn.advancedinstaller.com/img/powershell-automation/product-details.png "Product details")  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -160,10 +166,10 @@ IProductDetails : IDispatch
 **SetIcon(String IConSourceFile, UINT IconIndex)**Sets the product icon.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -209,16 +215,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-the-experts-path-to-masterful-discord-screen-broadcasting-for-2024/"><u>[New] The Expert's Path to Masterful Discord Screen Broadcasting for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-picks-for-the-best-android-image-correction-tools-5-choices/"><u>[Updated] In 2024, Top Picks for the Best Android Image Correction Tools (5 Choices)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/addressing-hp-print-driver-errors-win-10/"><u>Addressing HP Print Driver Errors Win 10</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/best-ultimate-top-5-and-phrases-that-promise-value-such-as-effortless-and-most-effective/"><u>Best, Ultimate, Top 5, and Phrases that Promise Value, Such as Effortless and Most Effective.</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/easy-ways-to-recover-lost-imessages-on-your-iphone-a-step-by-step-guide/"><u>Easy Ways to Recover Lost iMessages on Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effortless-techniques-for-eliminating-default-backdrop-in-paint-app/"><u>Effortless Techniques for Eliminating Default Backdrop in Paint App</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-nord-3-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus Nord 3 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-viewing-your-android-phones-contact-list/"><u>Step-by-Step Guide to Viewing Your Android Phone's Contact List</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/wireless-iphone-7-screen-mirroring-guide-connect-your-phone-to-pc/"><u>Wireless iPhone 7 Screen Mirroring Guide: Connect Your Phone to PC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/44kz44k544oi44ov44oq44o844gq44ot44oh44kq5zyn57iu44og44kv44ol44od44kvic0g5asn44gn44ge5yuv55s744ks56plusa57se44gx44gplus44gz/"><u>コストフリーなビデオ圧縮テクニック - 大きい動画を節約します</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-discover-the-top-strategies-for-watching-global-cricket-events-online-for-2024/"><u>[New] Discover the Top Strategies for Watching Global Cricket Events Online for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-video-recordings-of-google-meets-on-phones/"><u>[New] Effortless Video Recordings of Google Meets on Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>[New] Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ace-voice-changer-apps-for-your-mobile-device-for-2024/"><u>Ace Voice-Changer Apps for Your Mobile Device for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/best-practices-for-ssrs-implementation-and-management/"><u>Best Practices for SSRS Implementation and Management</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/configure-module-attributes-window-a-comprehensive-guide/"><u>Configure Module Attributes Window: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-valorant-experience-by-overcoming-fps-drops-essential-strategies/"><u>Elevate Your Valorant Experience by Overcoming FPS Drops – Essential Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-enhancing-iphone-7-screen-record-capabilities/"><u>In 2024, Enhancing iPhone 7 Screen Record Capabilities</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-xs-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone XS Max Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-mastering-the-art-of-screenshots-with-apowersofts-free-tool/"><u>Step-by-Step Guide: Mastering the Art of Screenshots with Apowersoft's Free Tool</u></a></li>
+<li><a href="https://win-dash.techidaily.com/surface-book-2-driver-update-made-simple-download-and-installation-tips/"><u>Surface Book 2 Driver Update Made Simple - Download & Installation Tips</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/unveiling-the-impact-of-viruses-on-mobile-devices-insights-from-malwarefox/"><u>Unveiling the Impact of Viruses on Mobile Devices: Insights From MalwareFox</u></a></li>
 </ul></div>
 

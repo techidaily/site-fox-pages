@@ -1,7 +1,7 @@
 ---
 title: Personalize the Overview Details Panel
-date: 2024-10-03T22:20:26.124Z
-updated: 2024-10-05T17:00:34.685Z
+date: 2024-10-09T05:00:26.749Z
+updated: 2024-10-11T02:49:26.267Z
 tags:
   - user-guide
 categories:
@@ -96,10 +96,10 @@ This dialog allows you to edit MSI summary information fields.
 After selecting an item in the list either double-click it, access its “Edit...” context menu(right-click) or press theEdit field link button on the bottom right corner to show the [Edit MSI Summary Information Field Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -140,16 +140,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-easy-steps-to-rotate-video-in-vlc/"><u>[Updated] Easy Steps to Rotate Video in VLC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-to-masterpiece-the-premier-free-mobile-editors-for-android/"><u>[Updated] In 2024, From Raw to Masterpiece The Premier Free Mobile Editors for Android</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-strategies-for-enhanced-search-result-interactions/"><u>Effective Strategies for Enhanced Search Result Interactions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-sj7s-pioneering-tech-in-the-action-space-a-complete-4k-starcam-review/"><u>In 2024, SJ7's Pioneering Tech in the Action Space A Complete 4K Starcam Review</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-tomb-of-the-mask-on-pc-a-step-by-step-guide/"><u>Mastering 'Tomb of the Mask' On PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-io-port-mappings-and-file-association-concepts-in-computers/"><u>Mastering I/O Port Mappings and File Association Concepts in Computers</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/quick-guide-tailoring-automated-dialogue-scripts/"><u>Quick Guide: Tailoring Automated Dialogue Scripts</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/simple-steps-for-creating-your-own-anniversary-celebration-video-at-home/"><u>Simple Steps for Creating Your Own Anniversary Celebration Video at Home</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-crafting-compelling-facebook-cover-videos-for-maximum-impact/"><u>Step-by-Step Guide: Crafting Compelling Facebook Cover Videos for Maximum Impact</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-funimate-for-android-gamers-unlocking-the-apk-secret/"><u>[New] Funimate for Android Gamers - Unlocking the APK Secret</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-core-principles-in-crafting-persuasive-facebook-ads/"><u>[Updated] In 2024, Core Principles in Crafting Persuasive Facebook Ads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-pioneering-the-future-top-tips-for-remotely-capturing-talent/"><u>[Updated] In 2024, Pioneering the Future Top Tips for Remotely Capturing Talent</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-12-pro-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 12 Pro and iPad Securely</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/8-edition/"><u>8 Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-leader-replaced-impact-on-gpts-future/"><u>AI Leader Replaced: Impact on GPT's Future</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/expert-tips-for-professional-gopro-film-cuts-and-editing-techniques/"><u>Expert Tips for Professional GoPro Film Cuts and Editing Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/peekpoint-analysis-a-guide-for-2024/"><u>Peekpoint Analysis A Guide for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/recognizing-and-avoiding-counterfeit-apple-id-fraud-insights-from-malwarefox/"><u>Recognizing and Avoiding Counterfeit Apple ID Fraud: Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/reviving-your-ipad-effortlessly-with-these-tips-for-a-successful-icloud-backup-restoration-process/"><u>Reviving Your iPad Effortlessly with These Tips for a Successful iCloud Backup Restoration Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-connectivity-with-a-new-linksys-ae1200-driver-click-to-install-now/"><u>Seamless Connectivity with a New Linksys AE1200 Driver - Click to Install Now</u></a></li>
 </ul></div>
 

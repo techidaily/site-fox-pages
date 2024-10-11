@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Modifying Cloud Compute Instance Configurations
-date: 2024-10-02T16:16:23.929Z
-updated: 2024-10-05T16:50:02.111Z
+date: 2024-10-04T00:27:34.772Z
+updated: 2024-10-10T19:47:04.312Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,16 @@ Table of Contents
 ![Instance Property Dialog](https://cdn.advancedinstaller.com/img/dialog/new-instance-property.png "Instance Property Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -91,10 +97,10 @@ Table of Contents
  The property's name. Use \[... \] button to overwrite an existing property.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -102,10 +108,10 @@ Table of Contents
  The property's value. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### OK
@@ -113,10 +119,16 @@ Table of Contents
  Saves the property's name and value.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cancel
@@ -156,24 +168,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-sdr-vs-hdr-why-hdr-be-a-better-part-of-your-video-workflow/"><u>[New] SDR vs HDR Why HDR Be a Better Part of Your Video Workflow</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-mastering-aspect-ratio-compliance-in-micro-video-tweets/"><u>[Updated] In 2024, Mastering Aspect Ratio Compliance in Micro-Video Tweets</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-powerpoint-presentation-rescue-effortless-retrieval-of-lost-ppts/"><u>1. PowerPoint Presentation Rescue: Effortless Retrieval of Lost PPTs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-from-lesser-known-to-youtube-star-amassing-an-army-of-admirers/"><u>2024 Approved From Lesser Known to YouTube Star Amassing an Army of Admirers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-wireless-range-extenders-and-routers-for-broadband-what-you-need-to-know/"><u>Best Wireless Range Extenders & Routers for Broadband - What You Need To Know</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/commanding-digital-governance-essential-tips-for-excelling-at-the-president-game-on-a-personal-computer/"><u>Commanding Digital Governance: Essential Tips for Excelling at 'The President' Game on a Personal Computer</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/comprehensive-step-by-step-guide-on-using-video-converter-studios-latest-4th-edition/"><u>Comprehensive Step-by-Step Guide on Using Video Converter Studio's Latest 4Th Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-for-straightening-out-broken-lines-on-computer-screens/"><u>Easy Solutions for Straightening Out Broken Lines on Computer Screens</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-repository-organization-and-management-tools/"><u>Effective Repository Organization and Management Tools</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-strategies-for-building-a-powerful-organizational-website/"><u>Effective Strategies for Building a Powerful Organizational Website</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effortless-file-management-how-to-use-folder-chooser-dialogs-effectively/"><u>Effortless File Management: How to Use Folder Chooser Dialogs Effectively</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enhance-your-workshop-with-the-ultimate-guide-to-editing-event-mappers/"><u>Enhance Your Workshop with the Ultimate Guide to Editing Event Mappers</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exploring-different-techniques-in-project-type-imports/"><u>Exploring Different Techniques in Project Type Imports</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-mastery-on-the-move-top-9-advice-points/"><u>Game Mastery on the Move: Top 9 Advice Points</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-enhance-content-discovery-with-instagrams-changes/"><u>How to Enhance Content Discovery with Instagram's Changes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11f-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo Reno 11F 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-play-7t-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor Play 7T</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-common-sound-recording-problems-on-ios-and-android-devices/"><u>Troubleshooting Common Sound Recording Problems on iOS and Android Devices</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unveiling-chromes-latest-speed-boost-for-windows-users-yet-theres-a-twist-to-consider-insights-by-zdnet/"><u>Unveiling Chrome's Latest Speed Boost for Windows Users, Yet There's a Twist to Consider | Insights by ZDNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-progression-of-vegaspro-through-its-2019-updates/"><u>[New] In 2024, The Progression of VegasPro Through Its 2019 Updates</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-time-markers-for-youtube-videos-expert-tips-desktopmobile/"><u>[New] Time Markers for YouTube Videos Expert Tips (Desktop/Mobile)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-creative-potential-installing-windows-movie-maker-on-w11/"><u>[New] Unlocking Creative Potential Installing Windows Movie Maker on W11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-achieving-economical-data-management-with-cloud-services/"><u>[Updated] 2024 Approved Achieving Economical Data Management with Cloud Services</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/a-complete-walkthrough-on-utilizing-apowersofts-advanced-screen-capturing-tool/"><u>A Complete Walkthrough on Utilizing Apowersoft's Advanced Screen Capturing Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/core-principles-of-crafting-convincing-video-endorsements-for-2024/"><u>Core Principles of Crafting Convincing Video Endorsements for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-advantages-of-using-claude-3/"><u>Discover the Advantages of Using Claude 3</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/discover-the-best-free-platforms-for-crafting-your-own-youtube-channel-introductions-the-ultimate-5-pick-guide/"><u>Discover the Best Free Platforms for Crafting Your Own YouTube Channel Introductions: The Ultimate 5-Pick Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/enhancing-communication-on-google-meet-step-by-step-for-2024/"><u>Enhancing Communication on Google Meet [Step-by-Step] for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/find-file-version-information-a-comprehensive-guide/"><u>Find File Version Information: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/malwarebytes-reviewed-protecting-your-system-without-compromising-security/"><u>Malwarebytes Reviewed: Protecting Your System without Compromising Security</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/modify-origin-settings-within-the-property-values-window/"><u>Modify Origin Settings Within the Property Values Window</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/personalize-the-overview-details-panel/"><u>Personalize the Overview Details Panel</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-moving-pictures-from-samsung-smartphone-to-mac-system/"><u>Step-by-Step Tutorial: Moving Pictures From Samsung Smartphone to MAC System</u></a></li>
 </ul></div>
 

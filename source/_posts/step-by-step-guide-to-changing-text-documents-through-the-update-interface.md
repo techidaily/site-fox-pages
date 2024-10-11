@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Changing Text Documents Through the Update Interface
-date: 2024-10-02T16:39:52.453Z
-updated: 2024-10-05T18:03:19.777Z
+date: 2024-10-04T22:07:49.716Z
+updated: 2024-10-11T02:40:31.232Z
 tags:
   - user-guide
 categories:
@@ -94,13 +94,6 @@ The main dialog interface is composed from two panels. The left side will displa
 
 Multiple updates can be defined. These operations will be executed on the files specified under [Global Properties](https://tools.techidaily.com/advancedinstaller/products/) in the “Include” field.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Add an Append/Create operation
 
 A new append/create operation can be created by selecting\[New \] from the context menu or by pressing+ key while the left panel is focused.
@@ -111,15 +104,29 @@ A new Search and Replace operation can be created by selecting\[New \] from the 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Only **one** append/create operation can be declared per "Text File Update".
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Rename an operation
 
 A created operation can be renamed by selecting\[Rename \] from the context menu or by pressingF2 key while the operation is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Move Up
@@ -130,23 +137,16 @@ To move up the selected update operation select from the context menu the \[Move
 
 To move up the selected update operation select from the context menu the \[Move Down \] option or pressShift + Down keys when the update is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Delete
 
 An update operation can be deleted by selecting from the context menu the \[Delete \] command or by pressing theDelete key while an update is selected.  
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -193,21 +193,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-unlocking-video-creation-with-aiseesofts-capture-capabilities/"><u>[New] Unlocking Video Creation with Aiseesoft's Capture Capabilities</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-eliminate-your-instagram-existence-a-comprehensive-walkthrough/"><u>[Updated] 2024 Approved How to Eliminate Your Instagram Existence A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/create-your-own-customized-event-tracking-panel/"><u>Create Your Own Customized Event Tracking Panel</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/diverse-alternatives-to-winmovie-editor-applications/"><u>Diverse Alternatives to WinMovie Editor Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dng-a-jpeg-conversion-gratuite-en-ligne-movavi/"><u>DNG a JPEG Conversion Gratuite en Ligne - Movavi</u></a></li>
-<li><a href="https://fox-http.techidaily.com/expanding-horizons-the-vr-in-classroom-effect-for-2024/"><u>Expanding Horizons The VR in Classroom Effect for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instagram-intonation-blending-audio-with-imagery-for-2024/"><u>Instagram Intonation Blending Audio with Imagery for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/iupdatesproject-your-ultimate-guide-to-timely-updates-and-information/"><u>IUpdatesProject: Your Ultimate Guide to Timely Updates and Information</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/protecting-your-system-how-antivirus-programs-and-firewalls-work-together-explained/"><u>Protecting Your System: How Antivirus Programs and Firewalls Work Together Explained</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/resolving-image-export-restrictions-in-apowermanager-app-for-iphones-and-ipads/"><u>Resolving Image Export Restrictions in ApowerManager App for iPhones and iPads</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/streamline-your-social-experience-with-mobile-music-files-for-2024/"><u>Streamline Your Social Experience with Mobile Music Files for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-memory-warnings-when-playing-roblox-essential-tips/"><u>Troubleshooting iPhone Memory Warnings When Playing Roblox: Essential Tips</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-macro-viruses-removal-strategies-explored/"><u>Understanding Macro Viruses: Removal Strategies Explored</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-the-properties-feature-in-application-settings/"><u>Understanding the 'Properties' Feature in Application Settings</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unlocking-the-power-of-apowersoft-a-comprehensive-guide-on-using-the-background-eraser-redemption-code/"><u>Unlocking the Power of Apowersoft: A Comprehensive Guide on Using the Background Eraser Redemption Code</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-behind-the-scenes-of-virtual-reality-films/"><u>[Updated] 2024 Approved Behind the Scenes of Virtual Reality Films</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-a-visual-guide-to-subtitling-techniques-for-effective-dialogue-placement/"><u>[Updated] A Visual Guide to Subtitling Techniques for Effective Dialogue Placement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-vlogging-101-techniques-for-a-polished-look/"><u>2024 Approved GoPro Vlogging 101 Techniques for a Polished Look</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-marketing-landscape-essential-strategies-for-newbies/"><u>2024 Approved Navigating the Marketing Landscape Essential Strategies for Newbies</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/collaborative-selection-tool-mastering-the-group-chooser-interface/"><u>Collaborative Selection Tool: Mastering the Group Chooser Interface</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortless-methods-for-converting-avchd-footage-into-high-quality-mp4/"><u>Effortless Methods for Converting AVCHD Footage Into High-Quality MP4</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-honor-100-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Honor 100 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-nokia-150-2023-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Nokia 150 (2023) to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/logic-pro-xs-audio-magic-tricks-for-seamless-sounds/"><u>Logic Pro X's Audio Magic Tricks for Seamless Sounds</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-change-techniques-to-thrive-through-personal-evolution/"><u>Mastering Change: Techniques to Thrive Through Personal Evolution</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/simple-methods-transferring-your-tunes-from-pc-to-android-seamlessly/"><u>Simple Methods: Transferring Your Tunes From PC to Android Seamlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/single-core-showdown-how-amd-outperforms-the-apple-m3-max-with-their-latest-laptop-processor/"><u>Single-Core Showdown: How AMD Outperforms the Apple M3 Max with Their Latest Laptop Processor</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-how-to-effortlessly-register-your-premium-installation-tool/"><u>Step-by-Step Guide: How to Effortlessly Register Your Premium Installation Tool</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-kid-approved-drone-choices-summarized/"><u>Top Kid-Approved Drone Choices Summarized</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-tips-for-restoring-functionality-in-the-phone-manager-app-on-ios-devices/"><u>Troubleshooting Tips for Restoring Functionality in the Phone Manager App on iOS Devices</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-guide-to-deleting-png-backgrounds-the-top-tools-of-2023-for-online-and-smartphone-use-easy-to-follow-comparison/"><u>Ultimate Guide to Deleting PNG Backgrounds: The Top Tools of 2023 for Online & Smartphone Use - Easy-to-Follow Comparison.</u></a></li>
 </ul></div>
 

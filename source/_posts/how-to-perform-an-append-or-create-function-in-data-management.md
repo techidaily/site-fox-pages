@@ -1,7 +1,7 @@
 ---
 title: How to Perform an Append or Create Function in Data Management
-date: 2024-10-03T21:39:18.134Z
-updated: 2024-10-05T18:37:37.726Z
+date: 2024-10-05T22:17:24.479Z
+updated: 2024-10-11T05:59:59.119Z
 tags:
   - user-guide
 categories:
@@ -100,29 +100,36 @@ In this field write the text information that your file will contain. If the fil
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field supports [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and the[Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/) can be used.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The "Create" operation **cannot** be used when wildcards are defined in [Text File Properties](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Operation
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create file with encoding
@@ -138,13 +145,6 @@ If this checkbox is ticked the content of the file will be saved using the encod
 * This option can be enabled only if the "Exclude" field from [Text File Properties](https://tools.techidaily.com/advancedinstaller/products/) is left empty.
 * If you use an append/create operation for a **.BAT** file type, then you must select the "ANSI using System Code Page" encoding type into "Create file with encoding" combo box. This is because Windows command line interpreter cannot parse _Unicode_ or _UTF-8_ encoded files.
 * The selected encoding will be used only if the file is created from scratch. If the file already exists on the target machine before being updated, then the current file encoding will be preserved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### If the file exists
 
@@ -186,18 +186,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-high-cash-content-creators-for-2024/"><u>[New] High-Cash Content Creators for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-start-a-google-meet-on-laptops-and-mobile-in-2024/"><u>[Updated] How to Start a Google Meet on Laptops & Mobile, In 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-secrets-of-seamlessly-sharing-in-tiktok-livestreams/"><u>[Updated] In 2024, Secrets of Seamlessly Sharing in TikTok Livestreams</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/complete-task-confirmation-prompt-enhancing-user-interactions/"><u>Complete Task Confirmation Prompt: Enhancing User Interactions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/download-de-conversor-gratuito-online-para-mp3-e-ogv-pelo-site-da-movavi/"><u>Download De Conversor Gratuito Online Para Mp3 E Ogv Pelo Site Da Movavi</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/free-and-favorite-watermark-software-options-for-android-devices-top-choices-unveiled/"><u>Free and Favorite Watermark Software Options for Android Devices: Top Choices Unveiled</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-camon-30-pro-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Tecno Camon 30 Pro 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-lenovo-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lenovo Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-the-google-customer-loyalty-scheme-a-genuine-offer-or-a-fraudulent-trap/"><u>Is the Google Customer Loyalty Scheme a Genuine Offer or a Fraudulent Trap?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-note-30-vip-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Note 30 VIP with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-transforming-stereo-audio-into-mono-format/"><u>Step-by-Step Guide: Transforming Stereo Audio Into Mono Format</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-common-issues-what-causes-youtube-to-not-function/"><u>Understanding Common Issues: What Causes YouTube to Not Function?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crayoncrafts-thorough-examination-and-users-manual-2eva/"><u>[New] CrayonCrafts Thorough Examination & User's Manual 2Eva</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-posting-vimeo-perfecting-your-instagram-content/"><u>[Updated] Posting Vimeo Perfecting Your Instagram Content</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-update-your-property-settings-easily-with-our-comprehensive-guide/"><u>1. Update Your Property Settings Easily with Our Comprehensive Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-pinnacle-lineup-of-flexible-fonts/"><u>2024 Approved Pinnacle Lineup of Flexible Fonts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/a-comprehensive-tutorial-on-audio-standardization-in-davinci-resolve-for-2024/"><u>A Comprehensive Tutorial on Audio Standardization in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-ways-to-get-high-quality-version-of-pictures-for-free-for-2024/"><u>Best Ways To Get High Quality Version Of Pictures For Free for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/best-ultimate-top-5-and-phrases-that-promise-value-such-as-effortless-and-most-effective/"><u>Best, Ultimate, Top 5, and Phrases that Promise Value, Such as Effortless and Most Effective.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-setting-up-bluetooth-audio-for-your-apple-earbuds-with-an-hp-desktop-machine/"><u>Comprehensive Tutorial: Setting Up Bluetooth Audio for Your Apple Earbuds with an HP Desktop Machine</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/displaying-your-samsung-galaxy-s20-screen-on-a-tv-the-ultimate-how-to-tutorial/"><u>Displaying Your Samsung Galaxy S20 Screen on a TV - The Ultimate How-To Tutorial</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-ways-to-recover-lost-imessages-on-your-iphone-a-step-by-step-guide/"><u>Easy Ways to Recover Lost iMessages on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortless-techniques-for-eliminating-default-backdrop-in-paint-app/"><u>Effortless Techniques for Eliminating Default Backdrop in Paint App</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-troubled-setups-fixing-did-not-work-as-intended-mishaps-on-windows-11/"><u>Mastering Troubled Setups: Fixing 'Did Not Work As Intended' Mishaps on Windows 11</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/quick-and-easy-techniques-for-stunning-mobile-photo-edits-this-year/"><u>Quick and Easy Techniques for Stunning Mobile Photo Edits This Year</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/recordingease-minimalistic-win-11-screen-captures-for-2024/"><u>RecordingEase Minimalistic Win 11 Screen Captures for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-viewing-your-android-phones-contact-list/"><u>Step-by-Step Guide to Viewing Your Android Phone's Contact List</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-rated-artists-specializing-in-stunning-picture-mosaics/"><u>Top-Rated Artists Specializing in Stunning Picture Mosaics</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-12-free-animation-software-for-windows-and-mac/"><u>Updated 2024 Approved Best 12 Free Animation Software for Windows and Mac</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/wireless-iphone-7-screen-mirroring-guide-connect-your-phone-to-pc/"><u>Wireless iPhone 7 Screen Mirroring Guide: Connect Your Phone to PC</u></a></li>
 </ul></div>
 

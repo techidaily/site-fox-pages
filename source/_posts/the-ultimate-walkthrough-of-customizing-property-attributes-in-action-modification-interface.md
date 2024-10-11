@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Walkthrough of Customizing Property Attributes in Action Modification Interface
-date: 2024-10-01T22:10:36.878Z
-updated: 2024-10-05T17:02:45.580Z
+date: 2024-10-06T07:19:15.408Z
+updated: 2024-10-11T00:34:32.133Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ This dialog allows you to specify a status message that will be displayed in the
 ![Edit Action Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-action-properties.png "Edit Action Properties Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -90,10 +90,10 @@ This dialog allows you to specify a status message that will be displayed in the
 Edit the text which is displayed in the progress dialog box, or written in the log file when the action is executing. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Template
@@ -105,10 +105,16 @@ These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstal
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Action text is displayed only for custom actions that are sequenced as **deferred** between the_InstallInitialize_ (Preparing action group) and_InstallFinalize actions_ (Finish Execution action group).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -144,19 +150,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-revolutionize-visual-content-leading-montage-tools-for-phones/"><u>[New] Revolutionize Visual Content Leading Montage Tools for Phones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pioneering-stories-on-youtube-2023-edition/"><u>[Updated] Pioneering Stories on YouTube, 2023 Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-30-hashtags-propel-video-views-in-gameplay/"><u>[Updated] Top 30 Hashtags Propel Video Views in Gameplay</u></a></li>
-<li><a href="https://article-helps.techidaily.com/exclusive-choice-premium-virtual-reality-experiences-on-google-cardboard/"><u>Exclusive Choice Premium Virtual Reality Experiences on Google Cardboard</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-right-acer-bluetooth-drivers-in-minutes-safe-download-options/"><u>Find & Install the Right Acer Bluetooth Drivers in Minutes – Safe Download Options</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-overcoming-the-game-crash-issue-in-formula-1-2021-for-pc/"><u>Fixes and Solutions: Overcoming the Game-Crash Issue in Formula 1 2021 for PC</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/free-htc-video-player-watch-htc-files-seamlessly-on-windows/"><u>Free HTC Video Player: Watch HTC Files Seamlessly on Windows</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-transferring-your-samsung-galaxy-note10-content-seamlessly-onto-your-television/"><u>Guide: Transferring Your Samsung Galaxy Note10 Content Seamlessly Onto Your Television</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/high-quality-conversion-techniques-how-to-turn-your-pdf-files-into-perfect-png-images-on-windows-10/"><u>High-Quality Conversion Techniques: How to Turn Your PDF Files Into Perfect PNG Images on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-lava-blaze-2-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Blaze 2 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-persistent-issues-with-gameplay-frames-per-second/"><u>Resolving Persistent Issues with Gameplay Frames Per Second</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-screenr-problems-how-to-restore-functionality-successfully/"><u>Troubleshooting Screenr Problems: How to Restore Functionality Successfully</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-fixing-problems-with-editable-versions-of-documents-from-pdfs/"><u>Troubleshooting: Fixing Problems with Editable Versions of Documents From PDFs</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/ultimate-guide-to-selecting-superior-iphone-e-6-video-transcoder-software/"><u>Ultimate Guide to Selecting Superior iPhone E 6 Video Transcoder Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-thrilling-trials-and-daring-escapades-a-curated-list-of-greatest-games-top-10/"><u>[New] In 2024, Thrilling Trials & Daring Escapades A Curated List of Greatest Games (Top 10)</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-mastering-the-edit-record-details-interface-a-step-by-step-guide/"><u>1. Mastering the 'Edit Record Details' Interface: A Step-by-Step Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-mobile-screen-recording-in-snapchat/"><u>2024 Approved Mastering Mobile Screen Recording in Snapchat</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/inners-guide-to-elevating-auditory-experiences-on-youtube/"><u>A Beginner's Guide to Elevating Auditory Experiences on YouTube</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-guide-transform-your-spotify-music-library-into-mp3-files-using-a-top-ranking-converter/"><u>Easy Guide: Transform Your Spotify Music Library Into MP3 Files Using a Top-Ranking Converter</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-sccm-system-center-configuration-manager-guide-essential-tips-and-strategies/"><u>Effective SCCM (System Center Configuration Manager) Guide: Essential Tips & Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-capturing-amazon-prime-video-streams-across-various-gadgets/"><u>Guide: Capturing Amazon Prime Video Streams Across Various Gadgets</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/managing-tasks-with-project-type-sections/"><u>Managing Tasks with Project Type Sections</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-the-setup-of-module-features-panel-in-web-applications/"><u>Mastering the Setup of Module Features Panel in Web Applications</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-your-streaming-experience-in-depth-review-of-the-toshiba-55lf711u20-fire-tv-edition-and-its-benefits-for-prime-members/"><u>Maximizing Your Streaming Experience: In-Depth Review of the Toshiba 55LF711U20 Fire TV Edition and Its Benefits for Prime Members</u></a></li>
+<li><a href="https://article-files.techidaily.com/reimagining-creation-in-the-crypto-world-a-guide-to-top-nft-generating-platforms/"><u>Reimagining Creation in the Crypto World - A Guide to Top NFT-Generating Platforms</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/telemb-downloader-pro-seamless-conversion-from-streaming-videos-to-multiple-formats-like-mp4-avi-and-wmv/"><u>TeleMB Downloader Pro: Seamless Conversion From Streaming Videos to Multiple Formats Like MP4, AVI & WMV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-strategies-for-integrating-chatgpt-into-your-academic-life/"><u>Top 5 Strategies for Integrating ChatGPT Into Your Academic Life</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-properties-feature-in-application-settings/"><u>Understanding the 'Properties' Feature in Application Settings</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-wav-audio-file-format-an-essential-guide/"><u>Understanding the WAV Audio File Format: An Essential Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/versatile-strategies-to-power-down-laptop-screen/"><u>Versatile Strategies to Power Down Laptop Screen</u></a></li>
+<li><a href="https://win-data.techidaily.com/windows-10-troubles-on-the-rise-for-microsoft-critical-time-pressure-as-2024-approaches-zdnet-report/"><u>Windows 10 Troubles on the Rise for Microsoft - Critical Time Pressure as 2024 Approaches | ZDNet Report</u></a></li>
 </ul></div>
 

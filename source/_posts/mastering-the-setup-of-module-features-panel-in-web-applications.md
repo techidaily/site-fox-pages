@@ -1,7 +1,7 @@
 ---
 title: Mastering the Setup of Module Features Panel in Web Applications
-date: 2024-09-30T20:33:33.398Z
-updated: 2024-10-05T17:30:28.988Z
+date: 2024-10-06T20:38:56.324Z
+updated: 2024-10-10T17:05:33.662Z
 tags:
   - user-guide
 categories:
@@ -76,10 +76,16 @@ This dialog allows you to select the source file of the currently selected merge
 ![Merge Module Properties dialog](https://cdn.advancedinstaller.com/img/dialog/merge-modules-properties.png "Merge Module Properties dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Source Path
@@ -89,10 +95,16 @@ This field contains the actual path to the source file's location on the hard dr
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Selecting a source file of a different merge module is equivalent to removing the current merge module and adding the new one in the [Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -128,22 +140,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-unleashing-creativity-with-magix-video-pro-x-for-2024/"><u>[New] Unleashing Creativity with Magix Video Pro X for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-capture-the-past-with-your-camera-roll-snapchat-edition/"><u>[Updated] Capture the Past with Your Camera Roll - Snapchat Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-keep-your-digital-treasures-storing-insta-media-on-iphone/"><u>[Updated] Keep Your Digital Treasures Storing Insta Media on iPhone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-pros-verdict-4-superior-fullscreen-capture-applications/"><u>[Updated] Pro's Verdict 4 Superior Fullscreen Capture Applications</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/best-ultimate-top-5-and-phrases-that-promise-value-such-as-effortless-and-most-effective/"><u>Best, Ultimate, Top 5, and Phrases that Promise Value, Such as Effortless and Most Effective.</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/comprehensive-apowersoft-gif-tutorial-your-ultimate-users-handbook/"><u>Comprehensive Apowersoft GIF Tutorial: Your Ultimate User's Handbook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-the-ideal-voice-memo-a-step-by-step-methodology-for-2024/"><u>Crafting the Ideal Voice Memo A Step-by-Step Methodology for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/easy-ways-to-recover-lost-imessages-on-your-iphone-a-step-by-step-guide/"><u>Easy Ways to Recover Lost iMessages on Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-enable-usb-debugging-on-your-android-device-with-apowersoft-phone-manager/"><u>How to Enable USB Debugging on Your Android Device with Apowersoft Phone Manager</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-iphone-usage-how-to-manipulate-picture-in-picture-on-youtube/"><u>In 2024, Optimize iPhone Usage How to Manipulate Picture-in-Picture on YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-transforming-views-into-virtual-winnings-youtube-edition/"><u>In 2024, Transforming Views Into Virtual Winnings YouTube Edition</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/private-discussions-enhancing-engagement-through-personalized-interactions/"><u>Private Discussions: Enhancing Engagement Through Personalized Interactions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/samsungs-curvy-path-to-excellence-a-deep-dive-into-the-55-ru7300-tv-review/"><u>Samsung's Curvy Path to Excellence: A Deep Dive Into the 55 RU7300 TV Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-steps-to-take-when-your-amazon-echo-appears-disconnected/"><u>Solving the Issue: Steps to Take When Your Amazon Echo Appears Disconnected</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-changing-text-documents-through-the-update-interface/"><u>Step-by-Step Guide to Changing Text Documents Through the Update Interface</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-enjoy-weverse-music-videos-and-concert-footage-on-your-hdtv-setup/"><u>Step-by-Step Guide: Enjoy Weverse Music Videos and Concert Footage on Your HDTV Setup</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-reading-text-messages-on-your-computer-screen/"><u>Step-by-Step Guide: Reading Text Messages on Your Computer Screen</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-must-know-elements-about-youtube-tv-subscription-for-2024/"><u>[New] Top Must-Know Elements About YouTube TV Subscription for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-zero-30-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Zero 30 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/adjusting-runtime-conditions-comprehensive-controls-dialogue-box-guide/"><u>Adjusting Runtime Conditions: Comprehensive Controls Dialogue Box Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-repository-organization-and-management-tools/"><u>Effective Repository Organization and Management Tools</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortlessly-remove-watermarks-a-comprehensive-tutorial-for-editing-pdf-files/"><u>Effortlessly Remove Watermarks: A Comprehensive Tutorial for Editing PDF Files</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enhance-your-workshop-with-the-ultimate-guide-to-editing-event-mappers/"><u>Enhance Your Workshop with the Ultimate Guide to Editing Event Mappers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-nokia-c22-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Nokia C22? Try These Fixes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-tecno-spark-20-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Tecno Spark 20?</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-photo-background-removal-with-these-4-powerful-methods/"><u>Mastering Photo Background Removal with These 4 Powerful Methods</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-create-stunning-animations-top-stop-motion-software-for-mac-and-pc/"><u>New Create Stunning Animations Top Stop Motion Software for Mac and PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-failed-to-initialize-renderer-issues-in-browsers/"><u>Troubleshooting Guide: Fixing 'Failed to Initialize Renderer' Issues in Browsers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/zentralisierte-digitale-transformation-der-rechtspraxis-erleben-sie-die-innovation-von-norton-rose-llp-mit-abbyy-foto-und-handschriftserkennung/"><u>Zentralisierte Digitale Transformation Der Rechtspraxis: Erleben Sie Die Innovation Von Norton Rose LLP Mit ABBYY Foto- Und Handschriftserkennung</u></a></li>
 </ul></div>
 

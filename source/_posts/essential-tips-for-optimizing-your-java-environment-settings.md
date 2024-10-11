@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Optimizing Your Java Environment Settings
-date: 2024-09-29T19:19:43.301Z
-updated: 2024-10-05T16:45:49.916Z
+date: 2024-10-07T21:00:35.577Z
+updated: 2024-10-10T22:39:38.601Z
 tags:
   - user-guide
 categories:
@@ -88,10 +88,10 @@ In order to bundle a JRE with your build use the \[Add JRE Bundle... \] button.
 ![Java settings tab](https://cdn.advancedinstaller.com/img/ui/java-settings-tab.png "Java settings tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For the Mac OS build, only Java Products using Oracle VM support JRE bundling. You can change the MacOS VM provider from [Mac OS X settings Tab](https://tools.techidaily.com/advancedinstaller/products/).
@@ -99,22 +99,22 @@ In order to bundle a JRE with your build use the \[Add JRE Bundle... \] button.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For the Mac OS build you can bundle only the JRE installed by the JDK. So you should first install the JDK on a Mac machine and then pick its installation folder when using the \[Add JRE Bundle... \] button.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When none of the Java Products, included in the Mac OS X build, is self-contained (all of its application files are added under [Product Section](https://tools.techidaily.com/advancedinstaller/products/)) a JRE bundle cannot be included in the Mac OS X build.
 
-## Compression
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Compression
 
 ### Use Pack200 to compress the JAR files
 
@@ -130,14 +130,14 @@ When you are using this option, the JAR signature is verified not to be broken d
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The Verify JAR signature option requires JDK installed on your development machine and the JDK installation folder to be specified in the [External Tools](https://tools.techidaily.com/advancedinstaller/products/) settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Below there is a short video to visually discover this functionality:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -177,19 +177,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-visual-journey-mastering-the-art-of-incorporating-text-into-images-on-pcmacos/"><u>[New] A Visual Journey Mastering the Art of Incorporating Text Into Images on PC/MacOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-basics-of-weaving-a-narrative-thread/"><u>[New] Basics of Weaving a Narrative Thread</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unveil-the-potential-of-vfx-animated-text-for-free-for-2024/"><u>[New] Unveil the Potential of VFX Animated Text for Free for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-ultimateglobalvision-select-live-and-home-channels-together/"><u>[Updated] In 2024, UltimateGlobalVision Select Live and Home Channels Together</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/detailed-product-information-overview/"><u>Detailed Product Information Overview</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/discover-the-best-project-categories-a-comprehensive-guide-from-i-advise/"><u>Discover the Best Project Categories: A Comprehensive Guide From I Advise</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-techniques-to-migrate-images-from-samsung-s9-smartphone-to-your-personal-laptopdesktop-device/"><u>Effective Techniques to Migrate Images From Samsung S9 Smartphone to Your Personal Laptop/Desktop Device</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/erase-with-ease-on-your-iphone-secure-the-best-eraser-now/"><u>Erase with Ease on Your iPhone – Secure the Best Eraser Now</u></a></li>
-<li><a href="https://games-able.techidaily.com/fix-your-faulty-ps4-joystick-a-comprehensive-troubleshooting-guide/"><u>Fix Your Faulty Ps4 Joystick: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-secure-is-your-data-with-dropbox-defending-against-cyber-threats/"><u>How Secure Is Your Data with Dropbox: Defending Against Cyber Threats</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/insightful-repackager-overview-a-comprehensive-guide/"><u>Insightful Repackager Overview: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/pull-off-professional-video-edits-with-ken-burns-effect/"><u>Pull Off Professional Video Edits with Ken Burns Effect</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-tips-restoring-apple-music-functionality-on-your-iphone/"><u>Troubleshooting Tips: Restoring Apple Music Functionality on Your iPhone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/winx-dvd-ripper-platinum-free-keygen-activation-2024/"><u>WinX DVD Ripper Platinum - FREE Keygen Activation 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-innovative-enhancements-stardew-valleys-top-7-choices/"><u>[New] 2024 Approved Innovative Enhancements Stardew Valley's Top 7 Choices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-no-more-nausea-essential-tricks-for-htc-vive/"><u>[New] 2024 Approved No More Nausea Essential Tricks for HTC Vive</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-advanced-recording-strategies-for-effective-ppt-dissemination/"><u>[Updated] In 2024, Advanced Recording Strategies for Effective PPT Dissemination</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-tutorial-refresh-your-lenovo-quickset-dock-firmware-and-software/"><u>Easy Tutorial: Refresh Your Lenovo QuickSet Dock Firmware & Software</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-capturing-amazon-prime-video-streams-across-various-gadgets/"><u>Guide: Capturing Amazon Prime Video Streams Across Various Gadgets</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y36-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y36 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/iupdatesproject-your-ultimate-guide-to-timely-updates-and-information/"><u>IUpdatesProject: Your Ultimate Guide to Timely Updates and Information</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-screencast-creators-handbook-for-2024/"><u>The Screencast Creator's Handbook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-persistent-error-code-0x80072f8f-in-windows-10-and-11/"><u>Troubleshooting and Fixing the Persistent Error Code 0X80072F8f in Windows 10 & 11</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-macro-viruses-removal-strategies-explored/"><u>Understanding Macro Viruses: Removal Strategies Explored</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-properties-feature-in-application-settings/"><u>Understanding the 'Properties' Feature in Application Settings</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-wav-audio-file-format-an-essential-guide/"><u>Understanding the WAV Audio File Format: An Essential Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-with-a-broken-redragon-mic-discover-proven-techniques-to-get-your-pc-microphone-up-and-running-again/"><u>Unstuck with a Broken Redragon Mic? Discover Proven Techniques to Get Your PC Microphone Up and Running Again</u></a></li>
 </ul></div>
 

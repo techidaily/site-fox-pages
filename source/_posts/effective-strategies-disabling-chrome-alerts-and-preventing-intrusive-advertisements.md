@@ -1,7 +1,7 @@
 ---
 title: "Effective Strategies: Disabling Chrome Alerts & Preventing Intrusive Advertisements"
-date: 2024-10-04T19:39:34.897Z
-updated: 2024-10-05T17:44:37.990Z
+date: 2024-10-07T20:32:30.680Z
+updated: 2024-10-10T22:25:11.576Z
 tags:
   - product
   - antivirus
@@ -88,10 +88,10 @@ Now enter the **URL** of the website that you want to block and click on **Add**
 ![Block Specific Website Notification Request 2](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Specific-Website-Notification-Request-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2- Stop Cookie Notifications in Google Chrome
@@ -100,31 +100,24 @@ Do you feel annoyed when the cookie section covers some part of the website you 
 
 ![Cookies Notifications in Chrome](https://www.malwarefox.com/wp-content/uploads/2019/05/Cookies-Notifications-in-Chrome.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To banish the cookie notifications permanently we will be taking help of an extension, follow these simple steps :
 
 Open [I don’t care about cookie extension](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) in the Chrome web store and click on **Add to Chrome**.
 
 ![I don't care about cookies Extension](https://www.malwarefox.com/wp-content/uploads/2019/05/I-dont-care-about-cookies-Extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now the extension will install on your browser.
 
 This extension will help you remove cookie notifications from most of the websites. I tested this extension on five different websites, and I was lucky enough to get rid of cookie extensions on all of them.
 
 **Note**: If a cookie notification doesn’t slip past the extension, report the notification by clicking on “Report a cookie warning.”
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3- Block Marketing Overlays in Chrome
 
@@ -139,16 +132,10 @@ Open [Poper Blocker](https://chrome.google.com/webstore/detail/pop-up-blocker-fo
 ![Poper Blocker Extension](https://www.malwarefox.com/wp-content/uploads/2019/05/Poper-Blocker-Extension.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Let the extension install and it will start working just after the installation.
@@ -163,13 +150,6 @@ Out of all the sites, Poper Blocker was able to block the pop-ups on about four 
 
 There isn’t a perfect solution to get rid of all the overlays and pop-ups. However, Poper Blocker would certainly help you a lot to prevent most of them and provide you a smooth browsing experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4- Block Auto-Playing Videos on Chrome
 
 One day you are listening to your favorite music with full volume on laptop speaker. The other day you are trying to focus on your work and visit a business website with an auto-playing video. The laptop is still at full volume. Wouldn’t it just catch you by surprise?
@@ -179,6 +159,13 @@ Auto-playing videos sometimes turn out to be frustrating. Additionally, they slo
 Open [AutoplayStopper](https://chrome.google.com/webstore/detail/autoplaystopper/ejddcgojdblidajhngkogefpkknnebdh) extension in Chrome web store and click on **Add to Chrome** button.
 
 ![AutoplayStopper Extension](https://www.malwarefox.com/wp-content/uploads/2019/05/Autoplay-Stopper-Extension.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once the extension install, it will start stopping videos from auto-playing. Though, you can add exceptions if you want some pages to auto-play videos. Click on the extension and enter the URL.
 
@@ -195,6 +182,19 @@ Open [Evernote](https://chrome.google.com/webstore/detail/evernote-web-clipper/p
 With the help of this extension, you will be able to save the articles. In case the article is paginated, you will be able to unroll it easily.
 
 This app saves a lot of time by only displaying all the details on a single page. You don’t even require to spend a lot of time and waste your clicks on the Paginated Articles.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6- Block Ads in Google Chrome
 
@@ -237,18 +237,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-diy-sports-highlights-a-comprehensive-guide/"><u>[New] In 2024, DIY Sports Highlights A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/detailed-product-information-overview/"><u>Detailed Product Information Overview</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/expert-choice-top-12-non-time-restricted-recorders/"><u>Expert Choice Top 12 Non-Time Restricted Recorders</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/high-quality-conversion-techniques-how-to-turn-your-pdf-files-into-perfect-png-images-on-windows-10/"><u>High-Quality Conversion Techniques: How to Turn Your PDF Files Into Perfect PNG Images on Windows 10</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-nubia-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nubia FRP Bypass Instantly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expertly-selected-8-filters-for-virtual-showcases/"><u>In 2024, Expertly Selected 8 Filters for Virtual Showcases</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-the-kitchen-chaos-in-overcooked-2-a-scrumptious-game-analysis/"><u>Mastering the Kitchen Chaos in 'Overcooked! 2': A Scrumptious Game Analysis</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/non-retweeted-video-tweet-guide-for-iphone-and-android-users-for-2024/"><u>Non-Retweeted Video Tweet Guide for iPhone & Android Users for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-screenr-problems-how-to-restore-functionality-successfully/"><u>Troubleshooting Screenr Problems: How to Restore Functionality Successfully</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-tips-restoring-apple-music-functionality-on-your-iphone/"><u>Troubleshooting Tips: Restoring Apple Music Functionality on Your iPhone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-fixing-problems-with-editable-versions-of-documents-from-pdfs/"><u>Troubleshooting: Fixing Problems with Editable Versions of Documents From PDFs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-reno-8t-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo Reno 8T 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/ultimate-guide-to-selecting-superior-iphone-e-6-video-transcoder-software/"><u>Ultimate Guide to Selecting Superior iPhone E 6 Video Transcoder Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stepwise-journey-to-excellence-in-voice-memos/"><u>[Updated] Stepwise Journey to Excellence in Voice Memos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-tips-streaming-via-obs-directly-to-facebook-for-2024/"><u>[Updated] Top Tips Streaming via OBS Directly to Facebook for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-sccm-system-center-configuration-manager-guide-essential-tips-and-strategies/"><u>Effective SCCM (System Center Configuration Manager) Guide: Essential Tips & Strategies</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-capturing-amazon-prime-video-streams-across-various-gadgets/"><u>Guide: Capturing Amazon Prime Video Streams Across Various Gadgets</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-20-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark 20</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-dynamic-presenters-discourse-analysis-8th-ver/"><u>In 2024, Dynamic Presenter's Discourse Analysis 8Th Ver</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-x100-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo X100? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-electronics-uncovered-by-toms-hardware-hub/"><u>Innovative Electronics Uncovered by Tom's Hardware Hub</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/iupdatesproject-your-ultimate-guide-to-timely-updates-and-information/"><u>IUpdatesProject: Your Ultimate Guide to Timely Updates and Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-windows-canary-channel-basics/"><u>Navigating the Windows Canary Channel Basics</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/resolving-image-export-restrictions-in-apowermanager-app-for-iphones-and-ipads/"><u>Resolving Image Export Restrictions in ApowerManager App for iPhones and iPads</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-12-gratuit-unternehmens-umwandeln-hochauflosendes-video-fur-windows-und-mac-von-4k-nach-full-hd/"><u>Top 12 Gratuit Unternehmens Umwandeln Hochauflösendes Video Für Windows Und Mac - Von 4K Nach Full HD</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-macro-viruses-removal-strategies-explored/"><u>Understanding Macro Viruses: Removal Strategies Explored</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-properties-feature-in-application-settings/"><u>Understanding the 'Properties' Feature in Application Settings</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-wav-audio-file-format-an-essential-guide/"><u>Understanding the WAV Audio File Format: An Essential Guide</u></a></li>
 </ul></div>
 

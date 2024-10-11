@@ -1,7 +1,7 @@
 ---
 title: Adjust Features Box - Simplifying Customization Steps
-date: 2024-10-03T21:21:02.282Z
-updated: 2024-10-05T21:37:25.613Z
+date: 2024-10-05T06:41:43.403Z
+updated: 2024-10-10T20:15:05.990Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 ![ODBC Attribute Dialog](https://cdn.advancedinstaller.com/img/dialog/odbc-attribute.png "ODBC Attribute Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -91,10 +91,10 @@ Table of Contents
  The attribute's name.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -102,10 +102,10 @@ Table of Contents
  The attribute's value. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) for ODBC data sources and ODBC drivers and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### OK
@@ -113,10 +113,10 @@ Table of Contents
  Saves the attribute's name and value.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cancel
@@ -156,20 +156,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-harnessing-the-power-of-mov-recording-in-windows-10-for-2024/"><u>[New] Harnessing the Power of MOV Recording in Windows 10 for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-extracting-youtube-images-online-desktop-tools-and-terminal-tactics/"><u>[Updated] 2024 Approved Extracting YouTube Images Online, Desktop Tools & Terminal Tactics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-building-a-following-with-stunning-unboxing-content/"><u>[Updated] Building a Following with Stunning Unboxing Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-focus-on-you-iphone-and-android-photo-trimmers/"><u>[Updated] Focus On You IPhone & Android Photo Trimmers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-simplified-methods-for-logging-videos-on-vimeo/"><u>[Updated] Simplified Methods for Logging Videos on Vimeo</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-mastering-the-edit-record-details-interface-a-step-by-step-guide/"><u>1. Mastering the 'Edit Record Details' Interface: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/easy-guide-transform-your-spotify-music-library-into-mp3-files-using-a-top-ranking-converter/"><u>Easy Guide: Transform Your Spotify Music Library Into MP3 Files Using a Top-Ranking Converter</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-sccm-system-center-configuration-manager-guide-essential-tips-and-strategies/"><u>Effective SCCM (System Center Configuration Manager) Guide: Essential Tips & Strategies</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/o-record-audio-from-youtube-for-2024/"><u>How to Record Audio From YouTube for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2020-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE (2020)</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/managing-tasks-with-project-type-sections/"><u>Managing Tasks with Project Type Sections</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-the-setup-of-module-features-panel-in-web-applications/"><u>Mastering the Setup of Module Features Panel in Web Applications</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-the-wav-audio-file-format-an-essential-guide/"><u>Understanding the WAV Audio File Format: An Essential Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/versatile-strategies-to-power-down-laptop-screen/"><u>Versatile Strategies to Power Down Laptop Screen</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-speed-capturing-screens-with-sound/"><u>[New] 2024 Approved Speed Capturing Screens With Sound</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-get-more-engagement-on-fb-video-content/"><u>[Updated] How to Get More Engagement on FB Video Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterclass-8-selecting-top-live-stream-cameras/"><u>2024 Approved Masterclass 8 Selecting Top Live Stream Cameras</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/5-amazing-methods-to-transform-your-videos-from-vlc-to-mp4-format/"><u>5 Amazing Methods to Transform Your Videos From VLC to MP4 Format</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-cost-vs-quality-of-winegards-fl5500a-flatwave-antenna-a-detailed-performance-review/"><u>Analyzing the Cost Vs. Quality of Winegard's FL5500A FlatWave Antenna: A Detailed Performance Review</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comprehensive-guide-mastering-the-configuration-options-of-the-settings-tab/"><u>Comprehensive Guide: Mastering the Configuration Options of the Settings Tab</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-tutorial-how-to-sync-and-reflect-your-android-with-a-different-android-smartphone/"><u>Easy Tutorial: How To Sync and Reflect Your Android with a Different Android Smartphone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enhance-your-query-mastering-the-edit-search-dialog/"><u>Enhance Your Query: Mastering the Edit Search Dialog</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/exploring-the-functionality-of-icominterface-in-software-development/"><u>Exploring the Functionality of IComInterface in Software Development</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-12-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi 12 Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-access-and-listen-to-apple-music-effortlessly-on-android-phones/"><u>How to Access and Listen to Apple Music Effortlessly on Android Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-spectrum-on-morphvox-technology-for-voice-conversion/"><u>In 2024, Full Spectrum on MorphVOX Technology for Voice Conversion</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-t2x-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo T2x 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-look-at-sonys-exciting-new-entry-the-afeela-car-uncovered-news-speculated-pricing-and-anticipated-launch-day/"><u>Inside Look at Sony's Exciting New Entry - The Afeela Car: Uncovered News, Speculated Pricing, and Anticipated Launch Day!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mfc71dll-missing-heres-your-complete-solution-for-restoring-and-fixing-this-error/"><u>mfc71.dll Missing? Here's Your Complete Solution for Restoring and Fixing This Error!</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/the-ultimate-walkthrough-of-customizing-property-attributes-in-action-modification-interface/"><u>The Ultimate Walkthrough of Customizing Property Attributes in Action Modification Interface</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-10-png-background-removal-apps-in-2ebyfhq8jl-zcbm7kpng-updated-web-and-mobile-solutions-reviewed/"><u>Top 10 PNG Background Removal Apps in 2ebyfhq8Jl-ZcBm7K.png, Updated – Web and Mobile Solutions Reviewed.</u></a></li>
 </ul></div>
 

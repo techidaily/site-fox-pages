@@ -1,7 +1,7 @@
 ---
 title: "The Essentials of E-Signatures: A Comprehensive Guide to Secure Online Documents"
-date: 2024-10-01T21:36:22.406Z
-updated: 2024-10-05T17:43:53.542Z
+date: 2024-10-06T01:27:37.587Z
+updated: 2024-10-11T06:54:41.612Z
 tags:
   - user-guide
 categories:
@@ -109,26 +109,26 @@ Table of Contents
 ## IDigitalSignature
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IDigitalSignature: IDispatch
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Overview
 
 This component is meant to edit digital signature details.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -147,10 +147,10 @@ This component is meant to edit digital signature details.
 **Array<IDigitalCertificate> Certificates** \- Gets all certificates from the personal certificate store.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -171,10 +171,10 @@ This method sets the password policy to store the encrypted password in the proj
 This method sets the password policy to enter a password each time project is built. This method is available only when a certificate from disk is used and that certificate requires a password.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -216,20 +216,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-who-will-be-the-champion-of-dynamic-video-recording-black-gopro-or-x1000v/"><u>[New] Who Will Be the Champion of Dynamic Video Recording, Black GoPro or X1000V?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-ultimate-guide-enjoy-apple-music-streaming-on-your-android-device/"><u>1. Ultimate Guide: Enjoy Apple Music Streaming on Your Android Device</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/configure-module-attributes-window-a-comprehensive-guide/"><u>Configure Module Attributes Window: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-leading-7-spaceships-selling-ai-generated-content/"><u>Discover the Leading 7 Spaceships Selling AI Generated Content</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/eliminate-your-windows-10-trouble-fixing-the-unanticipated-store-exception-error-with-ease/"><u>Eliminate Your Windows 10 Trouble: Fixing the Unanticipated Store Exception Error with Ease</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/essential-guide-tamper-protection-strategies-in-windows-11-insights-from-malwarefox/"><u>Essential Guide: Tamper Protection Strategies in Windows 11 - Insights From MalwareFox</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-to-navigating-successful-edit-actions-and-dialogue-interactions/"><u>Guide to Navigating Successful Edit Actions and Dialogue Interactions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-solve-microphone-malfunctions-on-the-razer-barracuda-x-laptop-windows-1110/"><u>How to Solve Microphone Malfunctions on the Razer Barracuda X Laptop (Windows 11/10)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-elite-eight-polishing-pictures-through-premium-grid-makers/"><u>In 2024, Elite Eight Polishing Pictures Through Premium Grid Makers</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/intuitive-real-estate-choice-conversation-tool/"><u>Intuitive Real Estate Choice Conversation Tool</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-opera-experience-secure-free-discord-nitro/"><u>Maximize Opera Experience: Secure Free Discord Nitro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-chatgpt-for-global-language-diversity/"><u>Tailoring ChatGPT for Global Language Diversity</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-the-risks-of-a-roblox-infection-and-easy-step-by-step-removal-guide/"><u>Understanding the Risks of a Roblox Infection & Easy Step-by-Step Removal Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unveiling-the-impact-of-viruses-on-mobile-devices-insights-from-malwarefox/"><u>Unveiling the Impact of Viruses on Mobile Devices: Insights From MalwareFox</u></a></li>
-<li><a href="https://driver-download.techidaily.com/windows-10-the-definitive-resource-for-downloading-and-updating-lenovo-ideapad-100-drivers/"><u>Windows 10: The Definitive Resource for Downloading & Updating Lenovo IdeaPad 100 Drivers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-deciding-the-top-iphone-video-editor-cameo-or-filmorago/"><u>[Updated] In 2024, Deciding the Top iPhone Video Editor Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expedite-windows-11s-startup-time-with-advanced-techniques-from-revo-uninstaller/"><u>Expedite Windows 11'S Startup Time with Advanced Techniques From Revo Uninstaller</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x9a-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X9a to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-nokia-130-music-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Nokia 130 Music Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-sleek-design-and-stunning-video-quality-in-sony-xperia-xz/"><u>In 2024, Sleek Design and Stunning Video Quality in Sony Xperia XZ</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/in-depth-examination-of-item-specifications-and-characteristics/"><u>In-Depth Examination of Item Specifications and Characteristics</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/personalize-the-overview-details-panel/"><u>Personalize the Overview Details Panel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-granblue-fantasys-pc-link-crash-problems/"><u>Quick Fixes for Granblue Fantasy's PC Link-Crash Problems</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-moving-pictures-from-samsung-smartphone-to-mac-system/"><u>Step-by-Step Tutorial: Moving Pictures From Samsung Smartphone to MAC System</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/tailored-text-translations-mastering-localization/"><u>Tailored Text Translations: Mastering Localization</u></a></li>
 </ul></div>
 

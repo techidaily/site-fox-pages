@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Workshop with the Ultimate Guide to Editing Event Mappers
-date: 2024-10-02T18:43:35.317Z
-updated: 2024-10-05T22:12:15.692Z
+date: 2024-10-09T22:07:05.923Z
+updated: 2024-10-10T22:03:14.222Z
 tags:
   - user-guide
 categories:
@@ -87,10 +87,10 @@ This dialog allows you to subscribe the selected control to an event published b
 ![Event Mapping Dialog](https://cdn.advancedinstaller.com/img/dialog/event-mapping.png "Event Mapping Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Subscribe to
@@ -98,10 +98,10 @@ This dialog allows you to subscribe the selected control to an event published b
 Specify the type of event that is subscribed to by the control.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attribute to set
@@ -145,22 +145,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-step-by-step-approach-to-professional-chromatic-control/"><u>[New] A Step by Step Approach to Professional Chromatic Control</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-navigating-social-media-imitation-how-to-clone-yourself-with-finesse-on-tiktok-for-2024/"><u>[Updated] Navigating Social Media Imitation How to Clone Yourself with Finesse on TikTok for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-discarding-virtual-gatherings-on-fb-pcsmartphones/"><u>2024 Approved Discarding Virtual Gatherings on FB, PC/Smartphones</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/editing-conversations-made-easy-expert-tips-and-tricks-for-effective-communication-pages/"><u>Editing Conversations Made Easy: Expert Tips and Tricks for Effective Communication Pages</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-transferring-your-samsung-galaxy-note10-content-seamlessly-onto-your-television/"><u>Guide: Transferring Your Samsung Galaxy Note10 Content Seamlessly Onto Your Television</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/high-quality-conversion-techniques-how-to-turn-your-pdf-files-into-perfect-png-images-on-windows-10/"><u>High-Quality Conversion Techniques: How to Turn Your PDF Files Into Perfect PNG Images on Windows 10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snap-boost-optimize-images-at-zero-cost/"><u>In 2024, Snap-Boost Optimize Images at Zero Cost</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-unbind-from-discord-on-all-platforms/"><u>In 2024, Unbind From Discord on All Platforms</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-colored-ai-thermal-paste-by-cooler-master-boost-your-cpu-efficiency-with-the-latest-nano-diamonds/"><u>Introducing Colored AI Thermal Paste by Cooler Master - Boost Your CPU Efficiency with the Latest Nano-Diamonds</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-poco-c55-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Poco C55 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/optimize-tiktok-videos-for-snappy-playback-times-for-2024/"><u>Optimize TikTok Videos for Snappy Playback Times for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-on-modifying-cloud-compute-instance-configurations/"><u>Step-by-Step Tutorial on Modifying Cloud Compute Instance Configurations</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-screenr-problems-how-to-restore-functionality-successfully/"><u>Troubleshooting Screenr Problems: How to Restore Functionality Successfully</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-tips-restoring-apple-music-functionality-on-your-iphone/"><u>Troubleshooting Tips: Restoring Apple Music Functionality on Your iPhone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-fixing-problems-with-editable-versions-of-documents-from-pdfs/"><u>Troubleshooting: Fixing Problems with Editable Versions of Documents From PDFs</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/ultimate-guide-to-selecting-superior-iphone-e-6-video-transcoder-software/"><u>Ultimate Guide to Selecting Superior iPhone E 6 Video Transcoder Software</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/uniting-videos-on-ios-step-by-step-methods/"><u>Uniting Videos on iOS Step-by-Step Methods</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-united-creatives-brands-meet-youtube-for-2024/"><u>[New] United Creatives Brands Meet YouTube for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-efficient-image-capturing-made-simple-the-best-pc-snipers-listed/"><u>2024 Approved Efficient Image Capturing Made Simple The Best PC Snipers Listed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cutting-edge-tv-selection-top-10-in-hdtvs/"><u>Cutting-Edge TV Selection – Top 10 in HDTVs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-integration-secure-your-perfect-keyboard-driver-for-windows-7-today/"><u>Effortless Integration: Secure Your Perfect Keyboard Driver for Windows 7 Today</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enhancing-your-digital-collection-mastering-the-edit-library-feature/"><u>Enhancing Your Digital Collection: Mastering the Edit Library Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-losing-mobile-service-discover-these-10-essential-fixes-to-restore-data-connectivity/"><u>IPhone Losing Mobile Service? Discover These 10 Essential Fixes to Restore Data Connectivity</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/is-the-google-customer-loyalty-scheme-a-genuine-offer-or-a-fraudulent-trap/"><u>Is the Google Customer Loyalty Scheme a Genuine Offer or a Fraudulent Trap?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/learning-the-ropes-of-telegram-promotion-for-beginners-for-2024/"><u>Learning the Ropes of Telegram Promotion for Beginners for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/r-the-map-locating-youtube-studio-content-architects-toolbox/"><u>Master the Map Locating YouTube Studio, Content Architect’s Toolbox</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-macos-java-runtime-configuration-settings/"><u>Understanding MacOS Java Runtime Configuration Settings</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-java-virtual-machine-control-panel/"><u>Understanding the Java Virtual Machine Control Panel</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/update-verification-file-detection-methods/"><u>Update Verification File Detection Methods</u></a></li>
 </ul></div>
 

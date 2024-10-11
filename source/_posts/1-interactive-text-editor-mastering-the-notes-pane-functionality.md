@@ -1,7 +1,7 @@
 ---
 title: "1. Interactive Text Editor: Mastering the Notes Pane Functionality"
-date: 2024-09-29T20:39:26.695Z
-updated: 2024-10-05T17:14:23.075Z
+date: 2024-10-04T22:58:23.819Z
+updated: 2024-10-11T03:41:58.804Z
 tags:
   - user-guide
 categories:
@@ -73,26 +73,26 @@ The Notes view contains two panes:
 
 This pane is located on the left side. It will display all the notes added under the currently selected page. Each page has a**default** note with the selected page name._Ex:_Product Details if the [Product Details Tab](https://tools.techidaily.com/advancedinstaller/products/) is selected. This node can not be deleted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add new note
 
 For every resource (like prerequisites, files, file operations, custom actions, etc.) added into a project a note can be created. Select the desired resource and use the \[Add... \] button, “Add...” context menu option or press theInsert key while this pane is focused to create a new note for that resource.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Notes cannot be added for elements that represent views: folders, registry keys, etc. Also, notes can not be added for**multiple** resources selected at once.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Empty notes will not be saved. In order for a note to be saved, it must contain a comment.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Delete note
@@ -100,10 +100,10 @@ For every resource (like prerequisites, files, file operations, custom actions, 
 In order to delete an existing note, select it press the\[Remove... \] button, use the “Delete” context menu option or press the Delete key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Navigate to resource
@@ -111,10 +111,10 @@ In order to delete an existing note, select it press the\[Remove... \] button, u
 It is possible to navigate to the resource associated with the currently selected note by using the “Go to item” context menu option. Once this option is being used the resource will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comments Pane
@@ -161,24 +161,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/eamless-streaming-screen-record-and-upload-from-macpc/"><u>[New] Seamless Streaming Screen Record & Upload From Mac/PC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-scheduling-and-recording-on-demand-slack-meetings/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Scheduling & Recording On-Demand Slack Meetings</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-nikon-km-170-vs-gopro-for-flexible-filmmaking/"><u>[Updated] Nikon KM-170 Vs GoPro for Flexible Filmmaking?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-the-curtain-the-hidden-costs-of-vr/"><u>2024 Approved Behind the Curtain The Hidden Costs of VR</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-launch-xp-movie-editor-for-seamless-editing/"><u>2024 Approved Launch XP Movie Editor for Seamless Editing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-top-hdr-camera-brands-and-features/"><u>2024 Approved Unraveling Top HDR Camera Brands and Features</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-m34-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy M34 Phone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/comprehensive-guide-mastering-the-configuration-options-of-the-settings-tab/"><u>Comprehensive Guide: Mastering the Configuration Options of the Settings Tab</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/easy-tutorial-how-to-sync-and-reflect-your-android-with-a-different-android-smartphone/"><u>Easy Tutorial: How To Sync and Reflect Your Android with a Different Android Smartphone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enhance-your-query-mastering-the-edit-search-dialog/"><u>Enhance Your Query: Mastering the Edit Search Dialog</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exploring-the-functionality-of-icominterface-in-software-development/"><u>Exploring the Functionality of IComInterface in Software Development</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-access-and-listen-to-apple-music-effortlessly-on-android-phones/"><u>How to Access and Listen to Apple Music Effortlessly on Android Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-local-groups-policies-to-individual-accounts-in-windows-11/"><u>Integrating Local Groups Policies to Individual Accounts in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/is-netflix-down-or-not-working-fix-your-netflix-problems/"><u>Is Netflix Down or Not Working? Fix Your Netflix Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lg-smart-television-mirror-display-setup-a-comprehensive-tutorial/"><u>LG Smart Television Mirror Display Setup - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-screen-captures-a-step-by-step-guide-for-macos-el-capitan-users/"><u>Mastering Screen Captures: A Step-by-Step Guide for macOS El Capitan Users</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/the-ultimate-walkthrough-of-customizing-property-attributes-in-action-modification-interface/"><u>The Ultimate Walkthrough of Customizing Property Attributes in Action Modification Interface</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-10-png-background-removal-apps-in-2ebyfhq8jl-zcbm7kpng-updated-web-and-mobile-solutions-reviewed/"><u>Top 10 PNG Background Removal Apps in 2ebyfhq8Jl-ZcBm7K.png, Updated – Web and Mobile Solutions Reviewed.</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/ultimate-technique-to-switch-from-flac-to-lossless-wav-soundtracks/"><u>Ultimate Technique to Switch From FLAC to Lossless WAV Soundtracks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-cerebral-sanctuaries-exploring-elite-room-escapes-for-2024/"><u>[New] Cerebral Sanctuaries Exploring Elite Room Escapes for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-elite-list-of-mac-tech-for-live-recording/"><u>[New] Elite List of Mac Tech for Live Recording</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigate-to-8-elite-free-3d-vids-software-companies/"><u>[New] Navigate to 8 Elite Free 3D Vids Software Companies</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-transforming-audio-skills-using-audacity-professionally/"><u>[Updated] Transforming Audio Skills Using Audacity Professionally</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-powerpoint-presentation-rescue-effortless-retrieval-of-lost-ppts/"><u>1. PowerPoint Presentation Rescue: Effortless Retrieval of Lost PPTs</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/commanding-digital-governance-essential-tips-for-excelling-at-the-president-game-on-a-personal-computer/"><u>Commanding Digital Governance: Essential Tips for Excelling at 'The President' Game on a Personal Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-wmv-videos-to-asf-files-quickly-and-effortlessly-no-cost-required/"><u>Convert Your WMV Videos to ASF Files Quickly & Effortlessly, No Cost Required!</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-repository-organization-and-management-tools/"><u>Effective Repository Organization and Management Tools</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortless-file-management-how-to-use-folder-chooser-dialogs-effectively/"><u>Effortless File Management: How to Use Folder Chooser Dialogs Effectively</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enhance-your-workshop-with-the-ultimate-guide-to-editing-event-mappers/"><u>Enhance Your Workshop with the Ultimate Guide to Editing Event Mappers</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/exploring-different-techniques-in-project-type-imports/"><u>Exploring Different Techniques in Project Type Imports</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-full-screen-recorder-azs-complete-application-review/"><u>In 2024, Full Screen Recorder - AZ's Complete Application Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagrams-filter-arsenal-for-revamping-your-archive/"><u>Instagram's Filter Arsenal for Revamping Your Archive</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-photo-background-removal-with-these-4-powerful-methods/"><u>Mastering Photo Background Removal with These 4 Powerful Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-solve-pc-hiccups-with-slimerancher-navigating-through-crashes-and-freezes/"><u>Steps to Solve PC Hiccups with Slimerancher Navigating Through Crashes and Freezes</u></a></li>
 </ul></div>
 

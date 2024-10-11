@@ -1,7 +1,7 @@
 ---
 title: Detailed Product Information Overview
-date: 2024-09-30T18:48:26.237Z
-updated: 2024-10-05T17:34:57.841Z
+date: 2024-10-07T02:25:54.523Z
+updated: 2024-10-10T18:59:08.282Z
 tags:
   - user-guide
 categories:
@@ -78,46 +78,53 @@ This page allows you to specify the information that will identify the products 
 
 ![Upgrade Info](https://cdn.advancedinstaller.com/img/dialog/upgrade-info.png "Upgrade Info")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Product
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Upgrade Code
 
 Specify the product's Upgrade Code. You can directly specify it or use the \[... \] button to select the MSI package. The Upgrade Code, Max. Version and Language will be imported from the MSI file. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Versions To Upgrade
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Min. Version
 
 In this field, you can specify the minimum old product version which will be upgraded. For example, if the minimum version is 1.1 then your package will upgrade all the old product versions which are higher than 1.1\. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Include minimum version in range
 
  This option will include the minimum version you specified in the old product versions which will be upgraded. For example, if the minimum version is 1.1 then your package will upgrade all the old product versions which are equal to or higher than 1.1.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Max. Version
 
 In this field, you can specify the maximum old product version which will be upgraded. For example, if the maximum version is 2.0 then your package will upgrade all the old product versions which are lower than 2.0\. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Include maximum version in range
 
@@ -132,13 +139,6 @@ Specify a set of languages to be detected. Use the\[... \] button to select them
 You have the option to specify whether you want to detect the languages you specify or ignore them.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If this field is blank all the languages will be detected. Also, the correspondent flags will be ignored.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -173,19 +173,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-5-tools-for-cutting-edge-video-title-and-tag-generation/"><u>[New] 5 Tools for Cutting Edge Video Title & Tag Generation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-storytelling-with-smooth-fading-techniques/"><u>[New] Seamless Storytelling with Smooth Fading Techniques</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-make-free-intros-for-youtube-plustemplates/"><u>[Updated] How to Make Free Intros for YouTube? [+Templates]</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/collaborative-selection-tool-mastering-the-group-chooser-interface/"><u>Collaborative Selection Tool: Mastering the Group Chooser Interface</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/customize-your-codes-with-ease-exploring-the-code-swap-section/"><u>Customize Your Codes with Ease: Exploring the 'Code Swap' Section</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo FRP In 3 Different Ways</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-11-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme 11 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-breaking-down-the-selfie-security-on-insta/"><u>In 2024, Breaking Down the Selfie Security on Insta</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-how-to-record-teams-video-meeting/"><u>In 2024, How to Record Teams Video Meeting?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-complete-guide-for-setting-up-and-managing-regular-meetings-on-google/"><u>In 2024, The Complete Guide for Setting Up and Managing Regular Meetings on Google</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-change-techniques-to-thrive-through-personal-evolution/"><u>Mastering Change: Techniques to Thrive Through Personal Evolution</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/simple-methods-transferring-your-tunes-from-pc-to-android-seamlessly/"><u>Simple Methods: Transferring Your Tunes From PC to Android Seamlessly</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-tips-for-restoring-functionality-in-the-phone-manager-app-on-ios-devices/"><u>Troubleshooting Tips for Restoring Functionality in the Phone Manager App on iOS Devices</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/ultimate-guide-to-deleting-png-backgrounds-the-top-tools-of-2023-for-online-and-smartphone-use-easy-to-follow-comparison/"><u>Ultimate Guide to Deleting PNG Backgrounds: The Top Tools of 2023 for Online & Smartphone Use - Easy-to-Follow Comparison.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[New] In 2024, From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/changing-your-proton-vpn-account-email-a-step-by-step-guide-plus-spotting-the-real-chatgpt-app-for-windows-users/"><u>Changing Your Proton VPN Account Email: A Step-by-Step Guide + Spotting the Real ChatGPT App for Windows Users</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/commanding-digital-governance-essential-tips-for-excelling-at-the-president-game-on-a-personal-computer/"><u>Commanding Digital Governance: Essential Tips for Excelling at 'The President' Game on a Personal Computer</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-repository-organization-and-management-tools/"><u>Effective Repository Organization and Management Tools</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortless-file-management-how-to-use-folder-chooser-dialogs-effectively/"><u>Effortless File Management: How to Use Folder Chooser Dialogs Effectively</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enhance-your-workshop-with-the-ultimate-guide-to-editing-event-mappers/"><u>Enhance Your Workshop with the Ultimate Guide to Editing Event Mappers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-asus-rog-phone-7-ultimate-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Asus ROG Phone 7 Ultimate Phone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-photo-background-removal-with-these-4-powerful-methods/"><u>Mastering Photo Background Removal with These 4 Powerful Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-server-connections-in-path-of-exile-troubleshooting-and-solutions-guide/"><u>Mastering Server Connections in Path of Exile : Troubleshooting and Solutions Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-cutting-edge-technology-insights-at-toms-hardware-zone/"><u>Navigate Through Cutting-Edge Technology Insights at Tom's Hardware Zone</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-smooth-operation-fix-frozen-epic-games-launcher/"><u>Securing Smooth Operation: Fix Frozen Epic Games Launcher</u></a></li>
 </ul></div>
 

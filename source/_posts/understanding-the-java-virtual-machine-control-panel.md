@@ -1,7 +1,7 @@
 ---
 title: Understanding the Java Virtual Machine Control Panel
-date: 2024-09-29T20:32:03.256Z
-updated: 2024-10-05T21:01:24.399Z
+date: 2024-10-07T08:29:45.078Z
+updated: 2024-10-10T18:26:00.131Z
 tags:
   - user-guide
 categories:
@@ -86,26 +86,26 @@ In this page you can set the parameters for the Java Virtual Machine.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All the latest Java Distributions (e.g. _OpenJDK, AdoptOpenJDK,_ etc.) are supported. Our Java Product Launcher supports the _AdoptOpenJDK_ Java distributions only when _AdoptOpenJDK_ is installed withFeatureOracleJavaSoft feature (e.g. usingADDLOCAL=FeatureEnvironment,FeatureJarFileRunWith,FeatureOracleJavaSoft command line switch).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Settings
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### JRE version
 
 You can specify the minimum and maximum allowed Java Version. Advanced Installer only supports Java 2, which means a minimum JRE version 1.2\. Additionally, in the [Preferred JRE Version Dialog](https://tools.techidaily.com/advancedinstaller/products/), you can edit a list of preferred versions that will be selected if found on the target computer. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)JVM path is searched in the registry and in JAVA\_HOME environment variable.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### JVM parameters
 
@@ -115,13 +115,6 @@ This is an optional field. You can easily specify the JVM parameters. Click on t
 
 Here you can specify arguments that yourmain method will always receive. These arguments will be appended to the other arguments that may be receive from the system.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Virtual Machine Type
 
 There are two types of virtual machines: client and server. You can choose one of the following combinations:
@@ -129,13 +122,6 @@ There are two types of virtual machines: client and server. You can choose one o
 * Favor client - Advanced Installer looks for client or server Java Virtual Machine in the JDK or JRE installed on your computer. It returns the Java Virtual Machine with the highest version (client or server). The client version is favored in the sense that the client Java Virtual Machine is looked up first, and if it is found, the search stops. This is the default option for Java Virtual Machine type.
 * Favor server - Advanced Installer looks for server or client Java Virtual Machine and returns the server Java Virtual Machine with the highest version (if it is found). The server version is favored in the sense that the server Java Virtual Machine is looked up first, and if it is found, the search stops, otherwise the client Java Virtual Machine is looked up.
 * Server only - Advanced Installer looks only for the server Java Virtual Machine. If it is not found then the user is prompted to browse a JRE with a valid server Java Virtual Machine.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Virtual Machine Source
 
@@ -146,6 +132,13 @@ Specify the Java Virtual Machine's source.
 * favor JDK - the JDK will be preferred. It will be looked up first.
 * only JRE - the JRE will be used.
 * only JDK - the JDK will be used.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Provider
 
@@ -164,13 +157,6 @@ Specify the Java Virtual Machine's source.
 ### Output Stream
 
 Specify the location of the file that will contain [Java Products](https://tools.techidaily.com/advancedinstaller/products/)'s output stream. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the \[... \] button to display the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to insert a reference to folders, properties and installtime or runtime environment variables.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Error Stream
 
@@ -200,6 +186,13 @@ C:\Your Company\Your Application\output-2014-Mar-06 14-43-38-373.log
 
 Copy
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Java Library Path
 
  You can modify the Java Library Path (java.library.path) system property by adding values to this list. 
@@ -213,16 +206,10 @@ By default Advanced Installer includes the following items in the Library Path p
 If you need to load a library from a different location you have to include it in this list. All values you specify will be placed at the above list's beginning. Use the \[Folder... \],\[Property... \] or \[Env Var... \] button to add a path.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## System Library Path
@@ -230,6 +217,13 @@ If you need to load a library from a different location you have to include it i
 By adding values to this list, you can add paths to the system's Path environment variable default value when this Java product is launched. This is useful when a library that you are using is trying to link to other libraries. These are searched using the values in the Path system variable. The locations that you add to the Path variable will have the biggest priority. So, if a library is present in more locations then the search algorithm will prefer the location specified in that list. Use the \[Folder... \], \[Property... \] or\[Env Var... \] button to add a path.
 
 The Path system variable's default value will not be changed for other applications.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -269,24 +263,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-precision-content-marketing-for-soaring-social-media-ranks/"><u>[Updated] In 2024, Precision Content Marketing for Soaring Social Media Ranks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-essential-guide-to-asmr-for-sleep-enthusiasts/"><u>[Updated] In 2024, The Essential Guide to ASMR for Sleep Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-green-screen-expertise-with-kinemaster/"><u>[Updated] The Ultimate Guide to Green Screen Expertise with Kinemaster</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/complete-task-confirmation-prompt-enhancing-user-interactions/"><u>Complete Task Confirmation Prompt: Enhancing User Interactions</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/custom-action-sequence-design-optimizing-your-unique-user-experience/"><u>Custom Action Sequence Design: Optimizing Your Unique User Experience</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/free-and-favorite-watermark-software-options-for-android-devices-top-choices-unveiled/"><u>Free and Favorite Watermark Software Options for Android Devices: Top Choices Unveiled</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-connecting-your-ipad-to-an-lg-television/"><u>Guide: Connecting Your iPad to an LG Television</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmony-hunt-top-mobile-music-quizzes/"><u>Harmony Hunt: Top Mobile Music Quizzes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/ideal-tools-and-websites-for-transforming-your-digital-signatures-canvas-to-a-crisp-clean-white-hue/"><u>Ideal Tools & Websites for Transforming Your Digital Signature's Canvas to a Crisp, Clean White Hue</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-x-a-complete-animoji-guide-for-proficient-users-for-2024/"><u>IPhone X A Complete Animoji Guide for Proficient Users for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-a-mesh-system-your-ideal-connectivity-solution/"><u>Is a Mesh System Your Ideal Connectivity Solution?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-the-google-customer-loyalty-scheme-a-genuine-offer-or-a-fraudulent-trap/"><u>Is the Google Customer Loyalty Scheme a Genuine Offer or a Fraudulent Trap?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/master-the-fix-how-to-properly-configure-devices-and-avoid-error-code-1-issues/"><u>Master the Fix: How to Properly Configure Devices & Avoid Error Code 1 Issues</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/simple-strategies-for-setting-up-auto-run-applications-on-your-computer/"><u>Simple Strategies for Setting Up Auto-Run Applications on Your Computer</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-transforming-stereo-audio-into-mono-format/"><u>Step-by-Step Guide: Transforming Stereo Audio Into Mono Format</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-aspnet-configuration-best-practices-and-tips/"><u>Understanding ASP.NET Configuration: Best Practices and Tips</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unleashing-video-potential-steps-to-become-a-staff-pick-favorite/"><u>Unleashing Video Potential Steps to Become a Staff Pick Favorite</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-saving-screen-scenes-pcmac-and-mobile-devices-walkthrough/"><u>[Updated] 2024 Approved Saving Screen Scenes PC/Mac & Mobile Devices Walkthrough</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-optimize-youtube-tagstitledescription-for-more-views/"><u>[Updated] In 2024, How to Optimize YouTube Tags/Title/Description for More Views</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-update-your-property-settings-easily-with-our-comprehensive-guide/"><u>1. Update Your Property Settings Easily with Our Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-bridging-platforms-from-tiktok-to-your-facebook-friends/"><u>2024 Approved Bridging Platforms From TikTok to Your Facebook Friends</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-vrs-current-creative-conundrum-latest-insights/"><u>2024 Approved VR's Current Creative Conundrum - Latest Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cracking-the-code-of-chatgpt-limitations-why-modern-jailbreaking-fails/"><u>Cracking the Code of ChatGPT Limitations: Why Modern Jailbreaking Fails</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/displaying-your-samsung-galaxy-s20-screen-on-a-tv-the-ultimate-how-to-tutorial/"><u>Displaying Your Samsung Galaxy S20 Screen on a TV - The Ultimate How-To Tutorial</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063153514-elevate-your-connections-effortlessly-with-our-driver-tools/"><u>Elevate Your Connections Effortlessly with Our Driver Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/high-chrome-cpu-use-problem-solved-steps-for-optimizing-performance/"><u>High Chrome CPU Use - Problem Solved: Steps for Optimizing Performance</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-xr-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone XR</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/quick-and-easy-techniques-for-stunning-mobile-photo-edits-this-year/"><u>Quick and Easy Techniques for Stunning Mobile Photo Edits This Year</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-viewing-your-android-phones-contact-list/"><u>Step-by-Step Guide to Viewing Your Android Phone's Contact List</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-1440p-gaming-monitors-for-all-budgets/"><u>The Best 1440P Gaming Monitors for All Budgets</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-rated-artists-specializing-in-stunning-picture-mosaics/"><u>Top-Rated Artists Specializing in Stunning Picture Mosaics</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/wireless-iphone-7-screen-mirroring-guide-connect-your-phone-to-pc/"><u>Wireless iPhone 7 Screen Mirroring Guide: Connect Your Phone to PC</u></a></li>
 </ul></div>
 

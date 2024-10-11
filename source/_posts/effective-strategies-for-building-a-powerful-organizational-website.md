@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Building a Powerful Organizational Website
-date: 2024-09-30T20:17:36.935Z
-updated: 2024-10-05T21:54:59.818Z
+date: 2024-10-10T05:01:51.573Z
+updated: 2024-10-11T07:05:01.341Z
 tags:
   - user-guide
 categories:
@@ -99,10 +99,17 @@ The components in an Advanced Installer project are created by following the Win
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Creating components which don't respect these rules may result in an installation package which doesn't work correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating new features
@@ -115,13 +122,6 @@ The components in an Advanced Installer project are created by following the Win
 
  Use the “Rename” tree context menu item or press the F2 key while a feature is selected. Only the features names can be edited. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Renaming a component
 
  Use the “Rename” tree context menu item or press the F2 key while a component is selected. This identifier is used in conditions to refer to the installed state or the action state of a component.
@@ -129,17 +129,10 @@ The components in an Advanced Installer project are created by following the Win
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When changing the name of a component, all the conditions that refer to this identifier must be updated accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Moving a feature up, down, left or right
@@ -149,23 +142,10 @@ The components in an Advanced Installer project are created by following the Win
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)A feature's position among its siblings is important because at install time, in the Customize dialog, the features will be displayed in the order they appear in the left tree.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting the Current Feature
@@ -206,9 +186,23 @@ Use the "Make Key Member" tree context menu item.
 
  Drag and drop the component to a new feature while theShift key is pressed, use the “Share” context menu or ribbon button. The component will be present under both features. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Sharing a feature
 
 Drag and drop the feature to a new feature, while theShift key is pressed. All the components of the dragged feature will be present under both features.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding resources to the search list
 
@@ -216,9 +210,23 @@ Use the “Add to list” context menu item or press theF4 key while a tree item
 
 Use the “Add Children to List” option or press theShift + F4 key to add all the item's children to the list.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Removing features and shared components
 
 ![Remove Feature](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove Feature") Use the\[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while a feature or component is selected. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)A feature must be empty before you can remove it. A regular component cannot be removed, only a shared one. 
 
@@ -230,23 +238,9 @@ Use the “Add Children to List” option or press theShift + F4 key to add all 
 
 ![Find and Append](https://cdn.advancedinstaller.com/img/ui/search-icons/plus.png "Find and Append") Use the_Find and Append_ button to append the search results to the search pane list.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to search for the whole word you must enclose the string from the combo in quotes (").
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The search is case insensitive.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -292,21 +286,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-finest-choices-free-streaming-tools-suitable-everywhere/"><u>[New] Finest Choices Free Streaming Tools Suitable Everywhere</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quick-guide-to-the-ifunny-meme-application/"><u>[New] Quick Guide to the iFunny Meme Application</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-guide-to-thriving-as-a-digital-creator-for-2024/"><u>A Guide to Thriving as a Digital Creator for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/comprehensive-guide-to-sns-hdr-pro-and-similar-software/"><u>Comprehensive Guide to SNS HDR Pro and Similar Software</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enhance-your-query-mastering-the-edit-search-dialog/"><u>Enhance Your Query: Mastering the Edit Search Dialog</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fossil-sport-gear-reviewed-premium-performance-meets-wallet-friendly-prices/"><u>Fossil Sport Gear Reviewed: Premium Performance Meets Wallet-Friendly Prices</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-enable-usb-debugging-on-your-android-device-with-apowersoft-phone-manager/"><u>How to Enable USB Debugging on Your Android Device with Apowersoft Phone Manager</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-t2-pro-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo T2 Pro 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-insert-electronic-signatures-into-pdfs-using-simple-techniques/"><u>How To: Insert Electronic Signatures Into PDFs Using Simple Techniques</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-screen-captures-a-step-by-step-guide-for-macos-el-capitan-users/"><u>Mastering Screen Captures: A Step-by-Step Guide for macOS El Capitan Users</u></a></li>
-<li><a href="https://win-dash.techidaily.com/netgear-wireless-networking-driver-updates-where-and-how-to-download/"><u>NETGEAR Wireless Networking Driver Updates: Where and How to Download</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/private-discussions-enhancing-engagement-through-personalized-interactions/"><u>Private Discussions: Enhancing Engagement Through Personalized Interactions</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/seo-best-practices-mastering-the-art-of-configuring-virtual-directories-online/"><u>SEO Best Practices: Mastering the Art of Configuring Virtual Directories Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/turning-text-to-audio-with-ais-help/"><u>Turning Text to Audio with AI's Help</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/ultimate-technique-to-switch-from-flac-to-lossless-wav-soundtracks/"><u>Ultimate Technique to Switch From FLAC to Lossless WAV Soundtracks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlocking-profitability-on-youtube-shorts-essentials-and-future-earning-prospects-for-2024/"><u>Unlocking Profitability on Youtube Shorts Essentials and Future Earning Prospects for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-iconic-trailer-highlight-assortment/"><u>[New] 2024 Approved Iconic Trailer Highlight Assortment</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-advanced-techniques-for-bio-linking-on-tiktok/"><u>[New] Advanced Techniques for Bio Linking on TikTok</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-step-up-your-game-mastering-the-art-of-capturing-playthroughs/"><u>[Updated] In 2024, Step Up Your Game Mastering the Art of Capturing Playthroughs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtubes-elite-gear-top-5-video-chat-headsets/"><u>[Updated] In 2024, YouTube's Elite Gear Top 5 Video Chat Headsets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-shambling-successes-the-cutthroat-list-of-best-zombies-gaming-for-2024/"><u>[Updated] Shambling Successes The Cutthroat List of Best Zombies Gaming for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/8-edition/"><u>8 Edition</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/event-management-techniques-mastering-control-and-coordination/"><u>Event Management Techniques: Mastering Control and Coordination</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/expert-tips-for-professional-gopro-film-cuts-and-editing-techniques/"><u>Expert Tips for Professional GoPro Film Cuts and Editing Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015953568-modern-warfare-voice-chat-problems-here-are-the-solutions/"><u>Modern Warfare Voice Chat Problems? Here Are the Solutions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/recognizing-and-avoiding-counterfeit-apple-id-fraud-insights-from-malwarefox/"><u>Recognizing and Avoiding Counterfeit Apple ID Fraud: Insights From MalwareFox</u></a></li>
 </ul></div>
 
