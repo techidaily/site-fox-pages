@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Workshop with the Ultimate Guide to Editing Event Mappers
-date: 2024-10-09T22:07:05.923Z
-updated: 2024-10-10T22:03:14.222Z
+date: 2024-10-13T05:43:50.496Z
+updated: 2024-10-17T03:20:15.818Z
 tags:
   - user-guide
 categories:
@@ -87,10 +87,16 @@ This dialog allows you to subscribe the selected control to an event published b
 ![Event Mapping Dialog](https://cdn.advancedinstaller.com/img/dialog/event-mapping.png "Event Mapping Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Subscribe to
@@ -98,10 +104,10 @@ This dialog allows you to subscribe the selected control to an event published b
 Specify the type of event that is subscribed to by the control.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attribute to set
@@ -145,17 +151,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-united-creatives-brands-meet-youtube-for-2024/"><u>[New] United Creatives Brands Meet YouTube for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-efficient-image-capturing-made-simple-the-best-pc-snipers-listed/"><u>2024 Approved Efficient Image Capturing Made Simple The Best PC Snipers Listed</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/cutting-edge-tv-selection-top-10-in-hdtvs/"><u>Cutting-Edge TV Selection – Top 10 in HDTVs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-integration-secure-your-perfect-keyboard-driver-for-windows-7-today/"><u>Effortless Integration: Secure Your Perfect Keyboard Driver for Windows 7 Today</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enhancing-your-digital-collection-mastering-the-edit-library-feature/"><u>Enhancing Your Digital Collection: Mastering the Edit Library Feature</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-losing-mobile-service-discover-these-10-essential-fixes-to-restore-data-connectivity/"><u>IPhone Losing Mobile Service? Discover These 10 Essential Fixes to Restore Data Connectivity</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-the-google-customer-loyalty-scheme-a-genuine-offer-or-a-fraudulent-trap/"><u>Is the Google Customer Loyalty Scheme a Genuine Offer or a Fraudulent Trap?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/learning-the-ropes-of-telegram-promotion-for-beginners-for-2024/"><u>Learning the Ropes of Telegram Promotion for Beginners for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/r-the-map-locating-youtube-studio-content-architects-toolbox/"><u>Master the Map Locating YouTube Studio, Content Architect’s Toolbox</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-macos-java-runtime-configuration-settings/"><u>Understanding MacOS Java Runtime Configuration Settings</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-the-java-virtual-machine-control-panel/"><u>Understanding the Java Virtual Machine Control Panel</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/update-verification-file-detection-methods/"><u>Update Verification File Detection Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-microphone-for-youtuber/"><u>[New] 2024 Approved Best Microphone for YouTuber</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ps3-game-viewers-guide-filming-your-playtime/"><u>[New] 2024 Approved The PS3 Game Viewer's Guide Filming Your Playtime</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-how-to-avoid-and-eliminate-fog-on-gopro-lenshousing-for-2024/"><u>[New] How to Avoid and Eliminate Fog on GoPro Lens/Housing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-selections-economical-4k-home-theater-systems/"><u>[New] Ideal Selections Economical 4K Home Theater Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-uniting-sight-and-sound-perfecting-videography-voiceovers/"><u>[Updated] Uniting Sight & Sound Perfecting Videography Voiceovers</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-effortless-ipad-data-exchange-usb-based-methods-excluding-itunes/"><u>1. Effortless iPad Data Exchange: USB-Based Methods Excluding iTunes</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728506916258-synctoywindows-10/"><u>簡單指南：讓SyncToy自動同步Windows 10文件</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728487503845-wd/"><u>迅捷 WD 外置硬盘自动备份手册 - 立即下载</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/automatic-photo-transfer-seamlessly-sharing-images-from-your-iphone-to-ipad/"><u>Automatic Photo Transfer: Seamlessly Sharing Images From Your iPhone to iPad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209638916-laptop-microphone-problems-heres-how-to-get-it-working-again/"><u>Laptop Microphone Problems? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/optimisation-de-windows-11-post-mise-a-niveau-votre-guide-en-4-etapes/"><u>Optimisation De Windows 11 Post-Mise À Niveau : Votre Guide en 4 Étapes</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/resolve-itunes-error-3194-in-no-time-effective-methods-for-windows-operating-systems/"><u>Resolve iTunes Error 3194 in No Time - Effective Methods for Windows Operating Systems</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/simple-tricks-to-retrieve-your-files-after-windows-os-corruption/"><u>Simple Tricks to Retrieve Your Files After Windows OS Corruption</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-purging-browser-cache-in-windows-11-with-the-help-of-revo-uninstaller/"><u>The Ultimate Guide to Purging Browser Cache in Windows 11 with the Help of Revo Uninstaller</u></a></li>
+<li><a href="https://win-data.techidaily.com/transformation-facile-des-partitions-mbr-vers-gpt-sur-windows-11-guide-detaille/"><u>Transformation Facile Des Partitions MBR Vers GPT Sur Windows 11 - Guide Détaillé</u></a></li>
 </ul></div>
 

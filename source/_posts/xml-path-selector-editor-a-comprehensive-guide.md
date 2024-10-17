@@ -1,7 +1,7 @@
 ---
 title: "XML Path Selector Editor: A Comprehensive Guide"
-date: 2024-10-08T21:20:14.881Z
-updated: 2024-10-11T02:35:51.351Z
+date: 2024-10-16T01:28:47.784Z
+updated: 2024-10-16T19:36:19.654Z
 tags:
   - user-guide
 categories:
@@ -80,13 +80,20 @@ Table of Contents
 
 ![Edit XML Locator](https://cdn.advancedinstaller.com/img/dialog/edit-xml-locator.png "Edit XML Locator")  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## XML Locator
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Search
@@ -104,13 +111,6 @@ In this field, you can select the search criteria. This field corresponds to the
 * Element exists
 * The search will be performed using the element name without specifying the index in the parent.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Value
 
 In this field, you can define the value of the search operation. This field corresponds to the _Value_ field from the [](https://tools.techidaily.com/advancedinstaller/products/) panel.
@@ -118,10 +118,10 @@ In this field, you can define the value of the search operation. This field corr
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If an **Element has index in the parent** criteria is selected the value field must contain only integer numbers and is a_0 based_ value. In case a string is supplied the search operation's found value will always return the current element.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Store
@@ -139,18 +139,18 @@ This field corresponds with the _Result Type_ field from the [](https://tools.te
 * Element text
 * The text contained by the element that meets the search criteria will be returned by the search operation.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### in
 
 In this field, you can specify the Advanced Installer property where the resulted value will be stored. You can write the name of the property or use the \[... \] button to display the [Property Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) and select a property. This field corresponds with the _Result Property_ field from the[](https://tools.techidaily.com/advancedinstaller/products/) panel.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)It is highly advised to use **public properties**. A public property has its name written in capital letters. If in this field a property is written which is not previously declared, it will be created**only** if the search proves to be successful; otherwise, it will not exist.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The following combinations for an XML locator are possible:
 
@@ -199,18 +199,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-how-to-create-a-new-twitter-account-for-2024/"><u>[Updated] How to Create a New Twitter Account for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ps4-broadcasting-basics-with-a-focus-on-obs-integration/"><u>2024 Approved PS4 Broadcasting Basics with a Focus on OBS Integration</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y78-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y78 5G Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-free-typing-classes-we-love-tailored-for-individuals-at-any-stage/"><u>Best Free Typing Classes We Love: Tailored for Individuals at Any Stage</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-correctly-reconnect-imessage-after-an-unintended-logout-on-your-iphone/"><u>How to Correctly Reconnect iMessage After an Unintended Logout on Your iPhone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-perform-an-append-or-create-function-in-data-management/"><u>How to Perform an Append or Create Function in Data Management</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-dynamic-image-backdrops-viewer/"><u>In 2024, Top 10 Dynamic Image Backdrops Viewer</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/leading-ai-voice-synthesis-applications-the-ultimate-guide/"><u>Leading AI Voice Synthesis Applications: The Ultimate Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mass-effect-legendary-edition-woes-overcoming-the-non-launching-challenge/"><u>Mass Effect Legendary Edition Woes: Overcoming the Non-Launching Challenge</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/quick-guide-tailoring-automated-dialogue-scripts/"><u>Quick Guide: Tailoring Automated Dialogue Scripts</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-tips-for-sharing-your-tiktoks-to-instagram-with-ease/"><u>Top Tips for Sharing Your TikToks to Instagram with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-isnt-my-print-screen-working-on-windows-diagnose-and-fix-steps/"><u>Why Isn't My Print Screen Working on Windows? – Diagnose & Fix Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-9-listing-best-virtual-microphones-recorders-2023/"><u>[New] In 2024, Ultimate 9 Listing Best Virtual Microphones Recorders 2023</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-a-beginners-guide-to-embedding-youtube-playlists-in-code/"><u>[Updated] In 2024, A Beginner's Guide to Embedding YouTube Playlists in Code</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breaking-records-olympics-showcase-for-short-tracks-for-2024/"><u>Breaking Records Olympics Showcase for Short Tracks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-standard-to-spectacited-mobile-devices-vr-conversion-path-for-2024/"><u>From Standard to Spectacited Mobile Device's VR Conversion Path for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Infinix PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-camon-20mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Camon 20Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-cartoon-expressions-with-snapchats-fun-filter/"><u>In 2024, Mastering Cartoon Expressions with Snapchat's Fun Filter</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-maximizing-roi-with-snapchat-for-biz-leaders/"><u>In 2024, Maximizing ROI with Snapchat for Biz Leaders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-best-practices-for-linktree-on-tiktok-profiles/"><u>In 2024, Unveiling the Best Practices for Linktree on TikTok Profiles</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/migliorare-la-velocita-e-la-funzionalita-di-windows-11-con-queste-tre-pulizie-crittografate-del-disco-c-ottime-suggerimenti-utili/"><u>Migliorare La Velocità E La Funzionalità Di Windows 11 Con Queste Tre Pulizie Crittografate Del Disco C - Ottime Suggerimenti Utili</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ripristina-gratis-file-persi-da-un-hard-disk-formatato/"><u>Ripristina Gratis File Persi Da Un Hard Disk Formatato</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ripristina-i-dati-di-un-ssd-non-avviabile-una-guida-dettagliata/"><u>Ripristina I Dati Di Un SSD Non Avviabile: Una Guida Dettagliata</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-repairing-windows-10-file-system-errors/"><u>Step-by-Step Guide: Repairing Windows 10 File System Errors</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-guide-fixing-the-issue-when-your-pc-cant-make-a-system-image-on-external-hard-drive/"><u>Troubleshooting Guide: Fixing the Issue When Your PC Can't Make a System Image on External Hard Drive</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/tutorial-perbaiki-akun-microsoft-exchange-reset-terakhir-di-opsi-windows-10-dan-11/"><u>Tutorial Perbaiki Akun Microsoft Exchange Reset Terakhir Di Opsi Windows 10 Dan 11</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/verloren-gegevens-herstellen-schaalt-u-het-bovenop-een-verwijderde-computermaatregel-ernaar/"><u>Verloren Gegevens Herstellen: Schaalt U Het Bovenop Een Verwijderde Computermaatregel Ernaar?</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728486138043-windows-11-usb/"><u>Windows 11 システムイメージの USB メモリへの作製手順</u></a></li>
 </ul></div>
 

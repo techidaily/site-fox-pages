@@ -1,7 +1,7 @@
 ---
 title: Mastering the Setup of Module Features Panel in Web Applications
-date: 2024-10-06T20:38:56.324Z
-updated: 2024-10-10T17:05:33.662Z
+date: 2024-10-09T22:05:17.706Z
+updated: 2024-10-16T16:21:30.370Z
 tags:
   - user-guide
 categories:
@@ -76,16 +76,16 @@ This dialog allows you to select the source file of the currently selected merge
 ![Merge Module Properties dialog](https://cdn.advancedinstaller.com/img/dialog/merge-modules-properties.png "Merge Module Properties dialog")  
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Source Path
@@ -95,16 +95,10 @@ This field contains the actual path to the source file's location on the hard dr
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Selecting a source file of a different merge module is equivalent to removing the current merge module and adding the new one in the [Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -140,19 +134,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/op-must-know-elements-about-youtube-tv-subscription-for-2024/"><u>[New] Top Must-Know Elements About YouTube TV Subscription for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-zero-30-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Zero 30 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/adjusting-runtime-conditions-comprehensive-controls-dialogue-box-guide/"><u>Adjusting Runtime Conditions: Comprehensive Controls Dialogue Box Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-repository-organization-and-management-tools/"><u>Effective Repository Organization and Management Tools</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effortlessly-remove-watermarks-a-comprehensive-tutorial-for-editing-pdf-files/"><u>Effortlessly Remove Watermarks: A Comprehensive Tutorial for Editing PDF Files</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enhance-your-workshop-with-the-ultimate-guide-to-editing-event-mappers/"><u>Enhance Your Workshop with the Ultimate Guide to Editing Event Mappers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-nokia-c22-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Nokia C22? Try These Fixes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-tecno-spark-20-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Tecno Spark 20?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-photo-background-removal-with-these-4-powerful-methods/"><u>Mastering Photo Background Removal with These 4 Powerful Methods</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-create-stunning-animations-top-stop-motion-software-for-mac-and-pc/"><u>New Create Stunning Animations Top Stop Motion Software for Mac and PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-failed-to-initialize-renderer-issues-in-browsers/"><u>Troubleshooting Guide: Fixing 'Failed to Initialize Renderer' Issues in Browsers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/zentralisierte-digitale-transformation-der-rechtspraxis-erleben-sie-die-innovation-von-norton-rose-llp-mit-abbyy-foto-und-handschriftserkennung/"><u>Zentralisierte Digitale Transformation Der Rechtspraxis: Erleben Sie Die Innovation Von Norton Rose LLP Mit ABBYY Foto- Und Handschriftserkennung</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-architectural-wonders-from-the-sandbox/"><u>[New] 2024 Approved Architectural Wonders From the Sandbox</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dissolving-details-techniques-to-anonymize-youtube-media/"><u>[New] 2024 Approved Dissolving Details Techniques to Anonymize YouTube Media</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-unleash-potential-the-ultimate-guide-to-spectacous-tiktok-openers-mac/"><u>[New] 2024 Approved Unleash Potential The Ultimate Guide to Spectacous TikTok Openers (Mac)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cambia-il-tuo-dvd-su-pc-o-mac-converti-gratis-i-tuoi-video-in-mp4-usando-winxdvd-istruzioni-facili/"><u>Cambia Il Tuo DVD Su PC O Mac: Converti Gratis I Tuoi Video in MP4 Usando WinXDVD - Istruzioni Facili</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/compreensivo-guia-sobre-clonagem-de-sistemas-e-unidades-recursos-esenciais/"><u>Compreensivo Guia Sobre Clonagem De Sistemas E Unidades: Recursos Esenciais</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/festplatten-unformatieren-in-windows-11-kostenfrei-tipps-und-tricks-zum-umgestalten-des-datentragers/"><u>Festplatten Unformatieren in Windows 11 Kostenfrei - Tipps Und Tricks Zum Umgestalten Des Datenträgers</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-your-it-admin-cant-do-more-on-windows-os/"><u>Fixing 'Your IT Admin Can't Do More' On Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010787943-modern-warfare-woes-no-more-your-ultimate-guide-to-overcoming-dev-error-6034-on-ps-xbox-and-pc/"><u>Modern Warfare Woes No More: Your Ultimate Guide to Overcoming Dev Error 6034 on PS, Xbox & PC</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/resolution-facile-de-lerreur-du-pilote-bcm20702a0-dans-windows-11-guide-rapide/"><u>Résolution Facile De L'erreur Du Pilote BCM20702A0 Dans Windows 11 - Guide Rapide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/tecnicas-efectivas-para-el-rescate-de-informacion-en-dispositivos-western-digital-easystore/"><u>Técnicas Efectivas Para El Rescate De Información en Dispositivos Western Digital EasyStore</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-complete-drone-racing-playbook-plus-5-elite-fpv-brands-for-2024/"><u>The Complete Drone Racing Playbook + 5 Elite FPV Brands for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-mobile-playlists-discovering-the-ultimate-melodies-for-your-android-device-for-2024/"><u>Top Mobile Playlists Discovering the Ultimate Melodies for Your Android Device for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity with the IShortcutsComponent Toolset – Advanced Coding Solutions
-date: 2024-10-05T00:35:00.350Z
-updated: 2024-10-11T03:18:10.538Z
+date: 2024-10-13T12:26:37.240Z
+updated: 2024-10-16T21:23:58.343Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 This interface creates new shortcuts and gets all the existing shortcuts from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ This interface creates new shortcuts and gets all the existing shortcuts from th
 IShortcutsComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -137,10 +137,10 @@ IShortcutsComponent : IDispatch
 **Array<IShorcut> Shortcuts** \- Gets all the shortcuts from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -155,16 +155,10 @@ CreateFolderShorcut(IFolder **Folder**, IFolder**TargetFolder**) - returns IFold
 \- Creates a new shortcut for the specified **TargetFolder**, in the desired**Folder**.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,22 +202,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-iphone-user-guide-to-hdr-image-creation-for-2024/"><u>[Updated] IPhone User Guide to HDR Image Creation for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-ultimate-guide-top-10-preferred-gopro-housing/"><u>2024 Approved Ultimate Guide Top 10 Preferred GoPro Housing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-tasks-power-up-window-10-and-11-with-keybinds/"><u>Accelerate Tasks: Power-Up Window 10 and 11 with Keybinds</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-infinix-smart-7-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Smart 7 HD Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/create-your-own-customized-event-tracking-panel/"><u>Create Your Own Customized Event Tracking Panel</u></a></li>
-<li><a href="https://video-capture.techidaily.com/expert-methods-for-streamlining-console-playback-pc-wise-for-2024/"><u>Expert Methods for Streamlining Console Playback PC-Wise for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exploring-the-role-of-imsixpackage-requirements-and-dependencies/"><u>Exploring the Role of IMsixPackage Requirements and Dependencies</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/google-tv-chromecast-evaluation-a-new-contender-against-amazons-firetv/"><u>Google TV Chromecast Evaluation: A New Contender Against Amazon's FireTV</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guidelines-for-sharing-your-tiktok-videos-as-reels-free-from-branding/"><u>Guidelines for Sharing Your TikTok Videos as Reels – Free From Branding</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-light-and-motion-for-gopro-time-lapse-magic-for-2024/"><u>Harnessing Light and Motion for GoPro Time-Lapse Magic for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-the-art-of-saving-tiktoks-a-comprehensive-how-to/"><u>Mastering the Art of Saving TikToks: A Comprehensive How-To</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/perfect-methods-to-refresh-dell-webcam-drivers-effectively/"><u>Perfect Methods to Refresh Dell Webcam Drivers Effectively</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/protecting-your-system-how-antivirus-programs-and-firewalls-work-together-explained/"><u>Protecting Your System: How Antivirus Programs and Firewalls Work Together Explained</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/resolving-image-export-restrictions-in-apowermanager-app-for-iphones-and-ipads/"><u>Resolving Image Export Restrictions in ApowerManager App for iPhones and iPads</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/survey-diverse-categories-in-visual-media-tech/"><u>Survey Diverse Categories in Visual Media Tech</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unlocking-the-power-of-apowersoft-a-comprehensive-guide-on-using-the-background-eraser-redemption-code/"><u>Unlocking the Power of Apowersoft: A Comprehensive Guide on Using the Background Eraser Redemption Code</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/xml-path-selector-editor-a-comprehensive-guide/"><u>XML Path Selector Editor: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-cherished-holiday-hits-our-top-10-family-friendly-films/"><u>[Updated] Cherished Holiday Hits Our Top 10 Family-Friendly Films</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-infinite-snaps-ensuring-a-lasting-snapchat-connection-for-2024/"><u>[Updated] Infinite Snaps Ensuring a Lasting Snapchat Connection for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-itel-a60-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/sd-seo/"><u>如何用免费方式保存SD卡相片 - SEO优化文章</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/cancellation-of-photos-with-three-effective-methods-online-process/"><u>Cancellation of Photos with Three Effective Methods - Online Process</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/digital-diaries-reviewing-the-best-personal-devices/"><u>Digital Diaries Reviewing the Best Personal Devices</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-strategies-for-resolving-vcenter-excessive-login-errors/"><u>Effective Strategies for Resolving vCenter Excessive Login Errors</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/expert-solutions-resolving-windows-10-loading-problems-at-welcome-stage/"><u>Expert Solutions: Resolving Windows 10 Loading Problems at Welcome Stage</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-defy-2-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Defy 2 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-diagnose-and-mend-compromised-data-on-windows-11-systems/"><u>How to Diagnose & Mend Compromised Data on Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-strategies-to-boost-your-facebook-pages-popularity-meter/"><u>In 2024, Strategies to Boost Your Facebook Page's Popularity Meter</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/kostenlose-migration-von-windows-10-32-auf-64-bit-schritt-fur-schritt-mit-datenschutz/"><u>Kostenlose Migration Von Windows 10 32 Auf 64 Bit - Schritt Für Schritt Mit Datenschutz</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-citations-in-depth-strategies-for-quoting-chatgpt-accurately/"><u>Mastering Citations: In-Depth Strategies for Quoting ChatGPT Accurately</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/problembehandlung-clonezilla-findet-diese-speicherpartition-in-der-betriebssystemkonfiguration-nicht/"><u>Problembehandlung: Clonezilla Findet Diese Speicherpartition in Der Betriebssystemkonfiguration Nicht</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-methods-to-launch-command-prompt-at-system-start-in-windows-11/"><u>Step-by-Step Methods to Launch Command Prompt at System Start in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Xiaomi Redmi Note 13 Pro+ 5G.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-tips-for-the-realtek-rtl8192se-wireless-lan-controller-maximizing-performance-and-range/"><u>Troubleshooting Tips for the Realtek RTL8192SE Wireless LAN Controller: Maximizing Performance and Range</u></a></li>
 </ul></div>
 

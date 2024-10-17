@@ -1,7 +1,7 @@
 ---
 title: Effective Repository Organization and Management Tools
-date: 2024-10-05T21:33:38.797Z
-updated: 2024-10-11T00:58:39.069Z
+date: 2024-10-11T17:52:54.535Z
+updated: 2024-10-16T23:08:47.905Z
 tags:
   - user-guide
 categories:
@@ -73,16 +73,10 @@ Resources exported to the repository can be used in new projects very easy. For 
 ![Repository Manager](https://cdn.advancedinstaller.com/img/dialog/repository-manager.png "Repository Manager")  
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Content
@@ -97,17 +91,17 @@ The available operations are:
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)We will gladly offer you a free license if you help us with missing translations. To contact us regarding this, just use the “Send to Advanced Installer team” item from the Dictionaries tab's context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Repositories
@@ -124,10 +118,10 @@ The available operations are:
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") To remove a selected item from the repository just right-click to access its context menu or press theDel key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -163,17 +157,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-pitfall-of-superficial-engagement-on-insta/"><u>[New] The Pitfall of Superficial Engagement on Insta</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pcs-choice-for-classic-gaming-essential-top-5-ps1-emulators/"><u>[Updated] 2024 Approved PC's Choice for Classic Gaming Essential Top 5 PS1 Emulators</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-a-deep-dive-into-the-fundamentals-of-youtube-shorts/"><u>[Updated] A Deep Dive Into The Fundamentals of YouTube Shorts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-revolutionize-your-beat-matching-try-free-online-detectors-now/"><u>[Updated] Revolutionize Your Beat Matching – Try Free Online Detectors Now</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-guide-countdown-timer-setup-for-broadcasts-for-2024/"><u>[Updated] Step-by-Step Guide Countdown Timer Setup for Broadcasts for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-steer-clear-of-virtual-reality-sickness/"><u>2024 Approved Steer Clear of Virtual Reality Sickness</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-strategies-disabling-chrome-alerts-and-preventing-intrusive-advertisements/"><u>Effective Strategies: Disabling Chrome Alerts & Preventing Intrusive Advertisements</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-chatgpt-enable-remote-control-over-smart-household-gadgets/"><u>How Does ChatGPT Enable Remote Control Over Smart Household Gadgets?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-successfully-transfer-high-size-documents-using-whatsapp/"><u>How to Successfully Transfer High-Size Documents Using WhatsApp</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-browserbrokerexe-a-threat-a-comprehensive-guide-to-its-security-implications/"><u>Is Browser_broker.exe a Threat? A Comprehensive Guide to Its Security Implications</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/methods-to-capture-audio-from-your-jango-device-and-convert-to-mp3-format/"><u>Methods to Capture Audio From Your Jango Device & Convert to MP3 Format</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-ultimate-iphone-cheat-sheet-for-insta-downloads/"><u>The Ultimate iPhone Cheat Sheet for Insta Downloads</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unleash-creativity-in-photography-essential-pixlr-hacks/"><u>[Updated] Unleash Creativity in Photography Essential Pixlr Hacks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/comment-resoudre-le-probleme-du-planificateur-de-taches-affichant-incorrectement-des-taches-5-techniques-efficaces/"><u>Comment Résoudre Le Problème Du Planificateur De Tâches Affichant Incorrectement Des Tâches: 5 Techniques Efficaces</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-innovations-snapchat-vs-gpt-powered-chatter/"><u>Conversational Innovations: Snapchat vs GPT-Powered Chatter</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/correccion-importante-no-se-ofrece-el-servicio-de-respaldo-para-windows-server-ediciones-2008-2012-y-201/"><u>Corrección Importante: No Se Ofrece El Servicio De Respaldo Para Windows Server Ediciones 2008, 2012 Y 201</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-apple-watch-series-6-slight-improvements-maintain-market-leadership/"><u>In-Depth Look at Apple Watch Series 6: Slight Improvements Maintain Market Leadership</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mettre-a-jour-votre-stockage-convertir-un-hdd-en-ssd-sous-windows-10-sans-reformatage/"><u>Mettre À Jour Votre Stockage: Convertir Un HDD en SSD Sous Windows 10 Sans Reformatage</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/strategia-rapida-e-semplificata-per-eseguire-una-cronologia-del-tuo-hard-disk-esterno-su-un-sistema-windows-11-gratuitamente/"><u>Strategia Rapida E Semplificata per Eseguire Una Cronologia Del Tuo Hard Disk Esterno Su Un Sistema Windows 11 Gratuitamente</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728507461236-windows-10ssd/"><u>Windows 10在SSD上的设置与启动：使用/不使用光盘版本分析</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/windows-11-losen-konnen/"><u>Windows 11 Lösen Können</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728492122484-sd/"><u>ソフトウェア不要でSDメモリーから消えた画像を回収する（コストなし）</u></a></li>
 </ul></div>
 

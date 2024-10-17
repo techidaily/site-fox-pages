@@ -1,7 +1,7 @@
 ---
 title: Understanding the 'Properties' Feature in Application Settings
-date: 2024-10-06T18:47:28.777Z
-updated: 2024-10-11T05:34:26.627Z
+date: 2024-10-15T00:36:40.209Z
+updated: 2024-10-16T23:05:38.033Z
 tags:
   - user-guide
 categories:
@@ -101,59 +101,53 @@ This tab can be used to configure application pool definitions.
 
 ![Application Properties](https://cdn.advancedinstaller.com/img/dialog/fastcgi-app-props.png "Application Properties")  
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FastCGI
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Full path
 
 The full path of the FastCGI process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Arguments
 
 Specify the command-line arguments for the FastCGI process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Max requests
 
 The maximum number of requests that a FastCGI worker process can process before it is recycled. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Timeout
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Activity
 
 Specify the maximum time (in seconds) that a FastCGI process can take to process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Request
 
@@ -192,16 +186,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-enhance-your-binge-watch-list-with-these-six-mac-methods-for-netflix-recording/"><u>[New] In 2024, Enhance Your Binge-Watch List with These Six Mac Methods for Netflix Recording</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-9gag-for-making-memes-a-step-by-step-guide/"><u>[New] Mastering 9GAG for Making Memes A Step-by-Step Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-celebrity-fleeting-frame-study/"><u>[Updated] 2024 Approved Celebrity Fleeting Frame Study</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-vlogging-through-verbiage-a-2023-guide-to-twitter-threads/"><u>[Updated] 2024 Approved Vlogging Through Verbiage - A 2023 Guide to Twitter Threads</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/discover-the-best-project-categories-a-comprehensive-guide-from-i-advise/"><u>Discover the Best Project Categories: A Comprehensive Guide From I Advise</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-administrative-conversations-key-strategies-and-tips/"><u>Effective Administrative Conversations: Key Strategies and Tips</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-techniques-to-migrate-images-from-samsung-s9-smartphone-to-your-personal-laptopdesktop-device/"><u>Effective Techniques to Migrate Images From Samsung S9 Smartphone to Your Personal Laptop/Desktop Device</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/event-management-techniques-mastering-control-and-coordination/"><u>Event Management Techniques: Mastering Control and Coordination</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/insightful-repackager-overview-a-comprehensive-guide/"><u>Insightful Repackager Overview: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-mfc42dll-file-cannot-be-located-issue/"><u>Resolving the mfc42.dll File Cannot Be Located Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-solve-a-non-functioning-facetime-top-15-tips/"><u>Troubleshooting: How to Solve a Non-Functioning FaceTime - Top 15 Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-maximize-your-engagement-with-full-screen-facebook-videos/"><u>[New] Maximize Your Engagement with Full-Screen Facebook Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premier-12-screen-recording-solutions-uncapped-recording-for-2024/"><u>[New] Premier 12 Screen Recording Solutions - Uncapped Recording for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-disable-live-recording-in-quicktime-player-for-2024/"><u>[Updated] How to Disable Live Recording in QuickTime Player for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-the-technical-marvels-of-dji-inspire-2/"><u>[Updated] Unveiling the Technical Marvels of DJI Inspire 2</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728492466484-windows/"><u>「无需打开Windows，如何复制文件：分步指南」</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/dispentic-tools-to-launch-your-youtube-career/"><u>15 Indispentic Tools to Launch Your YouTube Career</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-15-pro-max-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on iPhone 15 Pro Max</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/aomei-backupper-anleitung-zur-herstellung-einer-boot-festplatte-unter-verwendung-von-windows-preinstallation-environment-winpe-oder-linux/"><u>AOMEI Backupper: Anleitung Zur Herstellung Einer Boot-Festplatte Unter Verwendung Von Windows Preinstallation Environment (WinPE) Oder Linux</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-choose-and-sync-selected-folders-in-your-google-drive-with-ease-a-guide-to-three-strategies/"><u>How to Choose and Sync Selected Folders in Your Google Drive with Ease: A Guide to Three Strategies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-realme-narzo-n53-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Realme Narzo N53 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/quick-fixes-reviving-your-windows-server-201/"><u>Quick Fixes: Reviving Your Windows Server 201</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/recontruir-archivos-borrados-por-error-de-la-papelera-de-reciclaje-en-windows-11/"><u>Recontruir Archivos Borrados Por Error De La Papelera De Reciclaje en Windows 11</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/seamless-steps-shifting-your-pubg-game-from-one-iphone-to-another/"><u>Seamless Steps: Shifting Your PUBG Game From One iPhone to Another</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/simple-methods-to-restore-lost-data-from-a-lexar-memory-card/"><u>Simple Methods to Restore Lost Data From a Lexar Memory Card</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-resetting-your-acer-nitro-5-on-windows-11-all-the-essential-info/"><u>Step-by-Step Guide to Resetting Your Acer Nitro 5 on Windows 11 - All the Essential Info</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/trois-methodes-pour-sauvegarder-le-mail-de-windows-10-sur-un-disque-dur-exterieur/"><u>Trois Méthodes Pour Sauvegarder Le Mail De Windows 10 Sur Un Disque Dur Extérieur</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tycoon-titanics-unveil-the-best-12-for-your-ultimate-business-triumph/"><u>Tycoon Titanics Unveil the Best 12 for Your Ultimate Business Triumph</u></a></li>
 </ul></div>
 

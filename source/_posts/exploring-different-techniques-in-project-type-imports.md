@@ -1,7 +1,7 @@
 ---
 title: Exploring Different Techniques in Project Type Imports
-date: 2024-10-10T00:18:36.715Z
-updated: 2024-10-10T18:25:18.669Z
+date: 2024-10-14T11:26:55.797Z
+updated: 2024-10-17T03:43:10.794Z
 tags:
   - user-guide
 categories:
@@ -85,63 +85,76 @@ This tab enables you to import various external projects or packages into an Adv
 
 ![Vd import](https://cdn.advancedinstaller.com/img/project/vd-import.png "Vd import")This wizard allows you to import a Visual Studio setup project into an Advanced Installer project. This project type is available in the freeware edition.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Wix Product
 
 ![Wix project import](https://cdn.advancedinstaller.com/img/project/wix-project-import.png "Wix project import")This wizard allows you to import a Wix product in an Advanced Installer project. This project type is available in the freeware edition.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Inno Setup Script
 
 ![Inno import](https://cdn.advancedinstaller.com/img/project/inno-import.png "Inno import")This wizard allows you to import an Inno Setup script in an Advanced Installer project. This project type is available in the freeware edition.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### NSIS Script
 
 ![Nsis import](https://cdn.advancedinstaller.com/img/project/nsis-import.png "Nsis import")This wizard allows you to import an NSIS script in an Advanced Installer project. This project type is available in the freeware edition.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### InstallShield Project
 
 ![Import is](https://cdn.advancedinstaller.com/img/project/import-is.png "Import is")This wizard allows you to import an MSI project that was previously created with InstallShield. This project type is available in the freeware edition.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### WISE Project
 
 ![Wise import](https://cdn.advancedinstaller.com/img/project/wise-import.png "Wise import")This wizard allows you to [import a WISE project](https://tools.techidaily.com/advancedinstaller/products/) into an Advanced Installer project. This project type is available in the freeware edition.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### MSIX Package
 
 ![Desktop bridge package](https://cdn.advancedinstaller.com/img/project/desktop-bridge-package.png "Desktop bridge package")This wizard allows you to import a MSIX/APPX project into an Advanced Installer project. This project type is available in the professional edition.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Importing other types of projects
@@ -159,13 +172,6 @@ You can also import a Java Eclipse or IntelliJ IDEA Workspace from the [Start Pa
 #### Import ThinApp Project Folder
 
 ![Thin app](https://cdn.advancedinstaller.com/img/project/thin-app.png "Thin app") This type of project gives you the possibility to import existing ThinApp project folders and edit them using the Advanced Installer GUI. Note that this project type requires an Architect license.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -200,20 +206,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-demystifying-data-a-beginners-guide-to-facebook-insights/"><u>[New] Demystifying Data A Beginner's Guide to Facebook Insights</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-the-top-free-tools-for-youtube-image-downloads/"><u>[Updated] In 2024, Discover the Top Free Tools for YouTube Image Downloads</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/5-creative-tiktok-caption-ideas-for-maximum-impact/"><u>5 Creative TikTok Caption Ideas for Maximum Impact</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquer-the-mute-effective-fixes-for-noise-less-conexant-smartaudio-hd-on-win10-platforms/"><u>Conquer the Mute: Effective Fixes for Noise-Less Conexant SmartAudio HD on Win10 Platforms</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enhance-productivity-with-the-ishortcutscomponent-toolset-advanced-coding-solutions/"><u>Enhance Productivity with the IShortcutsComponent Toolset – Advanced Coding Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/expert-guidance-at-movavi-your-trusted-support-hub/"><u>Expert Guidance at Movavi - Your Trusted Support Hub</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guidelines-for-sharing-your-tiktok-videos-as-reels-free-from-branding/"><u>Guidelines for Sharing Your TikTok Videos as Reels – Free From Branding</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/imovie-windows-duzenlediyi-yayinmasi-personal-computer-aracilikla-imovie-izdiva-etmek/"><u>IMovie Windows Düzenlediyi Yayınması | Personal Computer Aracılıkla iMovie İzdiva Etmek</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-infinix-hot-40i-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Infinix Hot 40i Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-the-art-of-saving-tiktoks-a-comprehensive-how-to/"><u>Mastering the Art of Saving TikToks: A Comprehensive How-To</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/revise-your-events-seamlessly-mastering-the-edit-event-feature/"><u>Revise Your Events Seamlessly: Mastering the Edit Event Feature</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/the-essentials-of-e-signatures-a-comprehensive-guide-to-secure-online-documents/"><u>The Essentials of E-Signatures: A Comprehensive Guide to Secure Online Documents</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/ultimate-guide-essential-strategies-and-insider-advice-for-iphone-enthusiasts/"><u>Ultimate Guide: Essential Strategies and Insider Advice for iPhone Enthusiasts</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/xml-path-selector-editor-a-comprehensive-guide/"><u>XML Path Selector Editor: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nd-screen-design-made-easy-with-our-templates-and-tutorials/"><u>[New] End-Screen Design Made Easy with Our Templates & Tutorials</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-veiled-vocal-keepers-ios-and-android-secretive-sound-tools/"><u>[Updated] Veiled Vocal Keepers IOS & Android Secretive Sound Tools</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/4-astuces-pour-corriger-les-valeurs-erronees-de-capacite-de-disque-dur-dans-windows-11/"><u>4 Astuces Pour Corriger Les Valeurs Erronées De Capacité De Disque Dur Dans Windows 11</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/windowsw11w10w8w7-itunes/"><u>如何在不同版本的Windows系统（W11、W10、W8、W7）中找回资料库 - iTunes数据恢复指南</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/einfache-reset-anleitung-vmware-esxi-root-password-ohne-neukonfiguration-wiederherstellen/"><u>Einfache Reset-Anleitung: VMware ESXi Root Password Ohne Neukonfiguration Wiederherstellen</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-ordinary-to-extraordinary-the-roadmap-to-likes-on-tiktok-unboxes-for-2024/"><u>From Ordinary to Extraordinary The Roadmap to Likes on TikTok Unboxes for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guia-segura-para-aplicar-el-cifrado-de-limpieza-de-gutmann-un-paso-a-paso-para-eliminar-datos-del-disco/"><u>Guía Segura Para Aplicar El Cifrado De Limpieza De Gutmann: Un Paso a Paso Para Eliminar Datos Del Disco</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-duplicate-and-move-your-windows-11-partition-to-an-ssd-a-dual-approach-guide/"><u>How to Duplicate and Move Your Windows 11 Partition to an SSD: A Dual Approach Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-18-update-enables-inbuilt-call-recording-feature-eliminating-third-party-dependence-reported/"><u>IOS 18 Update Enables Inbuilt Call Recording Feature, Eliminating Third-Party Dependence | Reported</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-setup-wireless-linking-of-your-ps4-controllers-easily/"><u>Master the Setup: Wireless Linking of Your PS4 Controllers Easily</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-snippet-collection-mastery-efficient-method-for-downloading-animated-tweet-graphics/"><u>Social Snippet Collection Mastery Efficient Method for Downloading Animated Tweet Graphics</u></a></li>
 </ul></div>
 

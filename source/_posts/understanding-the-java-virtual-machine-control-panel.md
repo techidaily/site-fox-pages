@@ -1,7 +1,7 @@
 ---
 title: Understanding the Java Virtual Machine Control Panel
-date: 2024-10-07T08:29:45.078Z
-updated: 2024-10-10T18:26:00.131Z
+date: 2024-10-11T10:41:33.656Z
+updated: 2024-10-17T11:26:58.504Z
 tags:
   - user-guide
 categories:
@@ -85,13 +85,6 @@ In this page you can set the parameters for the Java Virtual Machine.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All the latest Java Distributions (e.g. _OpenJDK, AdoptOpenJDK,_ etc.) are supported. Our Java Product Launcher supports the _AdoptOpenJDK_ Java distributions only when _AdoptOpenJDK_ is installed withFeatureOracleJavaSoft feature (e.g. usingADDLOCAL=FeatureEnvironment,FeatureJarFileRunWith,FeatureOracleJavaSoft command line switch).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Settings
 
 ### JRE version
@@ -101,10 +94,17 @@ You can specify the minimum and maximum allowed Java Version. Advanced Installer
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)JVM path is searched in the registry and in JAVA\_HOME environment variable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### JVM parameters
@@ -133,13 +133,6 @@ Specify the Java Virtual Machine's source.
 * only JRE - the JRE will be used.
 * only JDK - the JDK will be used.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Provider
 
  Specifies the Java Virtual Machine's provider.
@@ -154,6 +147,13 @@ Specify the Java Virtual Machine's source.
 
 ## Stream redirection
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Output Stream
 
 Specify the location of the file that will contain [Java Products](https://tools.techidaily.com/advancedinstaller/products/)'s output stream. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the \[... \] button to display the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to insert a reference to folders, properties and installtime or runtime environment variables.
@@ -161,6 +161,13 @@ Specify the location of the file that will contain [Java Products](https://tools
 ### Error Stream
 
 Specify the location of the file that will contain [Java Products](https://tools.techidaily.com/advancedinstaller/products/)'s error stream. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the \[... \] button to display the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to insert a reference to folders, properties and installtime or runtime environment variables.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Append Error Stream to File
 
@@ -187,10 +194,16 @@ C:\Your Company\Your Application\output-2014-Mar-06 14-43-38-373.log
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Java Library Path
@@ -206,10 +219,10 @@ By default Advanced Installer includes the following items in the Library Path p
 If you need to load a library from a different location you have to include it in this list. All values you specify will be placed at the above list's beginning. Use the \[Folder... \],\[Property... \] or \[Env Var... \] button to add a path.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## System Library Path
@@ -217,13 +230,6 @@ If you need to load a library from a different location you have to include it i
 By adding values to this list, you can add paths to the system's Path environment variable default value when this Java product is launched. This is useful when a library that you are using is trying to link to other libraries. These are searched using the values in the Path system variable. The locations that you add to the Path variable will have the biggest priority. So, if a library is present in more locations then the search algorithm will prefer the location specified in that list. Use the \[Folder... \], \[Property... \] or\[Env Var... \] button to add a path.
 
 The Path system variable's default value will not be changed for other applications.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -263,20 +269,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-saving-screen-scenes-pcmac-and-mobile-devices-walkthrough/"><u>[Updated] 2024 Approved Saving Screen Scenes PC/Mac & Mobile Devices Walkthrough</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-optimize-youtube-tagstitledescription-for-more-views/"><u>[Updated] In 2024, How to Optimize YouTube Tags/Title/Description for More Views</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-update-your-property-settings-easily-with-our-comprehensive-guide/"><u>1. Update Your Property Settings Easily with Our Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-bridging-platforms-from-tiktok-to-your-facebook-friends/"><u>2024 Approved Bridging Platforms From TikTok to Your Facebook Friends</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-vrs-current-creative-conundrum-latest-insights/"><u>2024 Approved VR's Current Creative Conundrum - Latest Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cracking-the-code-of-chatgpt-limitations-why-modern-jailbreaking-fails/"><u>Cracking the Code of ChatGPT Limitations: Why Modern Jailbreaking Fails</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/displaying-your-samsung-galaxy-s20-screen-on-a-tv-the-ultimate-how-to-tutorial/"><u>Displaying Your Samsung Galaxy S20 Screen on a TV - The Ultimate How-To Tutorial</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063153514-elevate-your-connections-effortlessly-with-our-driver-tools/"><u>Elevate Your Connections Effortlessly with Our Driver Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/high-chrome-cpu-use-problem-solved-steps-for-optimizing-performance/"><u>High Chrome CPU Use - Problem Solved: Steps for Optimizing Performance</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-xr-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone XR</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/quick-and-easy-techniques-for-stunning-mobile-photo-edits-this-year/"><u>Quick and Easy Techniques for Stunning Mobile Photo Edits This Year</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-viewing-your-android-phones-contact-list/"><u>Step-by-Step Guide to Viewing Your Android Phone's Contact List</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-1440p-gaming-monitors-for-all-budgets/"><u>The Best 1440P Gaming Monitors for All Budgets</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-rated-artists-specializing-in-stunning-picture-mosaics/"><u>Top-Rated Artists Specializing in Stunning Picture Mosaics</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/wireless-iphone-7-screen-mirroring-guide-connect-your-phone-to-pc/"><u>Wireless iPhone 7 Screen Mirroring Guide: Connect Your Phone to PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-download-part-of-youtube-video/"><u>[Updated] How to Download Part of YouTube Video?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-magix-visual-compendium-an-examination/"><u>[Updated] MAGIX Visual Compendium An Examination</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-maximizing-accuracy-speech-to-text-via-google-translate/"><u>[Updated] Maximizing Accuracy Speech to Text via Google Translate</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/5-exceptional-pc-emulators-for-playing-ps1-games-for-2024/"><u>5 Exceptional PC Emulators for Playing PS1 Games for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-narrative-craftsmanship-the-power-of-chatgpt-unveiled-through-six-writing-tactics/"><u>Elevate Your Narrative Craftsmanship: The Power of ChatGPT Unveiled Through Six Writing Tactics</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/erasing-encrypted-data-from-samsung-magiciel-when-blocked-discover-2-approaches/"><u>Erasing Encrypted Data From Samsung Magiciel When Blocked: Discover 2 Approaches</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/fix-itunes-photos-display-issues-simple-steps-and-no-cost-solutions/"><u>Fix iTunes Photos Display Issues: Simple Steps and No Cost Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-broken-backspace-button-solutions-and-tips-inside/"><u>Fix the Broken Backspace Button – Solutions and Tips Inside!</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/fixes-and-solutions-how-to-restore-your-apple-mobile-devices-usb-connection-on-windows-systems/"><u>Fixes & Solutions: How To Restore Your Apple Mobile Device's USB Connection On Windows Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-infinix-gt-10-pro-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Infinix GT 10 Pro Without PUK Codes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-art-of-keeping-your-audience-attentive-and-committed-top-6-methods-revealed/"><u>In 2024, The Art of Keeping Your Audience Attentive & Committed Top 6 Methods Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rainbow-six-siege-black-display-problem-on-pc-heres-how-to-fix-it/"><u>Rainbow Six Siege Black Display Problem on PC? Here's How to Fix It!</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/snelheidstest-gewonnen-bovenkomt-je-formattering-ongedaan/"><u>Snelheidstest Gewonnen! Bovenkomt Je Formattering Ongedaan?</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-on-duplicating-data-from-an-encrypted-bitlocker-drive/"><u>Step-by-Step Tutorial on Duplicating Data From an Encrypted BitLocker Drive</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-distinctions-logical-vs-physical-data-backups-explained/"><u>Understanding the Distinctions: Logical Vs. Physical Data Backups Explained</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/windows-10-schattenkopie-ein-umfassender-leitfaden/"><u>Windows 10-Schattenkopie: Ein Umfassender Leitfaden</u></a></li>
 </ul></div>
 

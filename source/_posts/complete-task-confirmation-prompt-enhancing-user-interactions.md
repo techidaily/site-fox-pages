@@ -1,7 +1,7 @@
 ---
 title: "Complete Task Confirmation Prompt: Enhancing User Interactions"
-date: 2024-10-04T23:54:37.564Z
-updated: 2024-10-10T22:56:10.711Z
+date: 2024-10-16T10:13:21.378Z
+updated: 2024-10-17T04:03:21.257Z
 tags:
   - user-guide
 categories:
@@ -88,35 +88,21 @@ You can use the Finish Actions tab to schedule two predefined actions that will 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The tab is available only if ExitDialog is selected in the “Install Sequence” tree.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Show ReadMe File
 
 ### Show "View ReadMe" option.
 
 Select this option if you want to display the “Show readme file” check box on the ExitDialog.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ReadMe file
 
 Select the file that will be displayed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Check by default
@@ -124,17 +110,31 @@ Select the file that will be displayed.
 By default the “Show readme file” box on the dialog is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Launch Application
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Launch your application at the end of installation
 
 Select this option if you want to display the “Launch Your Application” check box on the ExitDialog.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Application
 
@@ -144,24 +144,18 @@ Select the file that will be launched.
 
 Optionally, you can specify the arguments that will be passed to the application. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check by default
 
 By default the “Launch Your Application” box on the dialog is selected.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Optionally, you can launch any action at the end of the install process by adding it without sequence. For the \[Finish \] button assign an _Execute custom action_ event in the[Published Events Tab](https://tools.techidaily.com/advancedinstaller/products/) with its argument set with the previously created custom action. Another method is by adding a custom action under "Finish Execution" action group found in "Install Execution Stage".
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Minimize Installation Steps
 
@@ -202,20 +196,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-cracking-the-code-of-true-instagram-photos-for-2024/"><u>[New] Cracking the Code of True Instagram Photos for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726026759413-youtube/"><u>「楽曲付与の秘訣：パソコンを使ってYouTubeショート動画音効を手軽に」</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/5-amazing-methods-to-transform-your-videos-from-vlc-to-mp4-format/"><u>5 Amazing Methods to Transform Your Videos From VLC to MP4 Format</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/comprehensive-guide-mastering-the-configuration-options-of-the-settings-tab/"><u>Comprehensive Guide: Mastering the Configuration Options of the Settings Tab</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/customize-your-codes-with-ease-exploring-the-code-swap-section/"><u>Customize Your Codes with Ease: Exploring the 'Code Swap' Section</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exploring-the-functionality-of-icominterface-in-software-development/"><u>Exploring the Functionality of IComInterface in Software Development</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-online-converter-transform-avi-and-m4v-files-without-cost-movavi/"><u>Free Online Converter: Transform AVI and M4V Files Without Cost - Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-windows-7-wi-fi-driver-software-free-now/"><u>Get the Latest Windows 7 Wi-Fi Driver Software Free Now!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-access-and-listen-to-apple-music-effortlessly-on-android-phones/"><u>How to Access and Listen to Apple Music Effortlessly on Android Phones</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-legal-tunes-collection-top-10-free-music-for-mindfulness/"><u>In 2024, Legal Tunes Collection – Top 10 Free Music for Mindfulness</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-network-troubles-wan-miniport-resolution-guide/"><u>Navigating Network Troubles: WAN Miniport Resolution Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-for-updating-logitech-g13-gameboard-with-new-driver/"><u>Step-by-Step Guide for Updating Logitech G13 Gameboard with New Driver</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/the-ultimate-walkthrough-of-customizing-property-attributes-in-action-modification-interface/"><u>The Ultimate Walkthrough of Customizing Property Attributes in Action Modification Interface</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-fix-there-is-no-sound-on-twitter-videos/"><u>[New] Fix There Is No Sound on Twitter Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-websites-easy-alarm-ringtone-downloads/"><u>[New] Ultimate Websites Easy Alarm Ringtone Downloads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-tools-for-perfect-linux-screenshots/"><u>2024 Approved Essential Tools for Perfect Linux Screenshots</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-thrive-with-1000-new-followers-each-month/"><u>2024 Approved Thrive with 1,000 New Followers Each Month</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/access-denied-learn-how-to-unlock-your-computers-boot-disk-containing-windows/"><u>Access Denied? Learn How to Unlock Your Computer's Boot Disk Containing Windows</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comment-reinitialiser-correctement-le-bios-de-windows-11-pour-une-demarche-en-douceur/"><u>Comment Réinitialiser Correctement Le BIOS De Windows 11 Pour Une Démarche en Douceur</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guida-passo-passo-impostazione-delle-partizioni-di-ripristino-in-windows-11-con-due-metodi-ottimali/"><u>Guida Passo-Passo: Impostazione Delle Partizioni Di Ripristino in Windows 11 Con Due Metodi Ottimali</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-itel-p40plus-phone-by-drfone-android/"><u>How to Reset a Locked Itel P40+ Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-xs-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone XS Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/limpieza-segura-del-almacenamiento-interno-guia-paso-a-paso-para-borrar-tu-disco-duro-en-windows/"><u>Limpieza Segura Del Almacenamiento Interno: Guía Paso a Paso Para Borrar Tu Disco Duro en Windows 지.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/math-dilemmas-gpts-capability/"><u>Math Dilemmas: GPT's Capability?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/premier-external-hard-drive-choices-for-xbox-for-2024/"><u>Premier External Hard Drive Choices for Xbox for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/schritt-fur-schritt-guide-erfolgreiches-datenwiederherstellungsverfahren-fur-iphones/"><u>Schritt-Für-Schritt-Guide: Erfolgreiches Datenwiederherstellungsverfahren Für iPhones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-narzo-60-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme Narzo 60 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728505470508-samsung-t5-ssd/"><u>スマートなデータ保護: Samsung T5 SSDによる効果的な自動バックアップの方法解説</u></a></li>
 </ul></div>
 
