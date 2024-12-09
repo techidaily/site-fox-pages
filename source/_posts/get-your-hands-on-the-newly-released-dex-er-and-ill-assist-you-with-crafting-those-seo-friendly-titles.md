@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released DEX Er, and I'll Assist You with Crafting Those SEO-Friendly Titles!
-date: 2024-11-28T16:42:37.004Z
-updated: 2024-11-30T17:41:49.883Z
+date: 2024-12-05T22:08:50.337Z
+updated: 2024-12-09T02:35:55.605Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,22 +93,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-elevating-minecraft-performance-with-increased-memory-allocation-for-2024/"><u>[New] Elevating Minecraft Performance with Increased Memory Allocation for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-counteract-vibration-for-clear-captures/"><u>[New] In 2024, Counteract Vibration for Clear Captures</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-penning-perfectly-captivating-podcast-descriptions/"><u>[Updated] Penning Perfectly Captivating Podcast Descriptions</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1728488394411-windows-11/"><u>解決 Windows 11 無法順暢作業時：電腦將機死現象分四路攻略</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/windows-pc-c-ssd/"><u>如何在 Windows PC 中轻松更换 C 驱动器为 SSD - 详解</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-secrets-for-developing-persuasive-business-proposals-that-close-deals/"><u>ChatGPT Secrets for Developing Persuasive Business Proposals That Close Deals</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-m6-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco M6 5G Phones with/without a PC</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-find-your-rescued-microsoft-excel-spreadsheets-within-windows-11-environment/"><u>How to Find Your Rescued Microsoft Excel Spreadsheets Within Windows 11 Environment</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a05s-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A05s by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nokia-105-classic-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nokia 105 Classic to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/informacion-y-solucion-para-la-unidad-asignada-que-falta-en-windows-11/"><u>Información Y Solución Para La 'Unidad Asignada' Que Falta en Windows 11</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1728507444358-lenovo/"><u>Lenovo一括復元ツールで発生する誤作動を解消する方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-performance-hiccups-in-modern-warfare-a-comprehensive-fix-guide/"><u>Overcoming Performance Hiccups in Modern Warfare - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/planning-a-transition-from-the-sunsetting-windows-server-2012/"><u>Planning a Transition From the Sunsetting Windows Server 2012</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/recupera-tu-servidor-windows-server-2008-r2-al-estado-anterior-facilmente-con-estas-3-tecnicas/"><u>Recupera Tu Servidor Windows Server 2008 R2 Al Estado Anterior Fácilmente Con Estas 3 Técnicas</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tailoring-the-future-of-communication-the-quintessential-5-chatgpt-instructions/"><u>Tailoring the Future of Communication: The Quintessential 5 ChatGPT Instructions</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/windows-11-clonezilla/"><u>Windows 11問題解決: 如何自成功從 Clonezilla 克隆的硬碟起動</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-harnessing-the-power-of-free-windows-video-tools/"><u>[New] 2024 Approved Harnessing the Power of Free Windows Video Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-combat-common-instagram-video-snags-here-for-2024/"><u>[New] Combat Common Instagram Video Snags Here for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/configuring-display-time-on-the-kindle-paperwhite-for-optimal-reading-experience/"><u>Configuring Display Time on the Kindle Paperwhite for Optimal Reading Experience</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/customize-your-pcs-battery-conservation-options-with-yl-computing-techniques/"><u>Customize Your PC's Battery Conservation Options with YL Computing Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-malfunctioning-windows-10-microphones/"><u>Diagnose and Repair Malfunctioning Windows 10 Microphones</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enabling-and-disabling-windows-security-guard-defender-with-ease-advice-by-yl-software-experts/"><u>Enabling and Disabling Windows Security Guard (Defender) with Ease - Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-troubleshooting-cataclysms-tribes-of-midgard/"><u>Fixing Issues: Troubleshooting Cataclysm's Tribes of Midgard</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-14-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 14 Pro?</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/navigating-the-digital-marketplace-expert-tips-from-yl-software-on-purchasing-and-swapping-virtual-tokens/"><u>Navigating the Digital Marketplace: Expert Tips From YL Software on Purchasing & Swapping Virtual Tokens</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-play-options-choosing-between-psplus-and-xbgplus/"><u>Premium Play Options: Choosing Between PS+ and XBG+</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/prevention-tips-for-avoiding-computer-overheat-issues-expert-advice-from-yls-computing-and-software-experts/"><u>Prevention Tips for Avoiding Computer Overheat Issues - Expert Advice From YL's Computing & Software Experts</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/transform-your-pdfs-into-editable-text-files-with-yl-software-for-windows-users/"><u>Transform Your PDFs Into Editable Text Files with YL Software for Windows Users</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-and-checking-your-sound-card-with-yl-softwares-step-by-step-scan-tutorial/"><u>Troubleshooting and Checking Your Sound Card with YL Software's Step-by-Step Scan Tutorial</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/uniting-conversations-across-platforms-twitter-vids-on-whatsapp-for-2024/"><u>Uniting Conversations Across Platforms Twitter Vids on WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/unveiling-the-origins-the-inception-of-the-great-leap-forward-and-its-ambitious-objectives/"><u>Unveiling the Origins: The Inception of the Great Leap Forward & Its Ambitious Objectives</u></a></li>
 </ul></div>
 
