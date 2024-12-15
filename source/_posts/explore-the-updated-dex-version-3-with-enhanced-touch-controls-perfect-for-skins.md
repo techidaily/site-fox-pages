@@ -1,7 +1,7 @@
 ---
 title: Explore the Updated DEX Version 3 with Enhanced Touch Controls – Perfect for Skins!
-date: 2024-12-03T01:56:35.020Z
-updated: 2024-12-09T00:16:50.379Z
+date: 2024-12-08T02:43:08.875Z
+updated: 2024-12-15T07:10:27.848Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ This new 16:9 ratio “Touchy” skin is free for all DEX 3 users to download an
 _**Unzip Skin Files (Both Files) To Documents -> PCDJ-DEX3 -> Skins**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,19 +48,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/touchscreen-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-quick-assembly-of-stunning-google-collages/"><u>[New] Quick Assembly of Stunning Google Collages</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-drone-photography-showdown-dji-spark-vs-hero6-black/"><u>[Updated] 2024 Approved Drone Photography Showdown DJI Spark Vs Hero6 Black</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-constructing-premium-canon-chrono-images/"><u>[Updated] Constructing Premium Canon Chrono Images</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1-fast-and-easy-winx-dvd-ripper-platinum-convert-dvds-to-hd-mp4-in-just-5-minutes/"><u>1. Fast & Easy WinX DVD Ripper Platinum: Convert DVDs to HD MP4 in Just 5 Minutes!</u></a></li>
-<li><a href="https://facebook.techidaily.com/comprehensive-guide-to-fb-photographic-labeling/"><u>Comprehensive Guide to FB Photographic Labeling</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/customize-your-pcs-battery-conservation-options-with-yl-computing-techniques/"><u>Customize Your PC's Battery Conservation Options with YL Computing Techniques</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/decoding-the-critical-role-of-the-1960-split-between-china-and-soviet-union-in-world-politics-yl-computing-yl-software/"><u>Decoding the Critical Role of the 1960 Split Between China and Soviet Union in World Politics - YL Computing | YL Software</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effortless-guide-mastering-the-art-of-zipping-folders-on-windows-insights-from-yl-computing/"><u>Effortless Guide: Mastering the Art of Zipping Folders on Windows - Insights From YL Computing</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/le-2-applicazioni-ottime-per-lottimizzazione-dello-spazio-hard-disk-in-windows-versioni-da-11-a-7/"><u>Le 2 Applicazioni Ottime per L'Ottimizzazione Dello Spazio Hard Disk in Windows (Versioni Da 11 a 7)</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-your-device-how-to-locate-and-use-control-panel-for-customizing-system-preferences-yl-software-solutions/"><u>Mastering Your Device: How to Locate and Use Control Panel for Customizing System Preferences - YL Software Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-reno-9a-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo Reno 9A Device</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210830429-9798885405089-the-neurolinguistic-programming-in-the-holy-quran/"><u>The Neurolinguistic Programming in the Holy Quran | Free Book</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/timeless-hd-image-gallery-vintage-walls-and-mood-settings-from-yl-software-design-studio/"><u>Timeless HD Image Gallery: Vintage Walls and Mood Settings From YL Software Design Studio</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-and-checking-your-sound-card-with-yl-softwares-step-by-step-scan-tutorial/"><u>Troubleshooting and Checking Your Sound Card with YL Software's Step-by-Step Scan Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screen-recording-mastery-with-lenovo-gear/"><u>2024 Approved Screen Recording Mastery with Lenovo Gear</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-peak-of-primes-amazons-hot-tweets-and-shows-23/"><u>2024 Approved The Peak of Primes Amazon’s Hot Tweets & Shows, '23</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/adjusting-peripherals-for-peak-performance-mastering-mouse-and-keyboard-settings-in-a-click-yl-software-solutions/"><u>Adjusting Peripherals for Peak Performance: Mastering Mouse and Keyboard Settings in a Click – YL Software Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-strategies-to-roll-back-new-windows-11-system-changes/"><u>Effortless Strategies to Roll Back New Windows 11 System Changes</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-find-a-missing-scanner-app-on-your-pc-a-guide-by-yl-computing/"><u>How to Find a Missing Scanner App on Your PC: A Guide by YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-output-solving-conexant-hdt-hd-audio-driver-malfunctions-in-windows-10-environments/"><u>How to Restore Sound Output: Solving Conexant HDT (HD-Audio) Driver Malfunctions in Windows 10 Environments</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-honor-x9b-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Honor X9b Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-new-ios-16-a-guide-to-utilizing-photo-cutouts-on-your-iphone/"><u>Mastering the New iOS 16: A Guide to Utilizing Photo Cutouts on Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-solutions-for-retrieving-or-replacing-a-lost-d3dx9missing-dll-file/"><u>Quick Solutions for Retrieving or Replacing a Lost D3dx9_([missing] DLL File</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-creating-your-own-chat-signal-ios-and-android-edition/"><u>Step-by-Step Creating Your Own Chat Signal - iOS & Android Edition</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-recovering-your-windows-registry-using-backups-tips-from-yl-computing/"><u>Step-by-Step Guide: Recovering Your Windows Registry Using Backups - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-sending-files-on-windows-tech-tips-from-yl-computing/"><u>Step-by-Step Guide: Sending Files on Windows - Tech Tips From YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-tips-what-does-a-malfunctioning-graphics-card-look-like-expertise-by-yl-tech-software/"><u>Troubleshooting Tips: What Does a Malfunctioning Graphics Card Look Like? - Expertise by YL Tech Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released DEX Er, and I'll Assist You with Crafting Those SEO-Friendly Titles!
-date: 2024-12-05T22:08:50.337Z
-updated: 2024-12-09T02:35:55.605Z
+date: 2024-12-09T03:57:09.164Z
+updated: 2024-12-15T05:28:01.449Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,20 +93,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-harnessing-the-power-of-free-windows-video-tools/"><u>[New] 2024 Approved Harnessing the Power of Free Windows Video Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-combat-common-instagram-video-snags-here-for-2024/"><u>[New] Combat Common Instagram Video Snags Here for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/configuring-display-time-on-the-kindle-paperwhite-for-optimal-reading-experience/"><u>Configuring Display Time on the Kindle Paperwhite for Optimal Reading Experience</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/customize-your-pcs-battery-conservation-options-with-yl-computing-techniques/"><u>Customize Your PC's Battery Conservation Options with YL Computing Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-malfunctioning-windows-10-microphones/"><u>Diagnose and Repair Malfunctioning Windows 10 Microphones</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enabling-and-disabling-windows-security-guard-defender-with-ease-advice-by-yl-software-experts/"><u>Enabling and Disabling Windows Security Guard (Defender) with Ease - Advice by YL Software Experts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-issues-troubleshooting-cataclysms-tribes-of-midgard/"><u>Fixing Issues: Troubleshooting Cataclysm's Tribes of Midgard</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-14-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 14 Pro?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/navigating-the-digital-marketplace-expert-tips-from-yl-software-on-purchasing-and-swapping-virtual-tokens/"><u>Navigating the Digital Marketplace: Expert Tips From YL Software on Purchasing & Swapping Virtual Tokens</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-play-options-choosing-between-psplus-and-xbgplus/"><u>Premium Play Options: Choosing Between PS+ and XBG+</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/prevention-tips-for-avoiding-computer-overheat-issues-expert-advice-from-yls-computing-and-software-experts/"><u>Prevention Tips for Avoiding Computer Overheat Issues - Expert Advice From YL's Computing & Software Experts</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/transform-your-pdfs-into-editable-text-files-with-yl-software-for-windows-users/"><u>Transform Your PDFs Into Editable Text Files with YL Software for Windows Users</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-and-checking-your-sound-card-with-yl-softwares-step-by-step-scan-tutorial/"><u>Troubleshooting and Checking Your Sound Card with YL Software's Step-by-Step Scan Tutorial</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/uniting-conversations-across-platforms-twitter-vids-on-whatsapp-for-2024/"><u>Uniting Conversations Across Platforms Twitter Vids on WhatsApp for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unveiling-the-origins-the-inception-of-the-great-leap-forward-and-its-ambitious-objectives/"><u>Unveiling the Origins: The Inception of the Great Leap Forward & Its Ambitious Objectives</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-guide-to-navigating-vimeos-free-premium-and-pro-membership-levels/"><u>[New] 2024 Approved A Guide to Navigating Vimeo’s Free, Premium & Pro Membership Levels</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-excellence-in-entertainment-the-finest-offline-ios-games/"><u>[New] Excellence in Entertainment - The Finest Offline iOS Games</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-from-novice-to-expert-navigating-windows-11s-movie-maker-easily/"><u>[Updated] 2024 Approved From Novice to Expert Navigating Windows 11'S Movie Maker Easily</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-easy-steps-modifying-file-extensions-on-windows-pc-guide-by-yl-computing/"><u>1. Easy Steps: Modifying File Extensions on Windows PC - Guide by YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-personalizing-your-mouse-configuration-a-step-by-step-guide-with-yl-computing-solutions/"><u>1. Personalizing Your Mouse Configuration: A Step-by-Step Guide with YL Computing Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-world-of-animated-image-design-for-2024/"><u>Exploring the World of Animated Image Design for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-infinix-note-30-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Infinix Note 30 5G.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-restore-screen-clarity-by-rectifying-colour-abnormalities-and-shape-distortions-on-computers/"><u>How to Restore Screen Clarity by Rectifying Colour Abnormalities & Shape Distortions on Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategic-storytelling-for-solitary-sound-sensations/"><u>In 2024, Strategic Storytelling for Solitary Sound Sensations</u></a></li>
+<li><a href="https://win-able.techidaily.com/maplestory-launch-problem-troubleshooting-steps-and-solutions/"><u>MapleStory Launch Problem - Troubleshooting Steps and Solutions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/master-your-setup-with-expert-tutorials-on-the-updated-pioneer-ddj-sx3-controllers-professional-cdj-techniques-inside/"><u>Master Your Setup with Expert Tutorials on the Updated Pioneer DDJ-SX3 Controllers - Professional CDJ Techniques Inside!</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/newest-additions-to-karaoke-cloud-pro-and-party-time-karaoke-june-10-2017-update/"><u>Newest Additions to Karaoke Cloud Pro and Party Time Karaoke - June 10, 2017 Update</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/optimizing-performance-for-laggy-systems-expert-advice-by-yl-software-professionals/"><u>Optimizing Performance for Laggy Systems: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/personalizing-your-pc-a-step-by-step-guide-to-changing-your-windows-10-wallpaper-expert-tips-by-yl-computing/"><u>Personalizing Your PC: A Step-by-Step Guide to Changing Your Windows 10 Wallpaper - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-changing-your-system-clock-and-time-zone-on-windows-via-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Changing Your System Clock & Time Zone on Windows via Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-finding-device-manager-within-the-windows-control-panel-tech-solutions-by-yl/"><u>Step-by-Step Guide: Finding Device Manager Within the Windows Control Panel - Tech Solutions by YL</u></a></li>
 </ul></div>
 

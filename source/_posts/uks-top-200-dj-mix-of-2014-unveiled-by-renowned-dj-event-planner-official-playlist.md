@@ -1,7 +1,7 @@
 ---
 title: UK's Top 200 DJ Mix of 2014 Unveiled by Renowned DJ Event Planner | Official Playlist
-date: 2024-12-04T02:13:11.459Z
-updated: 2024-12-08T22:37:41.146Z
+date: 2024-12-08T20:15:58.231Z
+updated: 2024-12-14T22:05:45.730Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,21 +59,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-step-by-step-guide-to-sims-4-gameplay-recording/"><u>[New] 2024 Approved Step-by-Step Guide to Sims 4 Gameplay Recording</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-effortless-gif-to-video-conversion-best-5-top-online-services/"><u>[New] Effortless GIF-to-Video Conversion Best 5 Top Online Services</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-messenger-video-guide-dimensions-file-type-elapsed-for-2024/"><u>[Updated] Messenger Video Guide Dimensions, File Type, Elapsed for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-troubleshooting-your-video-hardware-issues-insights-and-solutions-from-yl-computing/"><u>1. Troubleshooting Your Video Hardware Issues: Insights and Solutions From YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-strategies-to-clear-up-ram-in-your-windows-pc-and-avoid-memory-issues-tips-from-yl-computing/"><u>Effective Strategies to Clear Up RAM in Your Windows PC and Avoid Memory Issues - Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/from-capture-to-air-expert-tips-for-streaming-upside-down-videos-on-youtube/"><u>From Capture to Air Expert Tips for Streaming Upside-Down Videos on Youtube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/huaweis-future-processor-strategy-drawing-inspiration-from-apples-m-series-and-intels-lunar-lake-for-next-gen-kirin-cpu/"><u>Huawei's Future Processor Strategy: Drawing Inspiration From Apple's M-Series & Intel's Lunar Lake for Next-Gen Kirin CPU</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-cutting-room-floor-experts-share-tips-on-video-editing/"><u>In 2024, The Cutting Room Floor Experts Share Tips on Video Editing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-gameplay-which-operating-system-reigns-supreme-according-to-yl-software-experts/"><u>Mastering Gameplay: Which Operating System Reigns Supreme According to YL Software Experts?</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/mastering-startup-drives-how-to-execute-run-stop-chkdsk-in-windows-a-comprehensive-tutorial/"><u>Mastering Startup Drives: How to Execute Run | Stop Chkdsk in Windows – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/no-image-on-monitor-unraveling-the-mystery-of-non-responsive-gpus-insights-by-yl-computing/"><u>No Image on Monitor: Unraveling the Mystery of Non-Responsive GPUs - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/resolving-graphics-drivers-issues-on-your-pc-a-guide-by-yl-computing/"><u>Resolving Graphics Drivers Issues on Your PC: A Guide - By YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/resolving-video-graphics-cards-issues-on-windows-expert-tips-from-yl-software/"><u>Resolving Video Graphics Cards Issues on Windows - Expert Tips From YL Software</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/sudden-gpu-malfunction-uncovering-the-reasons-and-solutions-with-yl-software-expertise/"><u>Sudden GPU Malfunction: Uncovering the Reasons and Solutions with YL Software Expertise</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unleashing-profitability-with-innovative-fb-animation-techniques-for-2024/"><u>Unleashing Profitability with Innovative FB Animation Techniques for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/0-unique-video-reaction-strategies-for-online-enthusiasts-for-2024/"><u>[New] 10 Unique Video Reaction Strategies for Online Enthusiasts for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-boost-your-reach-tips-and-tricks-for-uploading-to-instagram-desktop-for-2024/"><u>[New] Boost Your Reach Tips & Tricks for Uploading to Instagram Desktop for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-master-class-on-top-digital-solutions-to-perfect-media-captions/"><u>[Updated] In 2024, Master Class on Top Digital Solutions to Perfect Media Captions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-tips-for-navigating-and-changing-computer-configuration-options-using-yl-tools/"><u>Easy Tips for Navigating and Changing Computer Configuration Options Using YL Tools</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/exploring-the-benefits-of-cryptocurrency-adoption-insights-from-yl-computings-perspective/"><u>Exploring the Benefits of Cryptocurrency Adoption: Insights From YL Computing's Perspective</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-officejet-4650-windows-compatible-drivers-and-printing-utilities/"><u>Get the Latest HP OfficeJet 4650 Windows-Compatible Drivers and Printing Utilities</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-odt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .odt file</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-12-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 12 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-90-lite-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor 90 Lite Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-spot-and-troubleshoot-video-card-issues-in-your-pc-with-tips-from-yl-software/"><u>How To Spot and Troubleshoot Video Card Issues in Your PC with Tips From YL Software</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/identifying-memory-issues-in-windows-systems-key-indicators-to-watch-for-pc-maintenance-experts/"><u>Identifying Memory Issues in Windows Systems: Key Indicators to Watch For - PC Maintenance Experts</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-6-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 6</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/sing-and-shine-with-party-tyme-start-your-karaoke-membership-for-nonstop-hits-and-hit-singles/"><u>Sing and Shine with Party Tyme! Start Your Karaoke Membership for Nonstop Hits & Hit Singles.</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/solving-a-sluggish-pc-tips-and-tricks-from-yl-computings-expert-advice/"><u>Solving a Sluggish PC: Tips and Tricks From YL Computing's Expert Advice</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/the-mystery-of-mute-audio-outputs-solved-expert-tips-from-yl-softwares-technicians/"><u>The Mystery of Mute Audio Outputs Solved: Expert Tips From YL Software's Technicians</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-picks-navigating-current-cryptocurrency-markets-for-smart-investments-insights-by-yl-computing/"><u>Top Picks: Navigating Current Cryptocurrency Markets for Smart Investments – Insights by YL Computing</u></a></li>
 </ul></div>
 

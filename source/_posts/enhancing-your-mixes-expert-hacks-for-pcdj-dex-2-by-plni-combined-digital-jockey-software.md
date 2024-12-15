@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Mixes: Expert Hacks for PCDJ DEX 2 by Plni-Combined Digital Jockey Software"
-date: 2024-12-05T01:54:16.012Z
-updated: 2024-12-08T22:08:28.508Z
+date: 2024-12-07T21:31:58.213Z
+updated: 2024-12-14T18:35:36.992Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ If you uncheck "Allow Automix on any list" under the general tab in options DEX 
 **This concludes this week's "[DJ Software](https://tools.techidaily.com/pcdj/products/) Tips and Tricks" DEX 2 edition. I hope to make these posts at least twice a month. If you have any questions regarding any of these features please post in the comments below! We're also looking for blog contributors – with some benefits. If you're interested please email me at submit@pcdj.com** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,18 +56,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/03/dex2-djtipsandtricks1.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-fainter-frequencies-for-pc-and-mac-harmony/"><u>[New] Fainter Frequencies for PC & Mac Harmony</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-download-youtube-music-to-your-android-phone-top-6-free-apps/"><u>[Updated] 2024 Approved Download YouTube Music to Your Android Phone Top 6 Free Apps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-a-deep-dive-prodigious-polarrs-editing-capabilities/"><u>[Updated] A Deep Dive Prodigious Polarr's Editing Capabilities</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-simplifying-google-meet-on-android-devices/"><u>2024 Approved Simplifying Google Meet on Android Devices</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/easy-tips-for-navigating-and-changing-computer-configuration-options-using-yl-tools/"><u>Easy Tips for Navigating and Changing Computer Configuration Options Using YL Tools</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enabling-and-disabling-windows-security-guard-defender-with-ease-advice-by-yl-software-experts/"><u>Enabling and Disabling Windows Security Guard (Defender) with Ease - Advice by YL Software Experts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/make-your-own-youtube-opening-and-closing-graphics-for-2024/"><u>Make Your Own YouTube Opening & Closing Graphics for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/prevention-tips-for-avoiding-computer-overheat-issues-expert-advice-from-yls-computing-and-software-experts/"><u>Prevention Tips for Avoiding Computer Overheat Issues - Expert Advice From YL's Computing & Software Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issue-non-responsive-keyboard-functionality-restored/"><u>Resolved Issue: Non-Responsive Keyboard Functionality Restored</u></a></li>
-<li><a href="https://win-dash.techidaily.com/secure-and-update-your-logitech-c525-webcam-driver-for-windows-systems/"><u>Secure and Update Your Logitech C525 Webcam Driver for Windows Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-up-your-photo-game-basic-snapseed-skills-guide/"><u>Step Up Your Photo Game Basic Snapseed Skills Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-hardware-reviews/"><u>Tom's Tech Insights: Expert Hardware Reviews</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-unrecognized-sound-cards-guide-for-device-manager-checks-by-yl-software-experts/"><u>Troubleshooting Unrecognized Sound Cards: Guide for Device Manager Checks by YL Software Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gaming-gains-graphed-income-insights-on-finn/"><u>[New] Gaming Gains Graphed Income Insights on Finn</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-optimizing-zoom-hd-quality-clear-methods/"><u>[New] Optimizing Zoom HD Quality Clear Methods</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-essential-drone-shoppers-guide-crucial-factors-and-insights/"><u>[Updated] 2024 Approved Essential Drone Shopper's Guide Crucial Factors & Insights</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-easy-steps-modifying-file-extensions-on-windows-pc-guide-by-yl-computing/"><u>1. Easy Steps: Modifying File Extensions on Windows PC - Guide by YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-personalizing-your-mouse-configuration-a-step-by-step-guide-with-yl-computing-solutions/"><u>1. Personalizing Your Mouse Configuration: A Step-by-Step Guide with YL Computing Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-manycam-alternatives-top-live-streaming-and-virtual-cam-options/"><u>Best ManyCam Alternatives - Top Live Streaming and Virtual Cam Options</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-7-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 7 Lock Screen</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-securely-accessing-insta-stories-anon-pcandroidios-guide/"><u>In 2024, Securely Accessing Insta Stories Anon PC/Android/iOS Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-streamlined-method-acquire-free-secure-version-of-vlc-on-mac/"><u>In 2024, Streamlined Method Acquire Free, Secure Version of VLC on MAC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-itel-a60s-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Itel A60s Phones</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/newest-additions-to-karaoke-cloud-pro-and-party-time-karaoke-june-10-2017-update/"><u>Newest Additions to Karaoke Cloud Pro and Party Time Karaoke - June 10, 2017 Update</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/optimizing-performance-for-laggy-systems-expert-advice-by-yl-software-professionals/"><u>Optimizing Performance for Laggy Systems: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/personalizing-your-pc-a-step-by-step-guide-to-changing-your-windows-10-wallpaper-expert-tips-by-yl-computing/"><u>Personalizing Your PC: A Step-by-Step Guide to Changing Your Windows 10 Wallpaper - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simplify-digital-organization-unleash-copernics-advanced-search-capabilities-to-streamline-your-files/"><u>Simplify Digital Organization: Unleash Copernic’s Advanced Search Capabilities to Streamline Your Files</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-changing-your-system-clock-and-time-zone-on-windows-via-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Changing Your System Clock & Time Zone on Windows via Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-finding-device-manager-within-the-windows-control-panel-tech-solutions-by-yl/"><u>Step-by-Step Guide: Finding Device Manager Within the Windows Control Panel - Tech Solutions by YL</u></a></li>
 </ul></div>
 
