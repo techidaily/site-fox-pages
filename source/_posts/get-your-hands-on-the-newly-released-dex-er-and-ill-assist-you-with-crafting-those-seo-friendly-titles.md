@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released DEX Er, and I'll Assist You with Crafting Those SEO-Friendly Titles!
-date: 2024-12-09T03:57:09.164Z
-updated: 2024-12-15T05:28:01.449Z
+date: 2024-12-21T06:25:57.435Z
+updated: 2024-12-23T16:48:01.227Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,22 +93,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-guide-to-navigating-vimeos-free-premium-and-pro-membership-levels/"><u>[New] 2024 Approved A Guide to Navigating Vimeo’s Free, Premium & Pro Membership Levels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-excellence-in-entertainment-the-finest-offline-ios-games/"><u>[New] Excellence in Entertainment - The Finest Offline iOS Games</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-from-novice-to-expert-navigating-windows-11s-movie-maker-easily/"><u>[Updated] 2024 Approved From Novice to Expert Navigating Windows 11'S Movie Maker Easily</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-easy-steps-modifying-file-extensions-on-windows-pc-guide-by-yl-computing/"><u>1. Easy Steps: Modifying File Extensions on Windows PC - Guide by YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-personalizing-your-mouse-configuration-a-step-by-step-guide-with-yl-computing-solutions/"><u>1. Personalizing Your Mouse Configuration: A Step-by-Step Guide with YL Computing Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-world-of-animated-image-design-for-2024/"><u>Exploring the World of Animated Image Design for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-infinix-note-30-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Infinix Note 30 5G.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-restore-screen-clarity-by-rectifying-colour-abnormalities-and-shape-distortions-on-computers/"><u>How to Restore Screen Clarity by Rectifying Colour Abnormalities & Shape Distortions on Computers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strategic-storytelling-for-solitary-sound-sensations/"><u>In 2024, Strategic Storytelling for Solitary Sound Sensations</u></a></li>
-<li><a href="https://win-able.techidaily.com/maplestory-launch-problem-troubleshooting-steps-and-solutions/"><u>MapleStory Launch Problem - Troubleshooting Steps and Solutions</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/master-your-setup-with-expert-tutorials-on-the-updated-pioneer-ddj-sx3-controllers-professional-cdj-techniques-inside/"><u>Master Your Setup with Expert Tutorials on the Updated Pioneer DDJ-SX3 Controllers - Professional CDJ Techniques Inside!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/newest-additions-to-karaoke-cloud-pro-and-party-time-karaoke-june-10-2017-update/"><u>Newest Additions to Karaoke Cloud Pro and Party Time Karaoke - June 10, 2017 Update</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/optimizing-performance-for-laggy-systems-expert-advice-by-yl-software-professionals/"><u>Optimizing Performance for Laggy Systems: Expert Advice by YL Software Professionals</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/personalizing-your-pc-a-step-by-step-guide-to-changing-your-windows-10-wallpaper-expert-tips-by-yl-computing/"><u>Personalizing Your PC: A Step-by-Step Guide to Changing Your Windows 10 Wallpaper - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-changing-your-system-clock-and-time-zone-on-windows-via-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Changing Your System Clock & Time Zone on Windows via Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-finding-device-manager-within-the-windows-control-panel-tech-solutions-by-yl/"><u>Step-by-Step Guide: Finding Device Manager Within the Windows Control Panel - Tech Solutions by YL</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ultimate-action-cams-face-off-black-and-star/"><u>[New] Ultimate Action Cams Face-Off Black & Star</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-apex-play-exclusively-how-to-disable-cross-play-feature/"><u>[Updated] Mastering Apex Play Exclusively How to Disable Cross-Play Feature</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-visual-journey-mastering-the-art-of-incorporating-text-into-images-on-pcmacos-for-2024/"><u>A Visual Journey Mastering the Art of Incorporating Text Into Images on PC/MacOS for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/anonymity-awaits-silent-likes-on-fbig/"><u>Anonymity Awaits: Silent Likes on FB/IG</u></a></li>
+<li><a href="https://app-tips.techidaily.com/celona-partners-with-verizon-business-to-deliver-bespo-grok-private-5g-solutions-zdnet-coverage/"><u>Celona Partners with Verizon Business to Deliver Bespo Grok Private 5G Solutions - ZDNet Coverage</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/do-you-need-to-pay-taxes-on-digital-assets-expert-analysis-from-yl-software/"><u>Do You Need to Pay Taxes on Digital Assets? Expert Analysis From YL Software</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/elevate-your-pc-with-exclusive-yl-softwares-jaguar-f-type-r-wallpaper-collection-designed-by-yl-computing/"><u>Elevate Your PC with Exclusive YL Software's Jaguar F-Type R Wallpaper Collection – Designed by YL Computing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-potent-capabilities-of-the-minuscule-yet-sturdy-unihertz-atom-xl/"><u>Exploring the Potent Capabilities of the Minuscule Yet Sturdy Unihertz Atom XL</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/identifying-your-holdings-a-guide-on-checking-multiple-cryptocurrency-balances-with-yls-address-analysis-tool/"><u>Identifying Your Holdings: A Guide on Checking Multiple Cryptocurrency Balances with YL's Address Analysis Tool</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/newly-released-pioneer-ddj-sr-plus-dex-3-bundle-unleash-your-dj-potential/"><u>Newly Released: Pioneer DDJ-SR + DEX 3 Bundle - Unleash Your DJ Potential</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/perfecting-audio-quality-a-no-mic-approach/"><u>Perfecting Audio Quality A No-Mic Approach</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/speeding-up-your-computer-essential-tips-for-effective-registry-cleanup-and-maintenance/"><u>Speeding Up Your Computer: Essential Tips for Effective Registry Cleanup & Maintenance</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-10-revolutionary-singing-software-for-soloists-on-the-move/"><u>Top 10 Revolutionary Singing Software for Soloists on the Move</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/yl-software-strategies-for-clearing-up-hard-drive-space-efficiently-and-effectively/"><u>YL Software Strategies for Clearing Up Hard Drive Space Efficiently and Effectively</u></a></li>
 </ul></div>
 
