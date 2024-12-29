@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released DEX Er, and I'll Assist You with Crafting Those SEO-Friendly Titles!
-date: 2024-12-21T06:25:57.435Z
-updated: 2024-12-23T16:48:01.227Z
+date: 2024-12-23T21:55:49.901Z
+updated: 2024-12-29T17:01:37.145Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,19 +93,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-ultimate-action-cams-face-off-black-and-star/"><u>[New] Ultimate Action Cams Face-Off Black & Star</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-apex-play-exclusively-how-to-disable-cross-play-feature/"><u>[Updated] Mastering Apex Play Exclusively How to Disable Cross-Play Feature</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-visual-journey-mastering-the-art-of-incorporating-text-into-images-on-pcmacos-for-2024/"><u>A Visual Journey Mastering the Art of Incorporating Text Into Images on PC/MacOS for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/anonymity-awaits-silent-likes-on-fbig/"><u>Anonymity Awaits: Silent Likes on FB/IG</u></a></li>
-<li><a href="https://app-tips.techidaily.com/celona-partners-with-verizon-business-to-deliver-bespo-grok-private-5g-solutions-zdnet-coverage/"><u>Celona Partners with Verizon Business to Deliver Bespo Grok Private 5G Solutions - ZDNet Coverage</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/do-you-need-to-pay-taxes-on-digital-assets-expert-analysis-from-yl-software/"><u>Do You Need to Pay Taxes on Digital Assets? Expert Analysis From YL Software</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/elevate-your-pc-with-exclusive-yl-softwares-jaguar-f-type-r-wallpaper-collection-designed-by-yl-computing/"><u>Elevate Your PC with Exclusive YL Software's Jaguar F-Type R Wallpaper Collection – Designed by YL Computing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-potent-capabilities-of-the-minuscule-yet-sturdy-unihertz-atom-xl/"><u>Exploring the Potent Capabilities of the Minuscule Yet Sturdy Unihertz Atom XL</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/identifying-your-holdings-a-guide-on-checking-multiple-cryptocurrency-balances-with-yls-address-analysis-tool/"><u>Identifying Your Holdings: A Guide on Checking Multiple Cryptocurrency Balances with YL's Address Analysis Tool</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/newly-released-pioneer-ddj-sr-plus-dex-3-bundle-unleash-your-dj-potential/"><u>Newly Released: Pioneer DDJ-SR + DEX 3 Bundle - Unleash Your DJ Potential</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/perfecting-audio-quality-a-no-mic-approach/"><u>Perfecting Audio Quality A No-Mic Approach</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/speeding-up-your-computer-essential-tips-for-effective-registry-cleanup-and-maintenance/"><u>Speeding Up Your Computer: Essential Tips for Effective Registry Cleanup & Maintenance</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/top-10-revolutionary-singing-software-for-soloists-on-the-move/"><u>Top 10 Revolutionary Singing Software for Soloists on the Move</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/yl-software-strategies-for-clearing-up-hard-drive-space-efficiently-and-effectively/"><u>YL Software Strategies for Clearing Up Hard Drive Space Efficiently and Effectively</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-classic-captures-portraiture-on-the-xiphone-for-2024/"><u>[New] Classic Captures Portraiture on the XiPhone for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-from-airwaves-to-e-readers-how-to-save-web-tv-shows/"><u>[Updated] From Airwaves To E-Readers How to Save Web TV Shows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-digital-doppelganger-drawing-crafting-caricatured-emblems/"><u>[Updated] In 2024, Digital Doppelganger Drawing Crafting Caricatured Emblems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-group-photo-and-video-uploads-in-instagram/"><u>[Updated] The Ultimate Guide to Group Photo and Video Uploads in Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-optimal-sony-ps3-reproduction-tools-ranked-pc/"><u>2024 Approved Optimal Sony PS3 Reproduction Tools Ranked (PC)</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/a-comprehensive-guide-by-yl-software-on-how-to-fix-connectivity-issues-with-your-computers-mouse/"><u>A Comprehensive Guide by YL Software on How to Fix Connectivity Issues with Your Computer's Mouse</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/dealing-with-dead-printers-expert-advice-on-reviving-your-machine-yl-software-insights/"><u>Dealing With Dead Printers: Expert Advice on Reviving Your Machine - YL Software Insights</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/entschuldigung-ich-habe-versehentlich-meine-externe-seagate-hard-drive-formatiert/"><u>Entschuldigung, Ich Habe Versehentlich Meine Externe Seagate-Hard Drive Formatiert</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/experiencing-graphics-glitches-learn-the-impact-of-low-ram-on-gpu-efficiency-with-yl-software-tips/"><u>Experiencing Graphics Glitches? Learn the Impact of Low RAM on GPU Efficiency with YL Software Tips</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/identifying-hard-drive-health-issues-before-they-lead-to-data-loss-insights-by-yl-software/"><u>Identifying Hard Drive Health Issues Before They Lead to Data Loss - Insights by YL Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125800-9781609252304-intuition/"><u>Intuition | Free Book</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/karaoke-cloud-pros-ultimate-playlist-rocking-you-with-50-hits-on-5-19-17-pcdj-showdown/"><u>Karaoke Cloud Pro's Ultimate Playlist: Rocking You With 50 Hits on 5-19-17 | PCDJ Showdown!</u></a></li>
+<li><a href="https://win-help.techidaily.com/protect-your-digital-assets-a-step-by-step-process-for-windows-prise-10-backups-advice-from-experts-at-yl-software/"><u>Protect Your Digital Assets: A Step-by-Step Process for Windows Prise 10 Backups – Advice From Experts at YL Software</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-transferring-files-between-folders-with-ease-tips-by-yl-computing/"><u>Step-by-Step Guide: Transferring Files Between Folders with Ease - Tips by YL Computing</u></a></li>
+<li><a href="https://win-lab.techidaily.com/the-ultimate-tutorial-on-downloading-clipfish-content-with-ease/"><u>The Ultimate Tutorial on Downloading Clipfish Content with Ease</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/unlocking-windows-control-panel-for-keyboard-configuration-expert-tips-from-yl-software-professionals/"><u>Unlocking Windows' Control Panel for Keyboard Configuration: Expert Tips From YL Software Professionals</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/unveiling-distinctions-navigating-through-local-vs-global-configuration-options-within-windows-control-panel-exploring-insights-by-yl-computing/"><u>Unveiling Distinctions: Navigating Through Local Vs. Global Configuration Options Within Windows Control Panel - Exploring Insights by YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/upgrading-your-gpu-memory-is-it-possible-to-boost-your-graphics-cards-ram-capacity-insights-by-yl-computing/"><u>Upgrading Your GPU Memory: Is It Possible to Boost Your Graphics Card's RAM Capacity? - Insights by YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nubia Red Magic 8S Pro+ Device</u></a></li>
 </ul></div>
 

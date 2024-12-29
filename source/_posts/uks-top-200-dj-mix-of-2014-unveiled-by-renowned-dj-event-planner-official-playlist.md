@@ -1,7 +1,7 @@
 ---
 title: UK's Top 200 DJ Mix of 2014 Unveiled by Renowned DJ Event Planner | Official Playlist
-date: 2024-12-08T20:15:58.231Z
-updated: 2024-12-14T22:05:45.730Z
+date: 2024-12-22T21:38:27.139Z
+updated: 2024-12-29T21:30:59.859Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,22 +59,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/0-unique-video-reaction-strategies-for-online-enthusiasts-for-2024/"><u>[New] 10 Unique Video Reaction Strategies for Online Enthusiasts for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-boost-your-reach-tips-and-tricks-for-uploading-to-instagram-desktop-for-2024/"><u>[New] Boost Your Reach Tips & Tricks for Uploading to Instagram Desktop for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-master-class-on-top-digital-solutions-to-perfect-media-captions/"><u>[Updated] In 2024, Master Class on Top Digital Solutions to Perfect Media Captions</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/easy-tips-for-navigating-and-changing-computer-configuration-options-using-yl-tools/"><u>Easy Tips for Navigating and Changing Computer Configuration Options Using YL Tools</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exploring-the-benefits-of-cryptocurrency-adoption-insights-from-yl-computings-perspective/"><u>Exploring the Benefits of Cryptocurrency Adoption: Insights From YL Computing's Perspective</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-officejet-4650-windows-compatible-drivers-and-printing-utilities/"><u>Get the Latest HP OfficeJet 4650 Windows-Compatible Drivers and Printing Utilities</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-odt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .odt file</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-12-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 12 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-90-lite-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor 90 Lite Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-spot-and-troubleshoot-video-card-issues-in-your-pc-with-tips-from-yl-software/"><u>How To Spot and Troubleshoot Video Card Issues in Your PC with Tips From YL Software</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/identifying-memory-issues-in-windows-systems-key-indicators-to-watch-for-pc-maintenance-experts/"><u>Identifying Memory Issues in Windows Systems: Key Indicators to Watch For - PC Maintenance Experts</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-6-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 6</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/sing-and-shine-with-party-tyme-start-your-karaoke-membership-for-nonstop-hits-and-hit-singles/"><u>Sing and Shine with Party Tyme! Start Your Karaoke Membership for Nonstop Hits & Hit Singles.</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/solving-a-sluggish-pc-tips-and-tricks-from-yl-computings-expert-advice/"><u>Solving a Sluggish PC: Tips and Tricks From YL Computing's Expert Advice</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/the-mystery-of-mute-audio-outputs-solved-expert-tips-from-yl-softwares-technicians/"><u>The Mystery of Mute Audio Outputs Solved: Expert Tips From YL Software's Technicians</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-picks-navigating-current-cryptocurrency-markets-for-smart-investments-insights-by-yl-computing/"><u>Top Picks: Navigating Current Cryptocurrency Markets for Smart Investments – Insights by YL Computing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-adding-media-instagrams-guide-for-2024/"><u>[New] Adding Media Instagram's Guide for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-method-for-screen-recording-across-platforms/"><u>2024 Approved The Ultimate Method for Screen Recording Across Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoid-unauthorized-access-exposing-the-9-counterfeit-chatgpt-viruses-at-risk-of-data-theft/"><u>Avoid Unauthorized Access: Exposing the 9 Counterfeit ChatGPT Viruses at Risk of Data Theft</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/brightening-up-your-display-easy-steps-to-change-screen-brightness-in-windows-10-expert-guide-by-yl-computing/"><u>Brightening Up Your Display: Easy Steps to Change Screen Brightness in Windows 10 - Expert Guide by YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/choosing-the-right-sound-card-for-superior-audio-quality-expert-advice-from-yl-computing/"><u>Choosing the Right Sound Card for Superior Audio Quality: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-metaverse-its-definition-and-key-architects-a-deep-dive-by-zdnet/"><u>Exploring the Metaverse: Its Definition & Key Architects - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-90-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from 90</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/the-ultimate-guide-exploring-top-5-advantages-of-combining-tidal-and-dex-3-for-djs/"><u>The Ultimate Guide: Exploring Top 5 Advantages of Combining TIDAL & DEX 3 for DJs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/thorough-investigation-into-simple-hdr-imaging-for-2024/"><u>Thorough Investigation Into Simple HDR Imaging for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-the-safety-of-using-a-registry-cleaner-insights-from-yl-computing/"><u>Understanding the Safety of Using a Registry Cleaner: Insights From YL Computing</u></a></li>
 </ul></div>
 

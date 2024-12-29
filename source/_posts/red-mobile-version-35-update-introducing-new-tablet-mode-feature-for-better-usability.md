@@ -1,7 +1,7 @@
 ---
 title: "Red Mobile Version 3.5 Update: Introducing New 'Tablet Mode' Feature for Better Usability!"
-date: 2024-12-17T18:19:39.480Z
-updated: 2024-12-24T06:52:53.652Z
+date: 2024-12-25T17:33:20.594Z
+updated: 2024-12-29T17:49:49.017Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to keep a tab on the the blog as we expect to launch a public release ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### RED Mobile 3.5 DJ Software Tablet Mode Skin (Also displays artwork on jog wheels)
@@ -39,17 +39,17 @@ Be sure to keep a tab on the the blog as we expect to launch a public release ca
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/11/s1.png?resize=1500%2C844&ssl=1 "Tablet Mode for RED Mobile 3.5 DJ Software")DEX 3 RE Tablet Mode (players)](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/11/s1.png?fit=1030%2C579&ssl=1 "DEX 3 RE Tablet Mode (players)")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/11/s1.png?resize=450%2C450&ssl=1 "Tablet Mode for RED Mobile 3.5 DJ Software")![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/11/s1.png?resize=1500%2C844&ssl=1 "Tablet Mode for RED Mobile 3.5 DJ Software")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/11/s1.png?fit=1030%2C579&ssl=1 "DEX 3 RE Tablet Mode (players)")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/s2.png?resize=450%2C450&ssl=1 "Browser Tablet Mode for RED Mobile 3 DJ software")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/s2.png?resize=1500%2C844&ssl=1 "Browser Tablet Mode for RED Mobile 3 DJ software")](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/s2.png?fit=1030%2C579&ssl=1 "RED Mobile 3.5 Tablet Mode (browser)")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/s3.png?resize=450%2C450&ssl=1 "Tablet Mode XY Effects for RED Mobile 3.5 DJ Software")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/s3.png?resize=1500%2C844&ssl=1 "Tablet Mode XY Effects for RED Mobile 3.5 DJ Software")](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/s3.png?fit=1030%2C579&ssl=1 "DEX 3 RE Tablet Mode (XY effects pad)")[![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/11/s4.png?resize=450%2C450&ssl=1 "Tablet Mode EQ for RED Mobile 3.5 DJ mixing software")![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/11/s4.png?resize=1500%2C844&ssl=1 "Tablet Mode EQ for RED Mobile 3.5 DJ mixing software")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/11/s4.png?fit=1030%2C579&ssl=1 "DEX 3 RE Tablet Mode (EQ)")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,22 +71,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/11/redmobile35tabletmodeskin-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/he-experts-approach-to-inserting-subtitlescc-on-youtube-videos-for-2024/"><u>[New] The Expert's Approach to Inserting Subtitles/CC on YouTube Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-trilltones-techniques-how-to-cut-and-download-tamil-songs/"><u>[Updated] TrillTones Techniques How to Cut and Download Tamil Songs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-reverse-call-quality-declines-on-zoom-platforms/"><u>2024 Approved Reverse Call Quality Declines on Zoom Platforms</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/best-practices-and-tools-for-windows-registry-modification-insights-from-yl-software-experts/"><u>Best Practices and Tools for Windows Registry Modification - Insights From YL Software Experts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-insights-into-effective-utilization-of-openais-chatgpt/"><u>Expert Insights Into Effective Utilization of OpenAI's ChatGPT</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/expert-tips-on-identifying-and-resolving-malfunctioning-hardware-problems-yl-software-solutions/"><u>Expert Tips on Identifying & Resolving Malfunctioning Hardware Problems – YL Software Solutions</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exploring-the-world-of-digital-wallets-the-role-of-balance-validation-tools-by-yl-software/"><u>Exploring the World of Digital Wallets: The Role of Balance Validation Tools by YL Software</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-s18-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo S18 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-asus-rog-phone-8-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Asus ROG Phone 8 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-free-youtube-channel-art-templates-find-them-here/"><u>In 2024, Free YouTube Channel Art Templates - Find Them Here!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-karaoke-file-management-unzipping-multiple-songs-with-dex-3-expert-guide/"><u>Mastering Karaoke File Management: Unzipping Multiple Songs with DEX 3 - Expert Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/screen-troubleshooting-resolving-blackouts-after-updating-your-video-card-drivers/"><u>Screen Troubleshooting: Resolving Blackouts After Updating Your Video Card Drivers</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/solve-windows-driver-problems-efficiently-with-expert-advice-from-yl-software-professionals/"><u>Solve Windows Driver Problems Efficiently with Expert Advice From YL Software Professionals</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-basic-pc-issues-expert-tips-from-yl-computings-comprehensive-guide/"><u>Troubleshooting Basic PC Issues: Expert Tips From YL Computing’s Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/turning-down-igtv-on-insta/"><u>Turning Down IGTV on Insta</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-anti-malware-operations-a-deep-dive-into-windows-defenders-strategy-with-yl-software-expertise/"><u>Understanding Anti-Malware Operations: A Deep Dive Into Windows Defender’s Strategy with YL Software Expertise</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-ecological-architecture-merging-nature-and-city-planning/"><u>[Updated] In 2024, Ecological Architecture Merging Nature and City Planning</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-can-i-safely-enhance-performance-of-my-gpu-through-overclocking-insights-from-yl-computing/"><u>1. Can I Safely Enhance Performance of My GPU Through Overclocking? Insights From YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-master-the-art-of-trading-digital-tokens-a-comprehensive-guide-from-yl-computing/"><u>1. Master the Art of Trading Digital Tokens: A Comprehensive Guide From YL Computing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/acing-startech-on-every-windows-platform-generation/"><u>Acing StarTech on Every Windows Platform Generation</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/breaking-down-razer-portal-a-comprehensive-review-for-gaming-enthusiasts-seeking-wi-fi-freedom/"><u>Breaking Down Razer Portal – A Comprehensive Review for Gaming Enthusiasts Seeking Wi-Fi Freedom</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-file-management-with-winutilities-how-to-detect-and-eliminate-unused-big-files-or-videos-for-enhanced-performance-yl-computing-software-solutions.23/"><u>Effective File Management with WinUtilities - How to Detect and Eliminate Unused Big Files or Videos for Enhanced Performance | YL Computing Software Solutions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-can-you-resolve-scan-line-issues-on-your-scanner-insights-from-yl-computings-expertise/"><u>How Can You Resolve Scan Line Issues on Your Scanner? Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-galaxy-a15-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Galaxy A15 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-social-spheres-new-picks-explore-these-8-trends/"><u>In 2024, The Social Sphere's New Picks Explore These 8 Trends</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-y27-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo Y27 4G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/master-your-pc-timing-a-how-to-on-changing-system-timedate-with-yl-software-assistance/"><u>Master Your PC Timing: A How-To on Changing System Time/Date with YL Software Assistance</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-essential-mac-deletion-software-customize-and-schedule-your-file-removals-with-ease/"><u>Stellar's Essential Mac Deletion Software: Customize and Schedule Your File Removals with Ease</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-adjusting-windows-network-configurations-via-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Windows Network Configurations via Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/step-by-step-inserting-dates-in-digital-pictures/"><u>Step-by-Step Inserting Dates in Digital Pictures</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/stunning-lamborghini-huracan-spyder-wraparound-graphics-and-desktop-scenes-premium-vectors-by-yl-creative-solutions/"><u>Stunning Lamborghini Huracán Spyder Wraparound Graphics & Desktop Scenes - Premium Vectors by YL Creative Solutions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/unveiling-the-impact-how-the-2008-beijing-games-shaped-history-explored-by-yl-computing-and-yl-software/"><u>Unveiling the Impact: How the 2008 Beijing Games Shaped History - Explored by YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/unveiling-the-methods-a-step-by-step-guide-to-retrieving-all-program-listings-in-windows-expertise-from-yl-software/"><u>Unveiling the Methods: A Step-by-Step Guide to Retrieving All Program Listings in Windows - Expertise From YL Software</u></a></li>
 </ul></div>
 

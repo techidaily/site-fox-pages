@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Mixes: Expert Hacks for PCDJ DEX 2 by Plni-Combined Digital Jockey Software"
-date: 2024-12-22T23:15:35.412Z
-updated: 2024-12-23T18:24:03.223Z
+date: 2024-12-23T16:35:57.163Z
+updated: 2024-12-29T19:52:11.308Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ If you uncheck "Allow Automix on any list" under the general tab in options DEX 
 **This concludes this week's "[DJ Software](https://tools.techidaily.com/pcdj/products/) Tips and Tricks" DEX 2 edition. I hope to make these posts at least twice a month. If you have any questions regarding any of these features please post in the comments below! We're also looking for blog contributors – with some benefits. If you're interested please email me at submit@pcdj.com** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,20 +56,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/03/dex2-djtipsandtricks1.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-windows-11-excellent-video-capture-tools-compared/"><u>[New] 2024 Approved Windows 11 Excellent Video Capture Tools Compared</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-cracking-the-code-of-true-instagram-photos/"><u>[New] Cracking the Code of True Instagram Photos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-expert-tips-for-navigating-the-telegram-online-experience-for-2024/"><u>[New] Expert Tips for Navigating the Telegram Online Experience for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-understanding-quantum-hdrs-impact-on-photography/"><u>[New] Understanding Quantum HDR's Impact on Photography</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-step-by-step-garageband-tutorial-for-podcast-creation/"><u>[Updated] 2024 Approved Step-by-Step GarageBand Tutorial for Podcast Creation</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/captivating-dr-who-desktop-scenery-high-quality-walls-mats-and-graphics-by-yl-computing/"><u>Captivating Dr. Who Desktop Scenery: High-Quality Walls, Mats & Graphics by YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/choosing-the-ideal-platform-for-your-cryptocurrency-transactions-guidance-from-yl-software-experts/"><u>Choosing the Ideal Platform for Your Cryptocurrency Transactions: Guidance From YL Software Experts</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enhance-scanner-performance-with-these-essential-settings-insights-by-yl-software/"><u>Enhance Scanner Performance with These Essential Settings - Insights by YL Software</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/essential-pre-checks-how-to-prepare-your-coin-wallet-before-verifying-balances-with-a-crypto-address-checker-tips-by-yl-computing/"><u>Essential Pre-Checks: How to Prepare Your Coin Wallet Before Verifying Balances with a Crypto Address Checker - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-troubleshoot-unrecognized-graphics-cards-on-your-pc-tips-from-yl-computing/"><u>How to Troubleshoot Unrecognized Graphics Cards on Your PC - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/identifying-and-resolving-loud-computer-fans-tips-and-solutions-by-yl-software-experts/"><u>Identifying and Resolving Loud Computer Fans: Tips & Solutions by YL Software Experts</u></a></li>
-<li><a href="https://win-premium.techidaily.com/locating-most-recent-downloads-on-your-pc-with-windows-xpvista7810/"><u>Locating Most-Recent Downloads on Your PC with Windows (XP/Vista/7/8/10)</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-ai-voice-over/"><u>New In 2024, What Is AI Voice Over?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unleash-your-dj-skills-with-keyword-stuffed-radio-ksr-a-new-era-in-music-mixing/"><u>Unleash Your DJ Skills with Keyword Stuffed Radio (KSR): A New Era in Music Mixing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/unlock-smooth-4k-editing-the-top-video-editing-apps-for-proxy-videos-for-2024/"><u>Unlock Smooth 4K Editing The Top Video Editing Apps for Proxy Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-master-level-insights-into-crafting-unique-and-memorable-instagram-vids/"><u>[New] In 2024, Master Level Insights Into Crafting Unique and Memorable Instagram Vids</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>[Updated] 2024 Approved Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/adjusting-peripherals-for-peak-performance-mastering-mouse-and-keyboard-settings-in-a-click-yl-software-solutions/"><u>Adjusting Peripherals for Peak Performance: Mastering Mouse and Keyboard Settings in a Click – YL Software Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-your-brands-success-on-top-business-youtube-channels-for-2024/"><u>Build Your Brand's Success on Top Business YouTube Channels for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-analysis-of-windows-11s-automated-data-management-system/"><u>Detailed Analysis of Windows 11'S Automated Data Management System</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-methods-for-locating-and-purging-unused-files-over-time-a-guide-by-yl-computing/"><u>Effective Methods for Locating and Purging Unused Files Over Time - A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/essential-social-strategies-for-djs-ideal-posting-timing-and-content-on-platforms/"><u>Essential Social Strategies for DJs: Ideal Posting Timing & Content on Platforms</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-insight-on-the-superiority-of-netgear-orbi-the-ideal-choice-for-seamless-wifi-coverage/"><u>Expert Insight on the Superiority of Netgear Orbi - The Ideal Choice for Seamless WiFi Coverage</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-facile-partager-des-informations-entre-deux-surface-pros/"><u>Guide Facile : Partager Des Informations Entre Deux Surface Pros</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-fix-a-non-responsive-scanner-tips-by-yl-computing-experts/"><u>How to Fix a Non-Responsive Scanner - Tips by YL Computing Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-canons-imageclass-mf4800-drivers-with-this-quick-download-guide/"><u>Install Canon's ImageClass MF4800 Drivers with This Quick Download Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-healthy-eating-habits/"><u>Leveraging ChatGPT for Healthy Eating Habits</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-sending-files-on-windows-tech-tips-from-yl-computing/"><u>Step-by-Step Guide: Sending Files on Windows - Tech Tips From YL Computing</u></a></li>
 </ul></div>
 
