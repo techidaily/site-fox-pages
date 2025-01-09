@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released DEX Er, and I'll Assist You with Crafting Those SEO-Friendly Titles!
-date: 2024-12-23T21:55:49.901Z
-updated: 2024-12-29T17:01:37.145Z
+date: 2025-01-02T17:30:35.539Z
+updated: 2025-01-08T23:01:07.898Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,24 +93,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-classic-captures-portraiture-on-the-xiphone-for-2024/"><u>[New] Classic Captures Portraiture on the XiPhone for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-from-airwaves-to-e-readers-how-to-save-web-tv-shows/"><u>[Updated] From Airwaves To E-Readers How to Save Web TV Shows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-digital-doppelganger-drawing-crafting-caricatured-emblems/"><u>[Updated] In 2024, Digital Doppelganger Drawing Crafting Caricatured Emblems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-group-photo-and-video-uploads-in-instagram/"><u>[Updated] The Ultimate Guide to Group Photo and Video Uploads in Instagram</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-optimal-sony-ps3-reproduction-tools-ranked-pc/"><u>2024 Approved Optimal Sony PS3 Reproduction Tools Ranked (PC)</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/a-comprehensive-guide-by-yl-software-on-how-to-fix-connectivity-issues-with-your-computers-mouse/"><u>A Comprehensive Guide by YL Software on How to Fix Connectivity Issues with Your Computer's Mouse</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/dealing-with-dead-printers-expert-advice-on-reviving-your-machine-yl-software-insights/"><u>Dealing With Dead Printers: Expert Advice on Reviving Your Machine - YL Software Insights</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/entschuldigung-ich-habe-versehentlich-meine-externe-seagate-hard-drive-formatiert/"><u>Entschuldigung, Ich Habe Versehentlich Meine Externe Seagate-Hard Drive Formatiert</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/experiencing-graphics-glitches-learn-the-impact-of-low-ram-on-gpu-efficiency-with-yl-software-tips/"><u>Experiencing Graphics Glitches? Learn the Impact of Low RAM on GPU Efficiency with YL Software Tips</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/identifying-hard-drive-health-issues-before-they-lead-to-data-loss-insights-by-yl-software/"><u>Identifying Hard Drive Health Issues Before They Lead to Data Loss - Insights by YL Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1125800-9781609252304-intuition/"><u>Intuition | Free Book</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/karaoke-cloud-pros-ultimate-playlist-rocking-you-with-50-hits-on-5-19-17-pcdj-showdown/"><u>Karaoke Cloud Pro's Ultimate Playlist: Rocking You With 50 Hits on 5-19-17 | PCDJ Showdown!</u></a></li>
-<li><a href="https://win-help.techidaily.com/protect-your-digital-assets-a-step-by-step-process-for-windows-prise-10-backups-advice-from-experts-at-yl-software/"><u>Protect Your Digital Assets: A Step-by-Step Process for Windows Prise 10 Backups – Advice From Experts at YL Software</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-transferring-files-between-folders-with-ease-tips-by-yl-computing/"><u>Step-by-Step Guide: Transferring Files Between Folders with Ease - Tips by YL Computing</u></a></li>
-<li><a href="https://win-lab.techidaily.com/the-ultimate-tutorial-on-downloading-clipfish-content-with-ease/"><u>The Ultimate Tutorial on Downloading Clipfish Content with Ease</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unlocking-windows-control-panel-for-keyboard-configuration-expert-tips-from-yl-software-professionals/"><u>Unlocking Windows' Control Panel for Keyboard Configuration: Expert Tips From YL Software Professionals</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unveiling-distinctions-navigating-through-local-vs-global-configuration-options-within-windows-control-panel-exploring-insights-by-yl-computing/"><u>Unveiling Distinctions: Navigating Through Local Vs. Global Configuration Options Within Windows Control Panel - Exploring Insights by YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/upgrading-your-gpu-memory-is-it-possible-to-boost-your-graphics-cards-ram-capacity-insights-by-yl-computing/"><u>Upgrading Your GPU Memory: Is It Possible to Boost Your Graphics Card's RAM Capacity? - Insights by YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nubia Red Magic 8S Pro+ Device</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-beginners-guide-to-interpreting-facebook-metrics/"><u>[New] In 2024, Beginner's Guide to Interpreting Facebook Metrics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-tunefabs-top-screen-recorder-picks/"><u>2024 Approved Tunefab's Top Screen Recorder Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-a-fresh-pdf-file-reader-for-os-use/"><u>Choosing a Fresh PDF File Reader for OS Use</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/dealing-with-system-lockups-linked-to-gpu-utilization-expert-advice-from-yl-software/"><u>Dealing with System Lockups Linked to GPU Utilization - Expert Advice From YL Software</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/diagnosing-screen-issues-expert-advice-on-resolving-monitor-display-failures-by-yl-software-experts/"><u>Diagnosing Screen Issues: Expert Advice on Resolving Monitor Display Failures by YL Software Experts</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/exploring-the-newest-innovations-in-crypto-tech-insights-from-yl-computings-analysis/"><u>Exploring the Newest Innovations in Crypto Tech: Insights From YL Computing's Analysis</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/gaining-admin-rights-a-step-by-step-guide-to-access-filesfolders-on-windows-by-yl-computing/"><u>Gaining Admin Rights: A Step-by-Step Guide to Access Files/Folders on Windows - By YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-s23-tactical-edition-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy S23 Tactical Edition Phone Hassle-Free</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/optimizing-performance-for-laggy-systems-expert-advice-by-yl-software-professionals/"><u>Optimizing Performance for Laggy Systems: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://article-tips.techidaily.com/rhythmic-reflections-in-photo-cinema-for-2024/"><u>Rhythmic Reflections in Photo Cinema for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/selfie-showstoppers-adding-whimsy-with-the-cartoon-lens-for-2024/"><u>Selfie Showstoppers Adding Whimsy with the Cartoon Lens for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-changing-your-system-clock-and-time-zone-on-windows-via-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Changing Your System Clock & Time Zone on Windows via Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-finding-device-manager-within-the-windows-control-panel-tech-solutions-by-yl/"><u>Step-by-Step Guide: Finding Device Manager Within the Windows Control Panel - Tech Solutions by YL</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-tecno-spark-20-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Tecno Spark 20? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-choice-microphones-for-youtube-creators-for-2024/"><u>Top Choice Microphones for YouTube Creators for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-dj-favorites-best-played-tracks-of-2016-unveiled-by-djintelligence/"><u>Top DJ Favorites: Best-Played Tracks of 2016 Unveiled by DJintelligence</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-fcp-transition-guide-3-simple-yet-effective-techniques/"><u>Updated FCP Transition Guide 3 Simple Yet Effective Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: UK's Top 200 DJ Mix of 2014 Unveiled by Renowned DJ Event Planner | Official Playlist
-date: 2024-12-22T21:38:27.139Z
-updated: 2024-12-29T21:30:59.859Z
+date: 2025-01-06T04:59:28.118Z
+updated: 2025-01-08T16:29:51.222Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,15 +59,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-adding-media-instagrams-guide-for-2024/"><u>[New] Adding Media Instagram's Guide for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-method-for-screen-recording-across-platforms/"><u>2024 Approved The Ultimate Method for Screen Recording Across Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoid-unauthorized-access-exposing-the-9-counterfeit-chatgpt-viruses-at-risk-of-data-theft/"><u>Avoid Unauthorized Access: Exposing the 9 Counterfeit ChatGPT Viruses at Risk of Data Theft</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/brightening-up-your-display-easy-steps-to-change-screen-brightness-in-windows-10-expert-guide-by-yl-computing/"><u>Brightening Up Your Display: Easy Steps to Change Screen Brightness in Windows 10 - Expert Guide by YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/choosing-the-right-sound-card-for-superior-audio-quality-expert-advice-from-yl-computing/"><u>Choosing the Right Sound Card for Superior Audio Quality: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-metaverse-its-definition-and-key-architects-a-deep-dive-by-zdnet/"><u>Exploring the Metaverse: Its Definition & Key Architects - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-90-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from 90</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/the-ultimate-guide-exploring-top-5-advantages-of-combining-tidal-and-dex-3-for-djs/"><u>The Ultimate Guide: Exploring Top 5 Advantages of Combining TIDAL & DEX 3 for DJs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/thorough-investigation-into-simple-hdr-imaging-for-2024/"><u>Thorough Investigation Into Simple HDR Imaging for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/understanding-the-safety-of-using-a-registry-cleaner-insights-from-yl-computing/"><u>Understanding the Safety of Using a Registry Cleaner: Insights From YL Computing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-ethical-practices-for-accumulating-over-a-million-video-engagements/"><u>[New] In 2024, Ethical Practices for Accumulating Over A Million Video Engagements</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-navigating-like-a-pro-tips-for-macwindows-tiktok-users/"><u>[Updated] 2024 Approved Navigating Like a Pro Tips for Mac/Windows TikTok Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-primeworld-views-worldwide-channel-accessibility-now/"><u>2024 Approved PrimeWorld Views Worldwide Channel Accessibility Now</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/choosing-the-right-cryptocurrency-exchange-key-features-highlighted-by-experts-at-yl-computing-yl-software/"><u>Choosing the Right Cryptocurrency Exchange: Key Features Highlighted by Experts at YL Computing | YL Software</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/decoding-the-critical-role-of-the-1960-split-between-china-and-soviet-union-in-world-politics-yl-computing-yl-software/"><u>Decoding the Critical Role of the 1960 Split Between China and Soviet Union in World Politics - YL Computing | YL Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-12-premier-free-online-cinemas-in-the-world/"><u>Discover the 12 Premier Free Online Cinemas in the World</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-repair-a-malfunctioning-cpu-expert-tips-from-yl-computings-guide/"><u>How to Repair a Malfunctioning CPU: Expert Tips From YL Computing's Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-behind-the-scenes-developing-vegaspro-19/"><u>In 2024, Behind-the-Scenes Developing VegasPro '19</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/joke-junction-ultimate-free-comic-templates-for-2024/"><u>Joke Junction Ultimate Free Comic Templates for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-your-device-how-to-locate-and-use-control-panel-for-customizing-system-preferences-yl-software-solutions/"><u>Mastering Your Device: How to Locate and Use Control Panel for Customizing System Preferences - YL Software Solutions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/timeless-hd-image-gallery-vintage-walls-and-mood-settings-from-yl-software-design-studio/"><u>Timeless HD Image Gallery: Vintage Walls and Mood Settings From YL Software Design Studio</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on OnePlus Ace 2 | Dr.fone</u></a></li>
 </ul></div>
 

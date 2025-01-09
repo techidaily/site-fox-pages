@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Mixes: Expert Hacks for PCDJ DEX 2 by Plni-Combined Digital Jockey Software"
-date: 2024-12-23T16:35:57.163Z
-updated: 2024-12-29T19:52:11.308Z
+date: 2025-01-07T03:09:27.542Z
+updated: 2025-01-08T23:42:00.625Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ If you uncheck "Allow Automix on any list" under the general tab in options DEX 
 **This concludes this week's "[DJ Software](https://tools.techidaily.com/pcdj/products/) Tips and Tricks" DEX 2 edition. I hope to make these posts at least twice a month. If you have any questions regarding any of these features please post in the comments below! We're also looking for blog contributors – with some benefits. If you're interested please email me at submit@pcdj.com** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,18 +56,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/03/dex2-djtipsandtricks1.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-master-level-insights-into-crafting-unique-and-memorable-instagram-vids/"><u>[New] In 2024, Master Level Insights Into Crafting Unique and Memorable Instagram Vids</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>[Updated] 2024 Approved Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/adjusting-peripherals-for-peak-performance-mastering-mouse-and-keyboard-settings-in-a-click-yl-software-solutions/"><u>Adjusting Peripherals for Peak Performance: Mastering Mouse and Keyboard Settings in a Click – YL Software Solutions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-your-brands-success-on-top-business-youtube-channels-for-2024/"><u>Build Your Brand's Success on Top Business YouTube Channels for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detailed-analysis-of-windows-11s-automated-data-management-system/"><u>Detailed Analysis of Windows 11'S Automated Data Management System</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-methods-for-locating-and-purging-unused-files-over-time-a-guide-by-yl-computing/"><u>Effective Methods for Locating and Purging Unused Files Over Time - A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/essential-social-strategies-for-djs-ideal-posting-timing-and-content-on-platforms/"><u>Essential Social Strategies for DJs: Ideal Posting Timing & Content on Platforms</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-insight-on-the-superiority-of-netgear-orbi-the-ideal-choice-for-seamless-wifi-coverage/"><u>Expert Insight on the Superiority of Netgear Orbi - The Ideal Choice for Seamless WiFi Coverage</u></a></li>
-<li><a href="https://win-special.techidaily.com/guide-facile-partager-des-informations-entre-deux-surface-pros/"><u>Guide Facile : Partager Des Informations Entre Deux Surface Pros</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-fix-a-non-responsive-scanner-tips-by-yl-computing-experts/"><u>How to Fix a Non-Responsive Scanner - Tips by YL Computing Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-canons-imageclass-mf4800-drivers-with-this-quick-download-guide/"><u>Install Canon's ImageClass MF4800 Drivers with This Quick Download Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-healthy-eating-habits/"><u>Leveraging ChatGPT for Healthy Eating Habits</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-sending-files-on-windows-tech-tips-from-yl-computing/"><u>Step-by-Step Guide: Sending Files on Windows - Tech Tips From YL Computing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-obs-versus-shadowplay-streaming-software-showdown/"><u>[Updated] 2024 Approved OBS versus ShadowPlay - Streaming Software Showdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-practices-for-incorporating-b-footage-in-projects/"><u>[Updated] Best Practices for Incorporating B-Footage in Projects</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-erase-unwanted-black-fringes-on-youtube-tracks-for-2024/"><u>[Updated] Erase Unwanted Black Fringes on YouTube Tracks for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-skyrocket-to-partner-status-crush-that-critical-10000-view-benchmark/"><u>[Updated] Skyrocket to Partner Status Crush that Critical 10,000-View Benchmark</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-smooth-video-playback-for-televisions-with-youtube/"><u>[Updated] Smooth Video Playback for Televisions with YouTube</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-clear-clutter-top-strategies-for-expanding-your-pcs-storage-guidance-from-yl-computing-experts/"><u>1. Clear Clutter: Top Strategies for Expanding Your PC's Storage - Guidance From YL Computing Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-converting-xml-ssa-to-high-end-srt/"><u>2024 Approved Expert Techniques for Converting XML, SSA to High-End SRT</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/discover-why-your-pc-isnt-recognizing-the-graphics-card-insights-from-yl-computing/"><u>Discover Why Your PC Isn't Recognizing the Graphics Card - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/expert-advice-on-handling-installed-software-with-windows-control-panel-by-yl-software-professionals/"><u>Expert Advice on Handling Installed Software with Windows Control Panel by YL Software Professionals</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/identifying-and-troubleshooting-hardware-issues-a-step-by-step-diagnostic-approach-by-yl-software-solutions/"><u>Identifying and Troubleshooting Hardware Issues: A Step-by-Step Diagnostic Approach by YL Software Solutions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/identifying-common-reasons-behind-gpu-heating-issues-insights-from-yl-computing/"><u>Identifying Common Reasons Behind GPU Heating Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-handling-installations-via-control-panel-tech-tips-by-yl-computing/"><u>Step-by-Step Guide to Handling Installations via Control Panel - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-solutions-to-startech-driver-compatibility-issues-in-windows-11-8-and-7/"><u>Step-by-Step Solutions to StarTech Driver Compatibility Issues in Windows 11, 8, and 7</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/updating-your-sound-card-drivers-made-simple-a-step-by-step-guide-yl-tech-solutions/"><u>Updating Your Sound Card Drivers Made Simple: A Step-by-Step Guide - YL Tech Solutions</u></a></li>
 </ul></div>
 
