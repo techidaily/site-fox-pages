@@ -1,7 +1,7 @@
 ---
 title: UK's Top 200 DJ Mix of 2014 Unveiled by Renowned DJ Event Planner | Official Playlist
-date: 2025-01-06T04:59:28.118Z
-updated: 2025-01-08T16:29:51.222Z
+date: 2025-01-07T19:51:33.600Z
+updated: 2025-01-14T19:22:43.007Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,17 +59,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-ethical-practices-for-accumulating-over-a-million-video-engagements/"><u>[New] In 2024, Ethical Practices for Accumulating Over A Million Video Engagements</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-navigating-like-a-pro-tips-for-macwindows-tiktok-users/"><u>[Updated] 2024 Approved Navigating Like a Pro Tips for Mac/Windows TikTok Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-primeworld-views-worldwide-channel-accessibility-now/"><u>2024 Approved PrimeWorld Views Worldwide Channel Accessibility Now</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/choosing-the-right-cryptocurrency-exchange-key-features-highlighted-by-experts-at-yl-computing-yl-software/"><u>Choosing the Right Cryptocurrency Exchange: Key Features Highlighted by Experts at YL Computing | YL Software</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/decoding-the-critical-role-of-the-1960-split-between-china-and-soviet-union-in-world-politics-yl-computing-yl-software/"><u>Decoding the Critical Role of the 1960 Split Between China and Soviet Union in World Politics - YL Computing | YL Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-12-premier-free-online-cinemas-in-the-world/"><u>Discover the 12 Premier Free Online Cinemas in the World</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-repair-a-malfunctioning-cpu-expert-tips-from-yl-computings-guide/"><u>How to Repair a Malfunctioning CPU: Expert Tips From YL Computing's Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-behind-the-scenes-developing-vegaspro-19/"><u>In 2024, Behind-the-Scenes Developing VegasPro '19</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/joke-junction-ultimate-free-comic-templates-for-2024/"><u>Joke Junction Ultimate Free Comic Templates for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/mastering-your-device-how-to-locate-and-use-control-panel-for-customizing-system-preferences-yl-software-solutions/"><u>Mastering Your Device: How to Locate and Use Control Panel for Customizing System Preferences - YL Software Solutions</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/timeless-hd-image-gallery-vintage-walls-and-mood-settings-from-yl-software-design-studio/"><u>Timeless HD Image Gallery: Vintage Walls and Mood Settings From YL Software Design Studio</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-net-finds-high-quality-alarm-tones/"><u>[New] Top Net Finds High-Quality Alarm Tones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-gopro-hero-4-vs-sony-dslr-for-extreme-sports-which-rules-the-arena/"><u>2024 Approved GoPro Hero 4 Vs Sony DSLR for Extreme Sports Which Rules the Arena?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-apples-iphone-camera-evolution-in-ios-11/"><u>2024 Approved The Essential Guide to Apple's iPhone Camera Evolution in iOS 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-top-ten-viewers-favorites-in-a-single-day-on-youtube/"><u>2024 Approved Top Ten Viewers' Favorites in a Single Day on YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/6windows-10/"><u>6効果的な解決策：Windows 10へのアップグレードが不可能な容量不足を克服する</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728469994241-windows-10/"><u>使用以下两个技巧轻松在 Windows 10 中设置系统保存点 - 全面解锁</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comment-devenir-un-expert-dans-la-conversion-dune-machine-virtuelle-a-lhardware-physique-technique-optimale/"><u>Comment Devenir Un Expert Dans La Conversion D'une Machine Virtuelle À L'Hardware Physique (Technique Optimale)</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comment-recuperer-des-emails-supprimes-de-maniere-recente-dans-outlook/"><u>Comment Récupérer Des Emails Supprimés De Manière Récente Dans Outlook?</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comment-supprimer-ou-restaurer-la-partition-dun-environnement-de-recuperation-windows-sans-risque/"><u>Comment Supprimer Ou Restaurer La Partition D'un Environnement De Récupération Windows Sans Risque</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/erfolgreiche-strategien-fur-das-einbinden-von-vhdvhdx-in-windows-systeme-expertenrat-und-tipps/"><u>Erfolgreiche Strategien Für Das Einbinden Von VHD/VHDX in Windows Systeme – Expertenrat Und Tipps</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guia-paso-a-paso-para-iniciar-sesion-en-windows-11-acceso-al-menu-de-recuperacion/"><u>Guía Paso a Paso Para Iniciar Sesión en Windows 11: Acceso Al Menú De Recuperación</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-swiftly-acquire-the-driver-for-pioneer-dj-ddj-sx2-mixer/"><u>How to Swiftly Acquire the Driver for Pioneer DJ DDJ-SX2 Mixer</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/onedrive-troubleshooting-guide-how-to-effectively-back-up-your-pst-files-fixed/"><u>OneDrive Troubleshooting Guide: How to Effectively Back Up Your PST Files (Fixed)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-latency-in-instagram-a-step-by-step-guide-for-optimizing-performance-across-phones-and-tablets/"><u>Overcome Latency in Instagram: A Step-by-Step Guide for Optimizing Performance Across Phones & Tablets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-a-step-by-step-tutorial-on-returning-calls-to-concealed-phones/"><u>Solving the Mystery: A Step-by-Step Tutorial on Returning Calls to Concealed Phones</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-curating-content-for-a-refined-social-media-experience/"><u>The Ultimate Guide to Curating Content for a Refined Social Media Experience</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/windows-11pc3/"><u>Windows 11で効果的なPC交換時データ移行手順:ベストプラクティス3秒読み</u></a></li>
 </ul></div>
 

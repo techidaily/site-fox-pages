@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released DEX Er, and I'll Assist You with Crafting Those SEO-Friendly Titles!
-date: 2025-01-02T17:30:35.539Z
-updated: 2025-01-08T23:01:07.898Z
+date: 2025-01-12T00:01:20.067Z
+updated: 2025-01-14T22:03:37.697Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,22 +93,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-beginners-guide-to-interpreting-facebook-metrics/"><u>[New] In 2024, Beginner's Guide to Interpreting Facebook Metrics</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-tunefabs-top-screen-recorder-picks/"><u>2024 Approved Tunefab's Top Screen Recorder Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/choosing-a-fresh-pdf-file-reader-for-os-use/"><u>Choosing a Fresh PDF File Reader for OS Use</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/dealing-with-system-lockups-linked-to-gpu-utilization-expert-advice-from-yl-software/"><u>Dealing with System Lockups Linked to GPU Utilization - Expert Advice From YL Software</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/diagnosing-screen-issues-expert-advice-on-resolving-monitor-display-failures-by-yl-software-experts/"><u>Diagnosing Screen Issues: Expert Advice on Resolving Monitor Display Failures by YL Software Experts</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exploring-the-newest-innovations-in-crypto-tech-insights-from-yl-computings-analysis/"><u>Exploring the Newest Innovations in Crypto Tech: Insights From YL Computing's Analysis</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/gaining-admin-rights-a-step-by-step-guide-to-access-filesfolders-on-windows-by-yl-computing/"><u>Gaining Admin Rights: A Step-by-Step Guide to Access Files/Folders on Windows - By YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-s23-tactical-edition-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy S23 Tactical Edition Phone Hassle-Free</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/optimizing-performance-for-laggy-systems-expert-advice-by-yl-software-professionals/"><u>Optimizing Performance for Laggy Systems: Expert Advice by YL Software Professionals</u></a></li>
-<li><a href="https://article-tips.techidaily.com/rhythmic-reflections-in-photo-cinema-for-2024/"><u>Rhythmic Reflections in Photo Cinema for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/selfie-showstoppers-adding-whimsy-with-the-cartoon-lens-for-2024/"><u>Selfie Showstoppers Adding Whimsy with the Cartoon Lens for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-changing-your-system-clock-and-time-zone-on-windows-via-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Changing Your System Clock & Time Zone on Windows via Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-finding-device-manager-within-the-windows-control-panel-tech-solutions-by-yl/"><u>Step-by-Step Guide: Finding Device Manager Within the Windows Control Panel - Tech Solutions by YL</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-tecno-spark-20-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Tecno Spark 20? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-choice-microphones-for-youtube-creators-for-2024/"><u>Top Choice Microphones for YouTube Creators for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-dj-favorites-best-played-tracks-of-2016-unveiled-by-djintelligence/"><u>Top DJ Favorites: Best-Played Tracks of 2016 Unveiled by DJintelligence</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-fcp-transition-guide-3-simple-yet-effective-techniques/"><u>Updated FCP Transition Guide 3 Simple Yet Effective Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-tale-of-two-approaches-polite-vs-aggressive-asking/"><u>[New] A Tale of Two Approaches Polite vs Aggressive Asking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-choices-in-game-livestream-technology/"><u>[New] Best Choices in Game Livestream Technology</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-elevate-your-tiktok-with-bigger-head-vfx-3-effective-ways/"><u>[New] In 2024, Elevate Your TikTok with Bigger-Head VFX (3 Effective Ways)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-steadicams-to-elevate-your-dslr-filming-capabilities-for-2024/"><u>[Updated] Top Steadicams to Elevate Your DSLR Filming Capabilities for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/complete-walkthrough-effortlessly-shifting-live-photographs-from-your-iphone-onto-a-personal-laptop-or-desktop/"><u>Complete Walkthrough: Effortlessly Shifting Live Photographs From Your iPhone Onto a Personal Laptop or Desktop</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/geloscht-beim-einrichten-von-windows-11-wird-alles-vom-usb-entfernt/"><u>Gelöscht Beim Einrichten Von Windows 11: Wird Alles Vom USB Entfernt?</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-magic-6-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic 6 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-error-0x800700e1-in-windows-11-os/"><u>How to Overcome Error 0X800700E1 in Windows 11 OS</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-restore-your-adata-solid-state-drive-and-securely-back-up-files/"><u>How To Restore Your ADATA Solid-State Drive & Securely Back Up Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725616842752-live-streaming-mastery-with-manycam-ultimate-virtual-camera-and-editing-suite/"><u>Live Streaming Mastery with ManyCam - Ultimate Virtual Camera & Editing Suite</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/seagate-external-hdd-recovery-techniques-step-by-step-restoration-guide/"><u>Seagate External HDD Recovery Techniques - Step-by-Step Restoration Guide</u></a></li>
+<li><a href="https://discover-great.techidaily.com/vintage-film-gear-high-definition-background-yl-computings-timeless-collection/"><u>Vintage Film Gear High-Definition Background - YL Computing's Timeless Collection</u></a></li>
 </ul></div>
 
