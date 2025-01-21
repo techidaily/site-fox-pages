@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Mixes: Expert Hacks for PCDJ DEX 2 by Plni-Combined Digital Jockey Software"
-date: 2025-01-09T19:39:43.285Z
-updated: 2025-01-14T22:06:18.941Z
+date: 2025-01-16T20:30:59.357Z
+updated: 2025-01-20T16:09:53.346Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ If you uncheck "Allow Automix on any list" under the general tab in options DEX 
 **This concludes this week's "[DJ Software](https://tools.techidaily.com/pcdj/products/) Tips and Tricks" DEX 2 edition. I hope to make these posts at least twice a month. If you have any questions regarding any of these features please post in the comments below! We're also looking for blog contributors – with some benefits. If you're interested please email me at submit@pcdj.com** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,22 +56,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/03/dex2-djtipsandtricks1.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-diy-filming-hacks-to-learn-and-implement-at-home/"><u>[New] 2024 Approved DIY Filming Hacks to Learn and Implement at Home</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-transforming-srt-to-widely-used-digital-audio-formats-with-ease/"><u>[New] Transforming SRT to Widely Used Digital Audio Formats with Ease</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-strategies-for-downloading-twitter-video-content-to-mp3/"><u>2024 Approved Strategies for Downloading Twitter Video Content to MP3</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-techniques-for-removing-dust-from-your-scanning-device-tips-by-yl-software/"><u>Effective Techniques for Removing Dust From Your Scanning Device - Tips by YL Software</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-and-why-do-graphics-cards-suddenly-cease-functioning-insights-from-yl-software-experts/"><u>How and Why Do Graphics Cards Suddenly Cease Functioning? Insights From YL Software Experts</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-hot-can-a-processor-get-understanding-cpu-maximum-temperatures-by-experts-at-yl-software/"><u>How Hot Can a Processor Get? Understanding CPU Maximum Temperatures by Experts at YL Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-s18e-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo S18e to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-cut-the-noise-get-smooth-beats-with-our-free-analyzers-today/"><u>In 2024, Cut the Noise - Get Smooth Beats with Our FREE Analyzers Today</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/leading-list-high-quality-mobile-tune-designers-for-2024/"><u>Leading List High-Quality Mobile Tune Designers for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/locating-your-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Locating Your Windows Control Panel: A Step-by-Step Guide - By YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/new-release-dexon-dj-software-v3907-compatible-with-both-dex-3-reward-edition-and-deluxe-limited-perfect-mixing-tool-for-pros/"><u>New Release: Dexon DJ Software v3.9.0.7 Compatible with Both DEX 3 Reward Edition & Deluxe Limited - Perfect Mixing Tool for Pros!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/professional-hd-nature-backdrops-and-imagery-for-designers-and-businesses-curated-by-yl-software-expertise/"><u>Professional HD Nature Backdrops & Imagery for Designers & Businesses, Curated by YL Software Expertise</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102722057-rtp-unable-to-run-nvidia-graphics-games-our-expertise-can-solve-it/"><u>RTP: Unable to Run Nvidia Graphics Games? Our Expertise Can Solve It!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/solving-windows-audio-issues-a-step-by-step-guide-yl-computings-expert-tips/"><u>Solving Windows Audio Issues: A Step-by-Step Guide - YL Computing's Expert Tips</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/streamline-your-mixing-with-bpm-supremes-curated-dj-bundles-expert-tips-to-enhance-efficiency/"><u>Streamline Your Mixing with BPM Supreme's Curated DJ Bundles: Expert Tips to Enhance Efficiency!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-m34-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy M34 5G Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/tutorial-export-instagram-reels-for-facebook-sharing/"><u>Tutorial: Export Instagram Reels for Facebook Sharing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-swiftclick-retrorecall-video-for-2024/"><u>[Updated] SwiftClick RetroRecall Video for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-academic-exploration-discover-how-ai-can-revolutionize-your-research-process/"><u>Enhance Academic Exploration: Discover How AI Can Revolutionize Your Research Process</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ensuring-optimal-performance-a-guide-to-verifying-your-pcs-cooling-system-functionality/"><u>Ensuring Optimal Performance: A Guide to Verifying Your PC's Cooling System Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-stuck-keys-on-apples-mobile-devices-the-top-6-remedies-for-iphone-and-ipad-owners/"><u>Fixing Stuck Keys on Apple's Mobile Devices: The Top 6 Remedies for iPhone and iPad Owners</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/hd-sea-themed-wallpapers-and-photographs-high-quality-oceanic-visuals-by-yl-computing/"><u>HD Sea-Themed Wallpapers & Photographs - High Quality Oceanic Visuals by YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-boost-your-pcs-performance-expert-tips-from-yl-computing/"><u>How to Boost Your PC's Performance: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/introducing-the-latest-release-enhanced-songbookdb-version-dedicated-to-digital-djs/"><u>Introducing the Latest Release: Enhanced SongbookDB Version, Dedicated to Digital DJs!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reviving-sound-diy-fixes-for-a-non-responsive-audio-unit/"><u>Reviving Sound: DIY Fixes for a Non-Responsive Audio Unit</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-intermittent-sound-issues-in-windows-11-a-complete-guide/"><u>Troubleshooting Intermittent Sound Issues in Windows 11 - A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-ps4-sounds-too-loud-solutions-inside/"><u>Troubleshooting Your PS4 Sounds Too Loud - Solutions Inside</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-apples-latest-innovation-a-comprehensive-review-of-the-macbook-air-with-m1-chip-202n/"><u>Unveiling the Power of Apple's Latest Innovation: A Comprehensive Review of the MacBook Air with M1 Chip (202N)</u></a></li>
 </ul></div>
 
