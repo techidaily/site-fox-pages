@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released DEX Er, and I'll Assist You with Crafting Those SEO-Friendly Titles!
-date: 2025-01-18T23:12:05.616Z
-updated: 2025-01-20T16:24:32.530Z
+date: 2025-01-24T17:58:12.829Z
+updated: 2025-01-27T04:32:32.121Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,24 +93,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-dealing-with-copyright-infringement-notices-on-youtube/"><u>[New] In 2024, Dealing with Copyright Infringement Notices on YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-expert-advice-on-quick-and-clean-ppt-captures/"><u>[New] In 2024, Expert Advice on Quick and Clean PPT Captures</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-masterful-archive-of-twitter-animations-at-your-fingertips/"><u>[New] In 2024, Masterful Archive of Twitter Animations at Your Fingertips</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-streamlined-upload-procedures-for-media-center-videos-to-vimeo/"><u>[Updated] In 2024, Streamlined Upload Procedures for Media Center Videos to Vimeo</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-snippets-overview-explained/"><u>2024 Approved YouTube Snippets Overview Explained</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/access-denied-learn-how-to-unlock-your-computers-boot-disk-containing-windows/"><u>Access Denied? Learn How to Unlock Your Computer's Boot Disk Containing Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-watch-showdown-series-10-versus-series-8-which-one-wins-your-heart-and-wallet/"><u>Apple Watch Showdown: Series 10 versus Series 8 – Which One Wins Your Heart (and Wallet)?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/comment-reinitialiser-correctement-le-bios-de-windows-11-pour-une-demarche-en-douceur/"><u>Comment Réinitialiser Correctement Le BIOS De Windows 11 Pour Une Démarche en Douceur</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/easy-steps-to-transfer-your-gmail-messages-into-a-pstzip-archive/"><u>Easy Steps to Transfer Your Gmail Messages Into a PST/ZIP Archive</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/going-against-gravity-innovative-ways-to-rewind-youtube-content-for-2024/"><u>Going Against Gravity Innovative Ways to Rewind YouTube Content for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guia-paso-a-paso-para-iniciar-sesion-con-aomei-backupper-instrucciones-faciles/"><u>Guía Paso a Paso Para Iniciar Sesión Con AOMEI Backupper: Instrucciones Fáciles</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-digital-age-with-major-platforms-insights-into-facebook-twitter-instagram-and-youtube/"><u>Mastering the Digital Age with Major Platforms: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/problematische-icloud-kontaktsynchronisation-hier-sind-8-moglichkeiten-das-zu-beheben/"><u>Problematische iCloud-Kontaktsynchronisation – Hier Sind 8 Möglichkeiten, Das Zu Beheben!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/schritt-fur-schritt-guide-erfolgreiches-datenwiederherstellungsverfahren-fur-iphones/"><u>Schritt-Für-Schritt-Guide: Erfolgreiches Datenwiederherstellungsverfahren Für iPhones</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/seamless-file-sharing-swiftly-moving-data-between-your-ipad-and-pc-8-simple-methods/"><u>Seamless File Sharing: Swiftly Moving Data Between Your iPad and PC (8 Simple Methods)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-converting-webp-to-jpeg-for-2024/"><u>Step-by-Step Converting WebP to JPEG for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-here-you-will-find-10-best-free-animation-software-for-windows-and-mac-if-you-want-to-know-what-they-are-the-pros-and-cons-check-it-out/"><u>Updated In 2024, Here, You Will Find 10 Best Free Animation Software for Windows and Mac. If You Want to Know What They Are, the Pros and Cons, Check It Out</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1728505470508-samsung-t5-ssd/"><u>スマートなデータ保護: Samsung T5 SSDによる効果的な自動バックアップの方法解説</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1728486548551-pc/"><u>ワイルドな接続環境下で複数台PCを安全にバックアップする手順</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-paving-the-way-for-youtube-wealth-reaching-a-threshold-of-500-subs/"><u>[New] 2024 Approved Paving the Way for YouTube Wealth Reaching a Threshold of 500 Subs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-5-ways-to-record-streaming-audio-online-for-2024/"><u>[New] 5 Ways to Record Streaming Audio Online for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-nextgen-hexacopters-the-definitive-ten/"><u>[New] In 2024, NextGen Hexacopters The Definitive Ten</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earnings-escalation-via-youtube-channel-initiatives/"><u>[Updated] 2024 Approved Earnings Escalation via YouTube Channel Initiatives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-infographic-8-ways-to-make-money-on-youtube-for-beginners-for-2024/"><u>[Updated] Infographic - 8 Ways to Make Money on YouTube for Beginners for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728502780101-onedrive/"><u>「本地文件夹和云端的完美对口: OneDrive上传两种途径指南」</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/4-vathhaya-ma-youtube-para-khae-gaii-fail-thaharae/"><u>4 विधियों में: Youtube पर खोए गई फाइलें दोहराएं</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comment-retrouver-des-fichiers-svg-effaces-un-guide-complete-et-facile-dutilisation/"><u>Comment Retrouver Des Fichiers SVG Effacés : Un Guide Complète Et Facile D'Utilisation</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/dynamic-disk-cloner-de-windows-7-copie-rapide-et-efficace-vers-un-disque-dur-ou-ssd/"><u>Dynamic Disk Cloner De Windows 7 : Copie Rapide Et Efficace Vers Un Disque Dur Ou SSD</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guida-rapida-al-trasferimento-di-file-nelle-diverse-versioni-di-windows-dalla-modalita-provvisoria/"><u>Guida Rapida Al Trasferimento Di File Nelle Diverse Versioni Di Windows, Dalla Modalità Provvisoria</u></a></li>
+<li><a href="https://fox-access.techidaily.com/hidden-horizons-in-hand-drawn-harmony/"><u>Hidden Horizons in Hand-Drawn Harmony</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-il-processo-critico-e-morto-problem-in-windows-11-is-solved-learn-with-these-7-methods/"><u>How 'IL PROCESSO CRITICO È MORTO' Problem in Windows 11 Is Solved - Learn with These 7 Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-from-snapchat-to-social-upload-videos-on-twit/"><u>In 2024, From Snapchat to Social Upload Videos on Twit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/oculus-quest-amera-top-tips-for-buying-games-in-the-meta-universe/"><u>Oculus Quest Amera: Top Tips for Buying Games in the Meta Universe</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-restoring-accidentally-erased-audio-from-digital-voice-recorders-and-smartphone-applications/"><u>Step-by-Step Guide: Restoring Accidentally Erased Audio From Digital Voice Recorders and Smartphone Applications</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-building-your-own-windows-7-recovery-drive/"><u>Step-by-Step Tutorial: Building Your Own Windows 7 Recovery Drive</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-rated-no-cost-windows-pc-data-backup-programs-compatible-with-os-versions-7-through-11/"><u>Top Rated No-Cost Windows PC Data Backup Programs Compatible with OS Versions 7 Through 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-100-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor 100 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-powerdirector-pro-tip-how-to-achieve-consistent-color-across-clips/"><u>Updated 2024 Approved PowerDirector Pro Tip How to Achieve Consistent Color Across Clips</u></a></li>
 </ul></div>
 

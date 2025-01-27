@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Mixes: Expert Hacks for PCDJ DEX 2 by Plni-Combined Digital Jockey Software"
-date: 2025-01-16T20:30:59.357Z
-updated: 2025-01-20T16:09:53.346Z
+date: 2025-01-26T03:37:38.140Z
+updated: 2025-01-26T20:50:21.585Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ If you uncheck "Allow Automix on any list" under the general tab in options DEX 
 **This concludes this week's "[DJ Software](https://tools.techidaily.com/pcdj/products/) Tips and Tricks" DEX 2 edition. I hope to make these posts at least twice a month. If you have any questions regarding any of these features please post in the comments below! We're also looking for blog contributors – with some benefits. If you're interested please email me at submit@pcdj.com** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,16 +56,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/03/dex2-djtipsandtricks1.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-swiftclick-retrorecall-video-for-2024/"><u>[Updated] SwiftClick RetroRecall Video for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-academic-exploration-discover-how-ai-can-revolutionize-your-research-process/"><u>Enhance Academic Exploration: Discover How AI Can Revolutionize Your Research Process</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/ensuring-optimal-performance-a-guide-to-verifying-your-pcs-cooling-system-functionality/"><u>Ensuring Optimal Performance: A Guide to Verifying Your PC's Cooling System Functionality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-stuck-keys-on-apples-mobile-devices-the-top-6-remedies-for-iphone-and-ipad-owners/"><u>Fixing Stuck Keys on Apple's Mobile Devices: The Top 6 Remedies for iPhone and iPad Owners</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/hd-sea-themed-wallpapers-and-photographs-high-quality-oceanic-visuals-by-yl-computing/"><u>HD Sea-Themed Wallpapers & Photographs - High Quality Oceanic Visuals by YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-boost-your-pcs-performance-expert-tips-from-yl-computing/"><u>How to Boost Your PC's Performance: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/introducing-the-latest-release-enhanced-songbookdb-version-dedicated-to-digital-djs/"><u>Introducing the Latest Release: Enhanced SongbookDB Version, Dedicated to Digital DJs!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reviving-sound-diy-fixes-for-a-non-responsive-audio-unit/"><u>Reviving Sound: DIY Fixes for a Non-Responsive Audio Unit</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-intermittent-sound-issues-in-windows-11-a-complete-guide/"><u>Troubleshooting Intermittent Sound Issues in Windows 11 - A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-ps4-sounds-too-loud-solutions-inside/"><u>Troubleshooting Your PS4 Sounds Too Loud - Solutions Inside</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-apples-latest-innovation-a-comprehensive-review-of-the-macbook-air-with-m1-chip-202n/"><u>Unveiling the Power of Apple's Latest Innovation: A Comprehensive Review of the MacBook Air with M1 Chip (202N)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-avoiding-storage-woes-removing-youtube-media-for-2024/"><u>[New] Avoiding Storage Woes Removing YouTube Media for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-iptv-transmission-across-devices/"><u>[New] IPTV Transmission Across Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-steps-to-ensure-whole-sound-in-fb-video-playbacks-for-2024/"><u>[New] Steps to Ensure Whole Sound in FB Video Playbacks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foremost-12-gps-enabled-cctv-cameras-for-motion-recording/"><u>[Updated] Foremost 12 GPS-Enabled CCTV Cameras for Motion Recording</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-clear-clutter-top-strategies-for-expanding-your-pcs-storage-guidance-from-yl-computing-experts/"><u>1. Clear Clutter: Top Strategies for Expanding Your PC's Storage - Guidance From YL Computing Experts</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-schnell-erfahren-transferieren-sie-ihre-google-photos-nahtlos-zu-icloud/"><u>1. Schnell Erfahren: Transferieren Sie Ihre Google Photos Nahtlos Zu iCloud</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-journey-to-the-heart-of-windows-11s-newest-gems/"><u>2024 Approved Journey to the Heart of Windows 11'S Newest Gems</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effortless-guide-to-uploading-iphone-sms-to-gmail/"><u>Effortless Guide to Uploading iPhone SMS to Gmail</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/free-system-security-backup-utility-compatible-with-various-windows-versions-including-win-10-8-7-vista-and-xp/"><u>Free System Security Backup Utility Compatible with Various Windows Versions Including Win 10, 8, 7, Vista & XP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-redmi-k70-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi Redmi K70 Pro Face Lock?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-p40-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Itel P40 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/hddos-samsung-870-evo/"><u>HDD、OSを効率よくコピーする: Samsung 870 EVOクローン用に設計された最高のツール</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y28-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y28 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/optimieren-sie-ihre-festplattenkapazitat-in-windows-11-schnell-und-einfach-geloscht-das-windowsold-verzeichnis-4-wege-erklart/"><u>Optimieren Sie Ihre Festplattenkapazität in Windows 11: Schnell Und Einfach Gelöscht Das 'Windows.old'-Verzeichnis (4 Wege Erklärt)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sprachfluss-alternative-deutschen-grussformeln-ohne-hallo/"><u>Sprachfluss: Alternative Deutschen Grußformeln Ohne 'Hallo'</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-handling-installations-via-control-panel-tech-tips-by-yl-computing/"><u>Step-by-Step Guide to Handling Installations via Control Panel - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-setting-up-microsoft-sql-server-replication/"><u>Step-by-Step Guide: Setting up Microsoft SQL Server Replication</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/updating-your-sound-card-drivers-made-simple-a-step-by-step-guide-yl-tech-solutions/"><u>Updating Your Sound Card Drivers Made Simple: A Step-by-Step Guide - YL Tech Solutions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/windows-server-backup-2012-issue-why-are-my-backups-not-displaying/"><u>Windows Server Backup 2012 Issue: Why Are My Backups Not Displaying?</u></a></li>
 </ul></div>
 

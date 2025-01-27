@@ -1,7 +1,7 @@
 ---
 title: "What's Next: Key Enhancements in Pioneer Club DEX Version 3.8"
-date: 2025-01-10T21:21:07.776Z
-updated: 2025-01-14T20:49:49.308Z
+date: 2025-01-23T22:44:03.232Z
+updated: 2025-01-26T16:43:18.655Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ As always, we’ll email [DEX 3](https://tools.techidaily.com/pcdj/products/) cu
 _Have questions about our **DJ and video mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,22 +67,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/11/dex38teaser-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-choreographed-ice-winter-olympics-highlights/"><u>[New] Choreographed Ice Winter Olympics Highlights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-primer-to-perfect-hdr-cameras-the-definitive-list/"><u>[Updated] A Primer to Perfect HDR Cameras The Definitive List</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-designcut-pro-for-2024/"><u>[Updated] DesignCut Pro for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1728492466484-windows/"><u>「无需打开Windows，如何复制文件：分步指南」</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/aomei-backupper-anleitung-zur-herstellung-einer-boot-festplatte-unter-verwendung-von-windows-preinstallation-environment-winpe-oder-linux/"><u>AOMEI Backupper: Anleitung Zur Herstellung Einer Boot-Festplatte Unter Verwendung Von Windows Preinstallation Environment (WinPE) Oder Linux</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/enhance-connection-top-tips-to-craft-compelling-facebook-profiles-for-2024/"><u>Enhance Connection Top Tips to Craft Compelling Facebook Profiles for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/herstellung-eines-bootable-usb-sticks-in-windows-7810-komplette-anleitung/"><u>Herstellung Eines Bootable USB-Sticks in Windows 7/8/10 - Komplette Anleitung</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-choose-and-sync-selected-folders-in-your-google-drive-with-ease-a-guide-to-three-strategies/"><u>How to Choose and Sync Selected Folders in Your Google Drive with Ease: A Guide to Three Strategies</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-engage-enchant-excel-the-quintessential-5-strategies-for-youtube-marketing/"><u>In 2024, Engage, Enchant, Excel The Quintessential 5 Strategies for YouTube Marketing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/quick-fixes-reviving-your-windows-server-201/"><u>Quick Fixes: Reviving Your Windows Server 201</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/recontruir-archivos-borrados-por-error-de-la-papelera-de-reciclaje-en-windows-11/"><u>Recontruir Archivos Borrados Por Error De La Papelera De Reciclaje en Windows 11</u></a></li>
-<li><a href="https://solve-info.techidaily.com/recuperacion-eficaz-de-datos-borrados-por-error-tres-formas-de-rescatar-sus-notas-de-icloud/"><u>Recuperación Eficaz De Datos Borrados Por Error: Tres Formas De Rescatar Sus Notas De iCloud</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/simple-methods-to-restore-lost-data-from-a-lexar-memory-card/"><u>Simple Methods to Restore Lost Data From a Lexar Memory Card</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-correct-realtek-rtl8723be-driver-malfunctions/"><u>Step-by-Step Guide to Correct Realtek RTL8723BE Driver Malfunctions</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-moving-images-from-your-iphone-5-5s-or-5c-to-pc-easily/"><u>Step-by-Step Guide: Moving Images From Your iPhone 5, 5S or 5C to PC Easily</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-12-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi 12 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-secrets-of-the-ultimate-mac-security-comprehensive-vpn-testing-and-expert-opinions-zdnet/"><u>Unlock the Secrets of the Ultimate Mac Security: Comprehensive VPN Testing & Expert Opinions | ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-supreme-10-royale-face-offs-for-2024/"><u>[Updated] Supreme 10 Royale Face-Offs for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728504032100-windows/"><u>迷惘解開：瀏覽器無法發現下載的Windows電腦檔案失蹤原因</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/adjusting-runtime-conditions-comprehensive-controls-dialogue-box-guide/"><u>Adjusting Runtime Conditions: Comprehensive Controls Dialogue Box Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/advanced-techniques-for-selecting-keys-with-a-pick-a-key-dialog-in-applications/"><u>Advanced Techniques for Selecting Keys with a Pick-a-Key Dialog in Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-cure-google-chromes-persistent-black-display-problem/"><u>Comprehensive Solutions to Cure Google Chrome's Persistent Black Display Problem</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effortlessly-remove-watermarks-a-comprehensive-tutorial-for-editing-pdf-files/"><u>Effortlessly Remove Watermarks: A Comprehensive Tutorial for Editing PDF Files</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-connecting-your-ipad-to-an-lg-television/"><u>Guide: Connecting Your iPad to an LG Television</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ideal-tools-and-websites-for-transforming-your-digital-signatures-canvas-to-a-crisp-clean-white-hue/"><u>Ideal Tools & Websites for Transforming Your Digital Signature's Canvas to a Crisp, Clean White Hue</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/mastering-photo-background-removal-with-these-4-powerful-methods/"><u>Mastering Photo Background Removal with These 4 Powerful Methods</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/recollection-runway-your-easy-path-to-story-archives/"><u>Recollection Runway Your Easy Path to Story Archives</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-motorola-edge-40-neo-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Motorola Edge 40 Neo has been deleted.</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/simple-strategies-for-setting-up-auto-run-applications-on-your-computer/"><u>Simple Strategies for Setting Up Auto-Run Applications on Your Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-alert-accelerator-unavailable/"><u>System Alert: Accelerator Unavailable</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-use-of-windows-tools-in-linux/"><u>Transformative Use of Windows Tools in Linux</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-bf4-bug-with-error-27711-in-bocw-ui/"><u>Troubleshooting Guide: Fixing the BF4 Bug with Error #27711 in BOCW UI</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-guide-how-to-seamlessly-delete-text-from-pictures-on-any-device-as-of-2023/"><u>Ultimate Guide: How to Seamlessly Delete Text From Pictures on Any Device as of 2023</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-aspnet-configuration-best-practices-and-tips/"><u>Understanding ASP.NET Configuration: Best Practices and Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vrije-movavi-service-efficient-converteer-m4r-filetes-naar-aiff-audio-online/"><u>Vrije Movavi Service: Efficiënt Converteer M4R Filetes Naar AIFF Audio - Online!</u></a></li>
 </ul></div>
 
