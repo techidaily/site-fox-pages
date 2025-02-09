@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Mixes: Expert Hacks for PCDJ DEX 2 by Plni-Combined Digital Jockey Software"
-date: 2025-01-26T03:37:38.140Z
-updated: 2025-01-26T20:50:21.585Z
+date: 2025-02-06T22:51:39.317Z
+updated: 2025-02-08T16:14:08.208Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ If you uncheck "Allow Automix on any list" under the general tab in options DEX 
 **This concludes this week's "[DJ Software](https://tools.techidaily.com/pcdj/products/) Tips and Tricks" DEX 2 edition. I hope to make these posts at least twice a month. If you have any questions regarding any of these features please post in the comments below! We're also looking for blog contributors – with some benefits. If you're interested please email me at submit@pcdj.com** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,24 +56,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/03/dex2-djtipsandtricks1.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-avoiding-storage-woes-removing-youtube-media-for-2024/"><u>[New] Avoiding Storage Woes Removing YouTube Media for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-iptv-transmission-across-devices/"><u>[New] IPTV Transmission Across Devices</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-steps-to-ensure-whole-sound-in-fb-video-playbacks-for-2024/"><u>[New] Steps to Ensure Whole Sound in FB Video Playbacks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-foremost-12-gps-enabled-cctv-cameras-for-motion-recording/"><u>[Updated] Foremost 12 GPS-Enabled CCTV Cameras for Motion Recording</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-clear-clutter-top-strategies-for-expanding-your-pcs-storage-guidance-from-yl-computing-experts/"><u>1. Clear Clutter: Top Strategies for Expanding Your PC's Storage - Guidance From YL Computing Experts</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-schnell-erfahren-transferieren-sie-ihre-google-photos-nahtlos-zu-icloud/"><u>1. Schnell Erfahren: Transferieren Sie Ihre Google Photos Nahtlos Zu iCloud</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-journey-to-the-heart-of-windows-11s-newest-gems/"><u>2024 Approved Journey to the Heart of Windows 11'S Newest Gems</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effortless-guide-to-uploading-iphone-sms-to-gmail/"><u>Effortless Guide to Uploading iPhone SMS to Gmail</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/free-system-security-backup-utility-compatible-with-various-windows-versions-including-win-10-8-7-vista-and-xp/"><u>Free System Security Backup Utility Compatible with Various Windows Versions Including Win 10, 8, 7, Vista & XP</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-redmi-k70-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi Redmi K70 Pro Face Lock?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-p40-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Itel P40 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/hddos-samsung-870-evo/"><u>HDD、OSを効率よくコピーする: Samsung 870 EVOクローン用に設計された最高のツール</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y28-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y28 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/optimieren-sie-ihre-festplattenkapazitat-in-windows-11-schnell-und-einfach-geloscht-das-windowsold-verzeichnis-4-wege-erklart/"><u>Optimieren Sie Ihre Festplattenkapazität in Windows 11: Schnell Und Einfach Gelöscht Das 'Windows.old'-Verzeichnis (4 Wege Erklärt)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/sprachfluss-alternative-deutschen-grussformeln-ohne-hallo/"><u>Sprachfluss: Alternative Deutschen Grußformeln Ohne 'Hallo'</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-to-handling-installations-via-control-panel-tech-tips-by-yl-computing/"><u>Step-by-Step Guide to Handling Installations via Control Panel - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-setting-up-microsoft-sql-server-replication/"><u>Step-by-Step Guide: Setting up Microsoft SQL Server Replication</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/updating-your-sound-card-drivers-made-simple-a-step-by-step-guide-yl-tech-solutions/"><u>Updating Your Sound Card Drivers Made Simple: A Step-by-Step Guide - YL Tech Solutions</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/windows-server-backup-2012-issue-why-are-my-backups-not-displaying/"><u>Windows Server Backup 2012 Issue: Why Are My Backups Not Displaying?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-reset-the-scene-fixing-your-facebook/"><u>[New] In 2024, Reset the Scene Fixing Your Facebook</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-interplay-of-html-css-and-javascript-in-modern-web-pages/"><u>[Updated] 2024 Approved The Interplay of HTML, CSS, and JavaScript in Modern Web Pages</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-guide-transform-your-spotify-music-library-into-mp3-files-using-a-top-ranking-converter/"><u>Easy Guide: Transform Your Spotify Music Library Into MP3 Files Using a Top-Ranking Converter</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-strategies-disabling-chrome-alerts-and-preventing-intrusive-advertisements/"><u>Effective Strategies: Disabling Chrome Alerts & Preventing Intrusive Advertisements</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-extended-prime-day-tablet-bargains-for-savvy-shoppers-zdnets-guide/"><u>Exclusive: Extended Prime Day Tablet Bargains for Savvy Shoppers | ZDNet's Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-successfully-transfer-high-size-documents-using-whatsapp/"><u>How to Successfully Transfer High-Size Documents Using WhatsApp</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-compare-and-contrast-the-creme-de-la-creme-of-free-edits/"><u>In 2024, Compare and Contrast The Crème De La Crème of Free Edits</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/is-browserbrokerexe-a-threat-a-comprehensive-guide-to-its-security-implications/"><u>Is Browser_broker.exe a Threat? A Comprehensive Guide to Its Security Implications</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/methods-to-capture-audio-from-your-jango-device-and-convert-to-mp3-format/"><u>Methods to Capture Audio From Your Jango Device & Convert to MP3 Format</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-lg-channel-functionality-and-importance/"><u>The Complete Guide to LG Channel Functionality and Importance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-correcting-errors-in-your-itunes-sound-settings/"><u>Troubleshooting: Correcting Errors in Your iTunes Sound Settings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ubuntu-guide-easy-steps-to-download-and-configure-autogpt/"><u>Ubuntu Guide: Easy Steps to Download & Configure Autogpt</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/update-verification-file-detection-methods/"><u>Update Verification File Detection Methods</u></a></li>
 </ul></div>
 

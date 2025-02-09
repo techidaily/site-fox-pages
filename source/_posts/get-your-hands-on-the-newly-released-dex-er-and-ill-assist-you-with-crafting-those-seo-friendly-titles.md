@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released DEX Er, and I'll Assist You with Crafting Those SEO-Friendly Titles!
-date: 2025-01-24T17:58:12.829Z
-updated: 2025-01-27T04:32:32.121Z
+date: 2025-02-02T18:36:56.228Z
+updated: 2025-02-08T20:24:14.834Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,24 +93,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-paving-the-way-for-youtube-wealth-reaching-a-threshold-of-500-subs/"><u>[New] 2024 Approved Paving the Way for YouTube Wealth Reaching a Threshold of 500 Subs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-5-ways-to-record-streaming-audio-online-for-2024/"><u>[New] 5 Ways to Record Streaming Audio Online for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-nextgen-hexacopters-the-definitive-ten/"><u>[New] In 2024, NextGen Hexacopters The Definitive Ten</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earnings-escalation-via-youtube-channel-initiatives/"><u>[Updated] 2024 Approved Earnings Escalation via YouTube Channel Initiatives</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-infographic-8-ways-to-make-money-on-youtube-for-beginners-for-2024/"><u>[Updated] Infographic - 8 Ways to Make Money on YouTube for Beginners for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1728502780101-onedrive/"><u>「本地文件夹和云端的完美对口: OneDrive上传两种途径指南」</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/4-vathhaya-ma-youtube-para-khae-gaii-fail-thaharae/"><u>4 विधियों में: Youtube पर खोए गई फाइलें दोहराएं</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/comment-retrouver-des-fichiers-svg-effaces-un-guide-complete-et-facile-dutilisation/"><u>Comment Retrouver Des Fichiers SVG Effacés : Un Guide Complète Et Facile D'Utilisation</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/dynamic-disk-cloner-de-windows-7-copie-rapide-et-efficace-vers-un-disque-dur-ou-ssd/"><u>Dynamic Disk Cloner De Windows 7 : Copie Rapide Et Efficace Vers Un Disque Dur Ou SSD</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guida-rapida-al-trasferimento-di-file-nelle-diverse-versioni-di-windows-dalla-modalita-provvisoria/"><u>Guida Rapida Al Trasferimento Di File Nelle Diverse Versioni Di Windows, Dalla Modalità Provvisoria</u></a></li>
-<li><a href="https://fox-access.techidaily.com/hidden-horizons-in-hand-drawn-harmony/"><u>Hidden Horizons in Hand-Drawn Harmony</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-il-processo-critico-e-morto-problem-in-windows-11-is-solved-learn-with-these-7-methods/"><u>How 'IL PROCESSO CRITICO È MORTO' Problem in Windows 11 Is Solved - Learn with These 7 Methods</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-from-snapchat-to-social-upload-videos-on-twit/"><u>In 2024, From Snapchat to Social Upload Videos on Twit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/oculus-quest-amera-top-tips-for-buying-games-in-the-meta-universe/"><u>Oculus Quest Amera: Top Tips for Buying Games in the Meta Universe</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-restoring-accidentally-erased-audio-from-digital-voice-recorders-and-smartphone-applications/"><u>Step-by-Step Guide: Restoring Accidentally Erased Audio From Digital Voice Recorders and Smartphone Applications</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-building-your-own-windows-7-recovery-drive/"><u>Step-by-Step Tutorial: Building Your Own Windows 7 Recovery Drive</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-rated-no-cost-windows-pc-data-backup-programs-compatible-with-os-versions-7-through-11/"><u>Top Rated No-Cost Windows PC Data Backup Programs Compatible with OS Versions 7 Through 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-100-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor 100 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-powerdirector-pro-tip-how-to-achieve-consistent-color-across-clips/"><u>Updated 2024 Approved PowerDirector Pro Tip How to Achieve Consistent Color Across Clips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-talk-to-technology-without-spending-money/"><u>[Updated] 2024 Approved Talk to Technology Without Spending Money</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-path-to-precision-audio-starting-with-an-adobe-auditions-fade-in/"><u>[Updated] The Path to Precision Audio Starting with an Adobe Audition's Fade In</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-restoration-a-comprehensive-guide-bypassing-itunes/"><u>DIY iPhone Restoration - A Comprehensive Guide Bypassing iTunes</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-tips-for-navigating-and-changing-computer-configuration-options-using-yl-tools/"><u>Easy Tips for Navigating and Changing Computer Configuration Options Using YL Tools</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/enabling-and-disabling-windows-security-guard-defender-with-ease-advice-by-yl-software-experts/"><u>Enabling and Disabling Windows Security Guard (Defender) with Ease - Advice by YL Software Experts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-spot-and-troubleshoot-video-card-issues-in-your-pc-with-tips-from-yl-software/"><u>How To Spot and Troubleshoot Video Card Issues in Your PC with Tips From YL Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-pixels-pro-tiktok-video-tricks-of-the-trade/"><u>In 2024, Perfect Pixels Pro TikTok Video Tricks of the Trade</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-v27-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo V27? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/navigating-the-digital-marketplace-expert-tips-from-yl-software-on-purchasing-and-swapping-virtual-tokens/"><u>Navigating the Digital Marketplace: Expert Tips From YL Software on Purchasing & Swapping Virtual Tokens</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-the-power-of-reverse-a-tiktok-video-editing-tutorial-for-2024/"><u>New Unleash the Power of Reverse A TikTok Video Editing Tutorial for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/prevention-tips-for-avoiding-computer-overheat-issues-expert-advice-from-yls-computing-and-software-experts/"><u>Prevention Tips for Avoiding Computer Overheat Issues - Expert Advice From YL's Computing & Software Experts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-your-channels-ad-revenue-accrual/"><u>Tracking Your Channel's Ad Revenue Accrual</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/troubleshooting-unrecognized-sound-cards-guide-for-device-manager-checks-by-yl-software-experts/"><u>Troubleshooting Unrecognized Sound Cards: Guide for Device Manager Checks by YL Software Experts</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/unveiling-the-origins-the-inception-of-the-great-leap-forward-and-its-ambitious-objectives/"><u>Unveiling the Origins: The Inception of the Great Leap Forward & Its Ambitious Objectives</u></a></li>
 </ul></div>
 

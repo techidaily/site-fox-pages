@@ -1,7 +1,7 @@
 ---
 title: UK's Top 200 DJ Mix of 2014 Unveiled by Renowned DJ Event Planner | Official Playlist
-date: 2025-01-22T21:05:30.167Z
-updated: 2025-01-26T18:59:46.466Z
+date: 2025-02-06T18:00:20.284Z
+updated: 2025-02-08T23:17:47.820Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,18 +59,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-essential-guide-to-starting-your-first-successful-youtubes-for-business/"><u>2024 Approved The Essential Guide to Starting Your First Successful YouTubes for Business</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/comprehensive-walkthrough-for-reviving-damaged-hard-disk-sectors/"><u>Comprehensive Walkthrough for Reviving Damaged Hard Disk Sectors</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1728493457286-excel/"><u>Excel怎樣輕鬆解決沒有保存的緊要求? - 完整教學動手操作</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/facile-synchronisation-des-disques-durs-avec-onedrive-de-microsoft-trois-strategies-efficaces-a-suivre/"><u>Facile Synchronisation Des Disques Durs Avec OneDrive De Microsoft : Trois Stratégies Efficaces À Suivre</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-system-up-to-date-latest-dolby-driver-software-for-win111081/"><u>Get Your System Up to Date: Latest Dolby Driver Software for Win11/10/8.1</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-elevate-your-gaming-experience-innovative-ways-to-record-vr-games/"><u>In 2024, Elevate Your Gaming Experience Innovative Ways to Record VR Games</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 12 mini</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/resolve-high-cpu-usage-on-windows-servers-a-comprehensive-guide-with-five-effective-strategies/"><u>Resolve High CPU Usage on Windows Servers: A Comprehensive Guide with Five Effective Strategies</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/say-goodbye-to-hiss-and-hum-mastering-noise-reduction-in-final-cut-pro-x-for-2024/"><u>Say Goodbye to Hiss and Hum Mastering Noise Reduction in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/two-methods-for-transferring-windows-server-snapshots-to-vms/"><u>Two Methods for Transferring Windows Server Snapshots to VMs</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/two-methods-to-access-hp-recovery-mode-on-your-laptop/"><u>Two Methods to Access HP Recovery Mode on Your Laptop</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-vivo-v30-lite-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo V30 Lite 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/virtual-reality-vistas-exploring-sci-fi-worlds-in-top-movies/"><u>Virtual Reality Vistas Exploring Sci-Fi Worlds in Top Movies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-beat-junkies-essentials-online-cost-free-software/"><u>[Updated] Beat Junkies' Essentials Online, Cost-Free Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-streamlined-templates-the-essential-ae-text-list/"><u>[Updated] Streamlined Templates The Essential AE Text List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/199-amazon-labor-day-deal-grab-your-new-ipad-now/"><u>$199 Amazon Labor Day Deal: Grab Your New iPad Now!</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-mastering-flipbook-changing-hyperlink-colors-on-hover-using-flipbuilder/"><u>1) Mastering FlipBook: Changing Hyperlink Colors on Hover Using FlipBuilder</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577717302-embrace-the-worlds-diversity-learn-for-just-a-small-price-increase/"><u>Embrace the World's Diversity - Learn for Just a Small Price Increase</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-how-to-add-captions-to-instagram-videos/"><u>In 2024, How to Add Captions to Instagram Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rapid-rendering-of-fortnite-icons/"><u>In 2024, Rapid Rendering of Fortnite Icons</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-tool-transform-your-3gp3g2-videos-into-mp4-file-type-for-free-with-movavi-video-editor/"><u>Online Tool: Transform Your 3GP/3G2 Videos Into MP4 File Type for Free with Movavi Video Editor</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/professional-nextjs-dashboard-pro-with-enhanced-features-integrated-nextjs-advanced-react-and-bootstrap-4-components-reactstrap-admin-panel/"><u>Professional NextJS Dashboard Pro with Enhanced Features: Integrated NextJS, Advanced React & Bootstrap 4 Components, Reactstrap Admin Panel</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/professional-ui-dashboard-toolkit-for-react-developers-premium-bootstrap-integration-admin-template-suite-from-creative-tim/"><u>Professional UI Dashboard Toolkit for React Developers: Premium Bootstrap Integration, Admin Template Suite From Creative Tim</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/start-building-today-the-revolutionary-no-cost-paper-bootstrap-wizard-from-creative-tim/"><u>Start Building Today: The Revolutionary, No-Cost Paper Bootstrap Wizard From Creative Tim</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-shopify-designs-and-template-packages-by-creative-tim-1-selection/"><u>Top Shopify Designs and Template Packages by Creative Tim - 1 Selection</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/unleash-your-creativity-using-creative-tims-premium-setup-nextjs-integrated-with-material-ui-design-kit-at-zero-cost/"><u>Unleash Your Creativity Using Creative Tim's Premium Setup: NextJS Integrated with Material-UI Design Kit at Zero Cost!</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/unlock-unlimited-potential-with-bootstrap-5-plus-material-design-assets-from-creative-tim-get-yours-for-free-today/"><u>Unlock Unlimited Potential with Bootstrap 5 + Material Design Assets From Creative Tim - Get Yours for Free Today!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728466269610-windows-10/"><u>Windows 10 啟動複製的設置教程</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-guide-sending-and-receiving-imessage-texts-like-a-pro-tips-from-zdnet/"><u>Windows Guide: Sending & Receiving iMessage Texts Like a Pro - Tips From ZDNet</u></a></li>
 </ul></div>
 
