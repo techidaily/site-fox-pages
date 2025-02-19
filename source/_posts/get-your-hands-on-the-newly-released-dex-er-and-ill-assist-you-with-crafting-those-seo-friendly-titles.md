@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released DEX Er, and I'll Assist You with Crafting Those SEO-Friendly Titles!
-date: 2025-02-02T18:36:56.228Z
-updated: 2025-02-08T20:24:14.834Z
+date: 2025-02-13T18:09:21.156Z
+updated: 2025-02-18T17:21:46.004Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,20 +93,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-talk-to-technology-without-spending-money/"><u>[Updated] 2024 Approved Talk to Technology Without Spending Money</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-path-to-precision-audio-starting-with-an-adobe-auditions-fade-in/"><u>[Updated] The Path to Precision Audio Starting with an Adobe Audition's Fade In</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-iphone-restoration-a-comprehensive-guide-bypassing-itunes/"><u>DIY iPhone Restoration - A Comprehensive Guide Bypassing iTunes</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/easy-tips-for-navigating-and-changing-computer-configuration-options-using-yl-tools/"><u>Easy Tips for Navigating and Changing Computer Configuration Options Using YL Tools</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/enabling-and-disabling-windows-security-guard-defender-with-ease-advice-by-yl-software-experts/"><u>Enabling and Disabling Windows Security Guard (Defender) with Ease - Advice by YL Software Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-spot-and-troubleshoot-video-card-issues-in-your-pc-with-tips-from-yl-software/"><u>How To Spot and Troubleshoot Video Card Issues in Your PC with Tips From YL Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-pixels-pro-tiktok-video-tricks-of-the-trade/"><u>In 2024, Perfect Pixels Pro TikTok Video Tricks of the Trade</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-v27-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo V27? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/navigating-the-digital-marketplace-expert-tips-from-yl-software-on-purchasing-and-swapping-virtual-tokens/"><u>Navigating the Digital Marketplace: Expert Tips From YL Software on Purchasing & Swapping Virtual Tokens</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unleash-the-power-of-reverse-a-tiktok-video-editing-tutorial-for-2024/"><u>New Unleash the Power of Reverse A TikTok Video Editing Tutorial for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/prevention-tips-for-avoiding-computer-overheat-issues-expert-advice-from-yls-computing-and-software-experts/"><u>Prevention Tips for Avoiding Computer Overheat Issues - Expert Advice From YL's Computing & Software Experts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-your-channels-ad-revenue-accrual/"><u>Tracking Your Channel's Ad Revenue Accrual</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-unrecognized-sound-cards-guide-for-device-manager-checks-by-yl-software-experts/"><u>Troubleshooting Unrecognized Sound Cards: Guide for Device Manager Checks by YL Software Experts</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/unveiling-the-origins-the-inception-of-the-great-leap-forward-and-its-ambitious-objectives/"><u>Unveiling the Origins: The Inception of the Great Leap Forward & Its Ambitious Objectives</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/3x-5y-4/"><u> [-3X - 5Y = -4 </u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-maximizing-videography-with-youtubes-creative-commons/"><u>[New] 2024 Approved Maximizing Videography with YouTube's Creative Commons</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-8-popular-oculus-rift-games/"><u>[New] In 2024, 8 Popular Oculus Rift Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-capture-the-world-from-your-mobile-height/"><u>2024 Approved Capture the World From Your Mobile Height</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/android-and-iphones-leading-facelift-technology-for-2024/"><u>Android & iPhone's Leading Facelift Technology for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-solutions-for-managing-oversized-data-for-recycling/"><u>Effective Solutions for Managing Oversized Data for Recycling</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/installare-e-usare-aomei-backupper-come-app-su-android-o-ios/"><u>Installare E Usare AOMEI Backupper Come App Su Android O iOS</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/installation-von-windows-11-auf-einem-neuen-computer-schritt-fur-schritt-anleitung/"><u>Installation Von Windows 11 Auf Einem Neuen Computer: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/protect-your-files-on-a-budget-get-microsoft-server-2e08s-complimentary-backup-tool/"><u>Protect Your Files on a Budget: Get Microsoft Server 2E08's Complimentary Backup Tool</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/resolving-issues-with-missing-shared-folders-on-onedrive-via-windows-explorer/"><u>Resolving Issues with Missing Shared Folders on OneDrive via Windows Explorer</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/supercharge-your-fcpx-experience-10-free-plugins-you-wont-want-to-miss/"><u>Supercharge Your FCPX Experience 10 Free Plugins You Wont Want to Miss</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-installation-error-code-1900101-in-win10/"><u>Tackling Installation Error Code 1900101 in Win10</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/usbos/"><u>USBメモリからOS再インストール後のデータ復旧手順</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-one-reviving-your-hdmi-cable-connected-headset/"><u>Xbox One: Reviving Your HDMI-Cable Connected Headset</u></a></li>
 </ul></div>
 

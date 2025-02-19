@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Mixes: Expert Hacks for PCDJ DEX 2 by Plni-Combined Digital Jockey Software"
-date: 2025-02-06T22:51:39.317Z
-updated: 2025-02-08T16:14:08.208Z
+date: 2025-02-16T01:30:36.255Z
+updated: 2025-02-18T17:08:14.035Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ If you uncheck "Allow Automix on any list" under the general tab in options DEX 
 **This concludes this week's "[DJ Software](https://tools.techidaily.com/pcdj/products/) Tips and Tricks" DEX 2 edition. I hope to make these posts at least twice a month. If you have any questions regarding any of these features please post in the comments below! We're also looking for blog contributors – with some benefits. If you're interested please email me at submit@pcdj.com** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,18 +56,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/03/dex2-djtipsandtricks1.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-reset-the-scene-fixing-your-facebook/"><u>[New] In 2024, Reset the Scene Fixing Your Facebook</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-interplay-of-html-css-and-javascript-in-modern-web-pages/"><u>[Updated] 2024 Approved The Interplay of HTML, CSS, and JavaScript in Modern Web Pages</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/easy-guide-transform-your-spotify-music-library-into-mp3-files-using-a-top-ranking-converter/"><u>Easy Guide: Transform Your Spotify Music Library Into MP3 Files Using a Top-Ranking Converter</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effective-strategies-disabling-chrome-alerts-and-preventing-intrusive-advertisements/"><u>Effective Strategies: Disabling Chrome Alerts & Preventing Intrusive Advertisements</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-extended-prime-day-tablet-bargains-for-savvy-shoppers-zdnets-guide/"><u>Exclusive: Extended Prime Day Tablet Bargains for Savvy Shoppers | ZDNet's Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-successfully-transfer-high-size-documents-using-whatsapp/"><u>How to Successfully Transfer High-Size Documents Using WhatsApp</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-compare-and-contrast-the-creme-de-la-creme-of-free-edits/"><u>In 2024, Compare and Contrast The Crème De La Crème of Free Edits</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-browserbrokerexe-a-threat-a-comprehensive-guide-to-its-security-implications/"><u>Is Browser_broker.exe a Threat? A Comprehensive Guide to Its Security Implications</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/methods-to-capture-audio-from-your-jango-device-and-convert-to-mp3-format/"><u>Methods to Capture Audio From Your Jango Device & Convert to MP3 Format</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-lg-channel-functionality-and-importance/"><u>The Complete Guide to LG Channel Functionality and Importance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-correcting-errors-in-your-itunes-sound-settings/"><u>Troubleshooting: Correcting Errors in Your iTunes Sound Settings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ubuntu-guide-easy-steps-to-download-and-configure-autogpt/"><u>Ubuntu Guide: Easy Steps to Download & Configure Autogpt</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/update-verification-file-detection-methods/"><u>Update Verification File Detection Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-detailed-insights-into-instagrams-video-time-policy-for-2024/"><u>[New] Detailed Insights Into Instagram’s Video Time Policy for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-conquering-green-hue-fixing-it-on-mac-for-video-editors/"><u>[Updated] 2024 Approved Conquering Green Hue Fixing It On Mac For Video Editors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-textual-transformations-discovering-the-best-video-effects/"><u>[Updated] 2024 Approved Textual Transformations - Discovering the Best Video Effects</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-budget-friendly-high-quality-ae-templates/"><u>[Updated] Best Budget-Friendly, High-Quality AE Templates</u></a></li>
+<li><a href="https://win-web.techidaily.com/connect-and-share-your-pcs-wi-fi-with-another-computer-using-yl-software-tips/"><u>Connect and Share Your PC's Wi-Fi with Another Computer Using YL Software Tips</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/creative-tims-elite-ui-dashboard-pro-a-comprehensive-pre-made-crud-interface-tailored-for-laravel-applications/"><u>Creative Tim's Elite UI Dashboard Pro: A Comprehensive, Pre-Made CRUD Interface Tailored for Laravel Applications</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/creative-tims-exclusive-premium-aspnet-themes-and-templates-enhance-your-web-design/"><u>Creative Tim's Exclusive Premium ASP.NET Themes and Templates - Enhance Your Web Design</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/creative-tims-premium-nuxt-black-admin-theme-with-bootstrap-cuarto-for-a-superior-web-experience-free-of-charge/"><u>Creative Tim's Premium Nuxt Black Admin Theme with Bootstrap Cuarto for a Superior Web Experience, Free of Charge!</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/creative-tims-softui-modern-laravel-dashboards-by-updivision/"><u>Creative Tim's SoftUI: Modern Laravel Dashboards by Updivision</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/creative-tims-ultimate-date-picker-a-premium-no-cost-bootstrap-calendar/"><u>Creative Tim's Ultimate Date Picker: A Premium, No-Cost Bootstrap Calendar</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/traverse-through-windows-11s-essence-its-central-registry/"><u>Traverse Through Windows 11’S Essence: Its Central Registry</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-your-samsung-galaxy-top-6-motion-and-gesture-commands-every-user-needs/"><u>Unleash Your Samsung Galaxy: Top 6 Motion and Gesture Commands Every User Needs</u></a></li>
 </ul></div>
 
